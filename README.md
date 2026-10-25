@@ -48,10 +48,11 @@ Apres un push : **Manage app → Reboot app**.
 ```bash
 python3 -m pipeline.gold.build
 cd dashboard && streamlit run app.py
-python3 reports/generate_pptx.py          # pip install python-pptx
+python3 reports/generate_pdf.py           # pip install -r reports/requirements-report.txt
+python3 reports/generate_pptx.py
 bash scripts/package_livrable.sh          # dist/livrable_dashboard.zip
 ```
 
-Voir `docs/strategie_badge_or.md` pour le pitch jury.
-
 Voir `docs/architecture.md` pour le detail des tables gold et des ecrans.
+
+Les rapports PDF/PPT et le zip livrable ne sont pas versionnes : les generer localement avant depot concours.

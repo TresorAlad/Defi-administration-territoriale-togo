@@ -1,15 +1,33 @@
+# Environnements Python
 .venv/
 venv/
+.Python
+*.egg-info/
+
+# Bytecode et caches
 __pycache__/
 *.py[cod]
-.Python
-.env
-.env.*
-dist/
-*.egg-info/
 .pytest_cache/
 .mypy_cache/
 .ruff_cache/
+
+# Secrets et config locale
+.env
+.env.*
+
+# Livrables generes (regenerer : reports/generate_*.py, scripts/package_livrable.sh)
+dist/
+reports/assets/
+reports/rapport_jury.pdf
+reports/rapport_jury.pptx
+
+# Notes internes concours (pitch jury, checklist - garder en local)
+docs/strategie_badge_or.md
+
+# IDE / outils
 .cursor/
+.idea/
+.vscode/
 *.log
 .DS_Store
+Thumbs.db

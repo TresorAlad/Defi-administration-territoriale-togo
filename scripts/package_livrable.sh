@@ -12,7 +12,7 @@ cp -r "$ROOT/dashboard" "$WORKDIR/"
 cp -r "$ROOT/data/gold" "$WORKDIR/data/"
 mkdir -p "$WORKDIR/data/ref"
 cp "$ROOT/data/ref/alias_open_data.csv" "$WORKDIR/data/ref/"
-cp "$ROOT/pyproject.toml" "$WORKDIR/"
+cp "$ROOT/requirements.txt" "$WORKDIR/"
 cp "$ROOT/README.md" "$WORKDIR/"
 
 cat > "$WORKDIR/LIREMOI_JURY.md" <<'EOF'
