@@ -36,21 +36,6 @@ streamlit run dashboard/app.py
 
 Le dashboard lit uniquement `data/gold/`. Sans couche gold, l'app affiche un message d'erreur avec les commandes à exécuter.
 
-## Déploiement Streamlit Community Cloud
-
-1. Pousser le code sur GitHub (branche `main`).
-2. Ouvrir [share.streamlit.io](https://share.streamlit.io/) et se connecter avec GitHub.
-3. **New app** : dépôt `TresorAlad/Defi-administration-territoriale-togo`.
-4. **Main file path :** `dashboard/app.py`
-5. **Branch :** `main`, puis **Deploy**.
-
-**Fichier d'entrée (lien direct) :**  
-https://github.com/TresorAlad/Defi-administration-territoriale-togo/blob/main/dashboard/app.py
-
-**Dépendances :** uniquement `requirements.txt` à la racine (ne pas ajouter de `pyproject.toml`, sinon erreur Poetry sur Cloud).
-
-Après chaque push : **Manage app → Reboot app**.
-
 ## Livrables concours
 
 Les binaires (PDF, PowerPoint, zip) ne sont **pas versionnés** : les générer en local avant remise au jury.
