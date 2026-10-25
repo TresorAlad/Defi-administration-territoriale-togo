@@ -1,0 +1,60 @@
+{
+  "source_silver": "/home/tresor/Administration defis/data/silver",
+  "source_ref": "/home/tresor/Administration defis/data/ref",
+  "destination": "/home/tresor/Administration defis/data/gold",
+  "statut": "pret_dashboard",
+  "fichiers": {
+    "dim_territoire.csv": {
+      "lignes": 161,
+      "colonnes": 9
+    },
+    "fact_agence.csv": {
+      "lignes": 93,
+      "colonnes": 17
+    },
+    "fact_electricite.csv": {
+      "lignes": 325,
+      "colonnes": 9
+    },
+    "fact_population_2022.csv": {
+      "lignes": 759,
+      "colonnes": 13
+    },
+    "fact_population_2010_brut.csv": {
+      "lignes": 555,
+      "colonnes": 4
+    },
+    "fact_etat_civil.csv": {
+      "lignes": 184,
+      "colonnes": 5
+    },
+    "fact_documents_identite.csv": {
+      "lignes": 33,
+      "colonnes": 6
+    },
+    "mart_profil_prefecture.csv": {
+      "lignes": 39,
+      "colonnes": 19
+    },
+    "mart_profil_commune.csv": {
+      "lignes": 117,
+      "colonnes": 18
+    },
+    "mart_inegalites.csv": {
+      "lignes": 7,
+      "colonnes": 3
+    },
+    "mart_evolution_2010_2022.csv": {
+      "lignes": 39,
+      "colonnes": 8
+    },
+    "mart_recommandations.csv": {
+      "lignes": 39,
+      "colonnes": 11
+    },
+    "mart_synthese_nationale.csv": {
+      "lignes": 5,
+      "colonnes": 3
+    }
+  }
+}

@@ -1,0 +1,141 @@
+alias,cle_normalisee,prefecture_id,source_jeu
+Cinkassé,CINKASSE,1,referentiel
+CINKASSE,CINKASSE,1,referentiel
+Kpendjal,KPENDJAL,2,referentiel
+KPENDJAL,KPENDJAL,2,referentiel
+Kpendjal-Ouest,KPENDJAL OUEST,3,referentiel
+KPENDJAL OUEST,KPENDJAL OUEST,3,referentiel
+Oti,OTI,4,referentiel
+OTI,OTI,4,referentiel
+Oti-Sud,OTI SUD,5,referentiel
+OTI SUD,OTI SUD,5,referentiel
+Tandjouaré,TANDJOUARE,6,referentiel
+TANDJOUARE,TANDJOUARE,6,referentiel
+Tône,TONE,7,referentiel
+TONE,TONE,7,referentiel
+Assoli,ASSOLI,8,referentiel
+ASSOLI,ASSOLI,8,referentiel
+Bassar,BASSAR,9,referentiel
+BASSAR,BASSAR,9,referentiel
+Binah,BINAH,10,referentiel
+BINAH,BINAH,10,referentiel
+Dankpen,DANKPEN,11,referentiel
+DANKPEN,DANKPEN,11,referentiel
+Doufelgou,DOUFELGOU,12,referentiel
+DOUFELGOU,DOUFELGOU,12,referentiel
+Kéran,KERAN,13,referentiel
+KERAN,KERAN,13,referentiel
+Kozah,KOZAH,14,referentiel
+KOZAH,KOZAH,14,referentiel
+Blitta,BLITTA,15,referentiel
+BLITTA,BLITTA,15,referentiel
+Sotouboua,SOTOUBOUA,16,referentiel
+SOTOUBOUA,SOTOUBOUA,16,referentiel
+Tchamba,TCHAMBA,17,referentiel
+TCHAMBA,TCHAMBA,17,referentiel
+Tchaoudjo,TCHAOUDJO,18,referentiel
+TCHAOUDJO,TCHAOUDJO,18,referentiel
+Mô,MO,19,referentiel
+MO,MO,19,referentiel
+Agou,AGOU,20,referentiel
+AGOU,AGOU,20,referentiel
+Akébou,AKEBOU,21,referentiel
+AKEBOU,AKEBOU,21,referentiel
+Amou,AMOU,22,referentiel
+AMOU,AMOU,22,referentiel
+Anié,ANIE,23,referentiel
+ANIE,ANIE,23,referentiel
+Danyi,DANYI,24,referentiel
+DANYI,DANYI,24,referentiel
+Est-Mono,EST MONO,25,referentiel
+EST MONO,EST MONO,25,referentiel
+Haho,HAHO,26,referentiel
+HAHO,HAHO,26,referentiel
+Kloto,KLOTO,27,referentiel
+KLOTO,KLOTO,27,referentiel
+Kpélé,KPELE,28,referentiel
+KPELE,KPELE,28,referentiel
+Moyen-Mono,MOYEN MONO,29,referentiel
+MOYEN MONO,MOYEN MONO,29,referentiel
+Ogou,OGOU,30,referentiel
+OGOU,OGOU,30,referentiel
+Wawa,WAWA,31,referentiel
+WAWA,WAWA,31,referentiel
+Agouè-Nyivé,AGOUE NYIVE,32,referentiel
+AGOUE NYIVE,AGOUE NYIVE,32,referentiel
+Avé,AVE,33,referentiel
+AVE,AVE,33,referentiel
+Bas-Mono,BAS MONO,34,referentiel
+BAS MONO,BAS MONO,34,referentiel
+Golfe,GOLFE,35,referentiel
+GOLFE,GOLFE,35,referentiel
+Lacs,LACS,36,referentiel
+LACS,LACS,36,referentiel
+Vo,VO,37,referentiel
+VO,VO,37,referentiel
+Yoto,YOTO,38,referentiel
+YOTO,YOTO,38,referentiel
+Zio,ZIO,39,referentiel
+ZIO,ZIO,39,referentiel
+AGOU,AGOU,20,agences
+AMOU,AMOU,22,agences
+ANIE,ANIE,23,agences
+ASSOLI,ASSOLI,8,agences
+AVE,AVE,33,agences
+BASSAR,BASSAR,9,agences
+BINAH,BINAH,10,agences
+BLITTA,BLITTA,15,agences
+CINKASSE,CINKASSE,1,agences
+DANKPEN,DANKPEN,11,agences
+DANYI,DANYI,24,agences
+DOUFELGOU,DOUFELGOU,12,agences
+EST MONO,EST MONO,25,agences
+EST-MONO,EST MONO,25,agences
+GOLFE,GOLFE,35,agences
+HAHO,HAHO,26,agences
+KERAN,KERAN,13,agences
+KLOTO,KLOTO,27,agences
+KOZAH,KOZAH,14,agences
+KPENDJAL,KPENDJAL,2,agences
+LACS,LACS,36,agences
+MO,MO,19,agences
+MOYEN MONO,MOYEN MONO,29,agences
+OGOU,OGOU,30,agences
+OTI,OTI,4,agences
+OTI SUD,OTI SUD,5,agences
+OTI-SUD,OTI SUD,5,agences
+SOTOUBOUA,SOTOUBOUA,16,agences
+TCHAMBA,TCHAMBA,17,agences
+TCHAOUDJO,TCHAOUDJO,18,agences
+TONE,TONE,7,agences
+VO,VO,37,agences
+WAWA,WAWA,31,agences
+YOTO,YOTO,38,agences
+ZIO,ZIO,39,agences
+TANDJOARE,TANDJOARE,6,population
+TANDJOARE,TANDJOARE,6,electricite
+AGOE NYIVE,AGOE NYIVE,32,population
+AGOENYIVE,AGOENYIVE,32,electricite
+TOTOAL AVE,TOTOAL AVE,33,population
+LOME,LOME,35,electricite
+LOME COMMUNE + GOLFE,LOME COMMUNE GOLFE,35,electricite
+HAHO + MOYEN MONO,HAHO MOYEN MONO,26,electricite
+HAHO + MOYEN MONO,HAHO MOYEN MONO,29,electricite
+LACS + BAS-MONO,LACS BAS MONO,36,electricite
+LACS + BAS-MONO,LACS BAS MONO,34,electricite
+OGOU + ANIE,OGOU ANIE,30,electricite
+OGOU + ANIE,OGOU ANIE,23,electricite
+OTI + OTI SUD,OTI OTI SUD,4,electricite
+OTI + OTI SUD,OTI OTI SUD,5,electricite
+KPENDJAL + KPENDJAL OUEST,KPENDJAL KPENDJAL OUEST,2,electricite
+KPENDJAL + KPENDJAL OUEST,KPENDJAL KPENDJAL OUEST,3,electricite
+SOTOUBOUA + PLAINE DE MO,SOTOUBOUA PLAINE DE MO,16,electricite
+SOTOUBOUA + PLAINE DE MO,SOTOUBOUA PLAINE DE MO,19,electricite
+KPELE,KPELE,28,electricite
+AKEBOU,AKEBOU,21,electricite
+ENSEMBLE DU PAYS,ENSEMBLE DU PAYS,,electricite_agregat
+REGION MARITIME,REGION MARITIME,,electricite_agregat
+REGION DES PLATEAUX,REGION DES PLATEAUX,,electricite_agregat
+REGION CENTRALE,REGION CENTRALE,,electricite_agregat
+REGION DE LA KARA,REGION DE LA KARA,,electricite_agregat
+REGION DES SAVANES,REGION DES SAVANES,,electricite_agregat

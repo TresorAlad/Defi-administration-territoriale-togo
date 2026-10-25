@@ -1,0 +1,760 @@
+indicateur,decoupage_administratif,decoupage_source,sexe,unite,annee,valeur,occurrence,niveau_decoupage,ligne_source,cle_decoupage,territoire_id,niveau_ref
+Population résidente par découpage administratif et par sexe,TOGO,TOGO,Total,Nombre,2022,8095498,1,standard,2,TOGO,,
+Population résidente par découpage administratif et par sexe,SAVANES,SAVANES,Total,Nombre,2022,1143520,1,standard,3,SAVANES,R1,region
+Population résidente par découpage administratif et par sexe,TONE,TONE,Total,Nombre,2022,388775,1,standard,4,TONE,P7,prefecture
+Population résidente par découpage administratif et par sexe,TONE 1,TONE 1,Total,Nombre,2022,211743,1,standard,5,TONE 1,C13,commune
+Population résidente par découpage administratif et par sexe,DAPAONG,DAPAONG,Total,Nombre,2022,144711,1,standard,6,DAPAONG,,
+Population résidente par découpage administratif et par sexe,KOURIENTRE,KOURIENTRE,Total,Nombre,2022,12224,1,standard,7,KOURIENTRE,,
+Population résidente par découpage administratif et par sexe,POISSONGUI,POISSONGUI,Total,Nombre,2022,6155,1,standard,8,POISSONGUI,,
+Population résidente par découpage administratif et par sexe,NATIGOU,NATIGOU,Total,Nombre,2022,11234,1,standard,9,NATIGOU,,
+Population résidente par découpage administratif et par sexe,TOAGA,TOAGA,Total,Nombre,2022,13494,1,standard,10,TOAGA,,
+Population résidente par découpage administratif et par sexe,PANA,PANA,Total,Nombre,2022,13279,1,standard,11,PANA,,
+Population résidente par découpage administratif et par sexe,BIDJENGA,BIDJENGA,Total,Nombre,2022,10646,1,standard,12,BIDJENGA,,
+Population résidente par découpage administratif et par sexe,TONE 2,TONE 2,Total,Nombre,2022,50179,1,standard,13,TONE 2,C14,commune
+Population résidente par découpage administratif et par sexe,NAKI-OUEST,NAKI-OUEST,Total,Nombre,2022,24016,1,standard,14,NAKI OUEST,,
+Population résidente par découpage administratif et par sexe,NAMARE,NAMARE,Total,Nombre,2022,12103,1,standard,15,NAMARE,,
+Population résidente par découpage administratif et par sexe,NANERGOU,NANERGOU,Total,Nombre,2022,14060,1,standard,16,NANERGOU,,
+Population résidente par découpage administratif et par sexe,TONE 3,TONE 3,Total,Nombre,2022,60276,1,standard,17,TONE 3,C15,commune
+Population résidente par découpage administratif et par sexe,TAMI,TAMI,Total,Nombre,2022,20619,1,standard,18,TAMI,,
+Population résidente par découpage administratif et par sexe,NIOUKPOURMA,NIOUKPOURMA,Total,Nombre,2022,17991,1,standard,19,NIOUKPOURMA,,
+Population résidente par découpage administratif et par sexe,LOTOGOU,LOTOGOU,Total,Nombre,2022,14432,1,standard,20,LOTOGOU,,
+Population résidente par découpage administratif et par sexe,WARKAMBOU,WARKAMBOU,Total,Nombre,2022,7234,1,standard,21,WARKAMBOU,,
+Population résidente par découpage administratif et par sexe,TONE 4,TONE 4,Total,Nombre,2022,66577,1,standard,22,TONE 4,C16,commune
+Population résidente par découpage administratif et par sexe,KORBONGOU,KORBONGOU,Total,Nombre,2022,25609,1,standard,23,KORBONGOU,,
+Population résidente par découpage administratif et par sexe,LOUANGA,LOUANGA,Total,Nombre,2022,11434,1,standard,24,LOUANGA,,
+Population résidente par découpage administratif et par sexe,KANTINDI,KANTINDI,Total,Nombre,2022,14016,1,standard,25,KANTINDI,,
+Population résidente par découpage administratif et par sexe,SANFATOUTE,SANFATOUTE,Total,Nombre,2022,15518,1,standard,26,SANFATOUTE,,
+Population résidente par découpage administratif et par sexe,CINKASSE,CINKASSE,Total,Nombre,2022,128959,1,standard,27,CINKASSE,P1,prefecture
+Population résidente par découpage administratif et par sexe,CINKASSE 1,CINKASSE 1,Total,Nombre,2022,75992,1,standard,28,CINKASSE 1,C1,commune
+Population résidente par découpage administratif et par sexe,CINKASSE (occurrence 2),CINKASSE,Total,Nombre,2022,63226,2,homonyme,29,CINKASSE,P1,prefecture
+Population résidente par découpage administratif et par sexe,BOADE,BOADE,Total,Nombre,2022,7403,1,standard,30,BOADE,,
+Population résidente par découpage administratif et par sexe,GNOAGA,GNOAGA,Total,Nombre,2022,1656,1,standard,31,GNOAGA,,
+Population résidente par découpage administratif et par sexe,GOULOUNGOUSSI,GOULOUNGOUSSI,Total,Nombre,2022,3707,1,standard,32,GOULOUNGOUSSI,,
+Population résidente par découpage administratif et par sexe,CINKASSE 2,CINKASSE 2,Total,Nombre,2022,52967,1,standard,33,CINKASSE 2,C2,commune
+Population résidente par découpage administratif et par sexe,TIMBOU,TIMBOU,Total,Nombre,2022,21709,1,standard,34,TIMBOU,,
+Population résidente par découpage administratif et par sexe,SAM-NABA,SAM-NABA,Total,Nombre,2022,9361,1,standard,35,SAM NABA,,
+Population résidente par découpage administratif et par sexe,NADJOUNDI,NADJOUNDI,Total,Nombre,2022,10140,1,standard,36,NADJOUNDI,,
+Population résidente par découpage administratif et par sexe,BIANKOURI,BIANKOURI,Total,Nombre,2022,11757,1,standard,37,BIANKOURI,,
+Population résidente par découpage administratif et par sexe,KPENDJAL-OUEST,KPENDJAL-OUEST,Total,Nombre,2022,123330,1,standard,38,KPENDJAL OUEST,P3,prefecture
+Population résidente par découpage administratif et par sexe,KPENDJAL-OUEST 1,KPENDJAL-OUEST 1,Total,Nombre,2022,56459,1,standard,39,KPENDJAL OUEST 1,C5,commune
+Population résidente par découpage administratif et par sexe,NAKI-EST,NAKI-EST,Total,Nombre,2022,24761,1,standard,40,NAKI EST,,
+Population résidente par découpage administratif et par sexe,NAYEGA,NAYEGA,Total,Nombre,2022,19235,1,standard,41,NAYEGA,,
+Population résidente par découpage administratif et par sexe,OGARO,OGARO,Total,Nombre,2022,12463,1,standard,42,OGARO,,
+Population résidente par découpage administratif et par sexe,KPENDJAL-OUEST 2,KPENDJAL-OUEST 2,Total,Nombre,2022,66871,1,standard,43,KPENDJAL OUEST 2,C6,commune
+Population résidente par découpage administratif et par sexe,POGNO,POGNO,Total,Nombre,2022,15448,1,standard,44,POGNO,,
+Population résidente par découpage administratif et par sexe,NAMOUNDJOGA,NAMOUNDJOGA,Total,Nombre,2022,17896,1,standard,45,NAMOUNDJOGA,,
+Population résidente par découpage administratif et par sexe,TAMBONGA,TAMBONGA,Total,Nombre,2022,18709,1,standard,46,TAMBONGA,,
+Population résidente par découpage administratif et par sexe,PAPRI,PAPRI,Total,Nombre,2022,14818,1,standard,47,PAPRI,,
+Population résidente par découpage administratif et par sexe,KPENDJAL,KPENDJAL,Total,Nombre,2022,88365,1,standard,48,KPENDJAL,P2,prefecture
+Population résidente par découpage administratif et par sexe,KPENDJAL 1,KPENDJAL 1,Total,Nombre,2022,47903,1,standard,49,KPENDJAL 1,C3,commune
+Population résidente par découpage administratif et par sexe,MANDOURI,MANDOURI,Total,Nombre,2022,20616,1,standard,50,MANDOURI,,
+Population résidente par découpage administratif et par sexe,TAMBIGOU,TAMBIGOU,Total,Nombre,2022,9361,1,standard,51,TAMBIGOU,,
+Population résidente par découpage administratif et par sexe,KOUNDJOARE,KOUNDJOARE,Total,Nombre,2022,17926,1,standard,52,KOUNDJOARE,,
+Population résidente par découpage administratif et par sexe,KPENDJAL 2,KPENDJAL 2,Total,Nombre,2022,40462,1,standard,53,KPENDJAL 2,C4,commune
+Population résidente par découpage administratif et par sexe,BORGOU,BORGOU,Total,Nombre,2022,40462,1,standard,54,BORGOU,,
+Population résidente par découpage administratif et par sexe,OTI-SUD,OTI-SUD,Total,Nombre,2022,150376,1,standard,55,OTI SUD,P5,prefecture
+Population résidente par découpage administratif et par sexe,OTI-SUD 1,OTI-SUD 1,Total,Nombre,2022,106052,1,standard,56,OTI SUD 1,C9,commune
+Population résidente par découpage administratif et par sexe,GANDO,GANDO,Total,Nombre,2022,41374,1,standard,57,GANDO,,
+Population résidente par découpage administratif et par sexe,SAGBIEBOU,SAGBIEBOU,Total,Nombre,2022,20370,1,standard,58,SAGBIEBOU,,
+Population résidente par découpage administratif et par sexe,MOGOU,MOGOU,Total,Nombre,2022,30442,1,standard,59,MOGOU,,
+Population résidente par découpage administratif et par sexe,TCHAMONGA,TCHAMONGA,Total,Nombre,2022,13866,1,standard,60,TCHAMONGA,,
+Population résidente par découpage administratif et par sexe,OTI-SUD 2,OTI-SUD 2,Total,Nombre,2022,44324,1,standard,61,OTI SUD 2,C10,commune
+Population résidente par découpage administratif et par sexe,TAKPAMBA,TAKPAMBA,Total,Nombre,2022,12423,1,standard,62,TAKPAMBA,,
+Population résidente par découpage administratif et par sexe,NALI,NALI,Total,Nombre,2022,11284,1,standard,63,NALI,,
+Population résidente par découpage administratif et par sexe,KOUMONGOU,KOUMONGOU,Total,Nombre,2022,7167,1,standard,64,KOUMONGOU,,
+Population résidente par découpage administratif et par sexe,KOUNTOIRE,KOUNTOIRE,Total,Nombre,2022,13450,1,standard,65,KOUNTOIRE,,
+Population résidente par découpage administratif et par sexe,OTI,OTI,Total,Nombre,2022,124848,1,standard,66,OTI,P4,prefecture
+Population résidente par découpage administratif et par sexe,OTI 1,OTI 1,Total,Nombre,2022,54479,1,standard,67,OTI 1,C7,commune
+Population résidente par découpage administratif et par sexe,MANGO,MANGO,Total,Nombre,2022,41803,1,standard,68,MANGO,,
+Population résidente par découpage administratif et par sexe,SADORI,SADORI,Total,Nombre,2022,8100,1,standard,69,SADORI,,
+Population résidente par découpage administratif et par sexe,FARE,FARE,Total,Nombre,2022,4576,1,standard,70,FARE,,
+Population résidente par découpage administratif et par sexe,OTI 2,OTI 2,Total,Nombre,2022,70369,1,standard,71,OTI 2,C8,commune
+Population résidente par découpage administratif et par sexe,BARKOISSI,BARKOISSI,Total,Nombre,2022,21060,1,standard,72,BARKOISSI,,
+Population résidente par découpage administratif et par sexe,GALANGASHIE,GALANGASHIE,Total,Nombre,2022,14810,1,standard,73,GALANGASHIE,,
+Population résidente par découpage administratif et par sexe,TCHANAGA,TCHANAGA,Total,Nombre,2022,8973,1,standard,74,TCHANAGA,,
+Population résidente par découpage administratif et par sexe,NAGBENI,NAGBENI,Total,Nombre,2022,19607,1,standard,75,NAGBENI,,
+Population résidente par découpage administratif et par sexe,LOKO,LOKO,Total,Nombre,2022,5919,1,standard,76,LOKO,,
+Population résidente par découpage administratif et par sexe,TANDJOARE,TANDJOARE,Total,Nombre,2022,138867,1,standard,77,TANDJOARE,,
+Population résidente par découpage administratif et par sexe,TANDJOARE 1,TANDJOARE 1,Total,Nombre,2022,74692,1,standard,78,TANDJOARE 1,C11,commune
+Population résidente par découpage administratif et par sexe,NANDOGA,NANDOGA,Total,Nombre,2022,6334,1,standard,79,NANDOGA,,
+Population résidente par découpage administratif et par sexe,BOMBOUAKA,BOMBOUAKA,Total,Nombre,2022,10769,1,standard,80,BOMBOUAKA,,
+Population résidente par découpage administratif et par sexe,PLIGOU,PLIGOU,Total,Nombre,2022,7042,1,standard,81,PLIGOU,,
+Population résidente par découpage administratif et par sexe,BOULOGOU,BOULOGOU,Total,Nombre,2022,6101,1,standard,82,BOULOGOU,,
+Population résidente par découpage administratif et par sexe,LOKO (occurrence 2),LOKO,Total,Nombre,2022,6187,2,homonyme,83,LOKO,,
+Population résidente par découpage administratif et par sexe,TAMONGUE,TAMONGUE,Total,Nombre,2022,21405,1,standard,84,TAMONGUE,,
+Population résidente par découpage administratif et par sexe,BOGOU,BOGOU,Total,Nombre,2022,10506,1,standard,85,BOGOU,,
+Population résidente par découpage administratif et par sexe,GOUNDOGA,GOUNDOGA,Total,Nombre,2022,6348,1,standard,86,GOUNDOGA,,
+Population résidente par découpage administratif et par sexe,TANDJOARE 2,TANDJOARE 2,Total,Nombre,2022,64175,1,standard,87,TANDJOARE 2,C12,commune
+Population résidente par découpage administratif et par sexe,NANO,NANO,Total,Nombre,2022,17093,1,standard,88,NANO,,
+Population résidente par découpage administratif et par sexe,DOUKPERGOU,DOUKPERGOU,Total,Nombre,2022,7026,1,standard,89,DOUKPERGOU,,
+Population résidente par découpage administratif et par sexe,LOKPANO,LOKPANO,Total,Nombre,2022,6025,1,standard,90,LOKPANO,,
+Population résidente par découpage administratif et par sexe,SANGOU,SANGOU,Total,Nombre,2022,2620,1,standard,91,SANGOU,,
+Population résidente par découpage administratif et par sexe,MAMPROUGOU,MAMPROUGOU,Total,Nombre,2022,6331,1,standard,92,MAMPROUGOU,,
+Population résidente par découpage administratif et par sexe,BAGOU,BAGOU,Total,Nombre,2022,2390,1,standard,93,BAGOU,,
+Population résidente par découpage administratif et par sexe,TAMPIALIME,TAMPIALIME,Total,Nombre,2022,14347,1,standard,94,TAMPIALIME,,
+Population résidente par découpage administratif et par sexe,SISSIAK,SISSIAK,Total,Nombre,2022,8343,1,standard,95,SISSIAK,,
+Population résidente par découpage administratif et par sexe,KARA,KARA,Total,Nombre,2022,985512,1,standard,96,KARA,R2,region
+Population résidente par découpage administratif et par sexe,KOZAH,KOZAH,Total,Nombre,2022,283738,1,standard,97,KOZAH,P14,prefecture
+Population résidente par découpage administratif et par sexe,KOZAH 1,KOZAH 1,Total,Nombre,2022,193625,1,standard,98,KOZAH 1,C35,commune
+Population résidente par découpage administratif et par sexe,LAMA,LAMA,Total,Nombre,2022,161176,1,standard,99,LAMA,,
+Population résidente par découpage administratif et par sexe,LASSA,LASSA,Total,Nombre,2022,12999,1,standard,100,LASSA,,
+Population résidente par découpage administratif et par sexe,SOUMDINA,SOUMDINA,Total,Nombre,2022,9274,1,standard,101,SOUMDINA,,
+Population résidente par découpage administratif et par sexe,LANDA,LANDA,Total,Nombre,2022,10176,1,standard,102,LANDA,,
+Population résidente par découpage administratif et par sexe,KOZAH 2,KOZAH 2,Total,Nombre,2022,45704,1,standard,103,KOZAH 2,C36,commune
+Population résidente par découpage administratif et par sexe,PYA,PYA,Total,Nombre,2022,11398,1,standard,104,PYA,,
+Population résidente par découpage administratif et par sexe,KOUMEA,KOUMEA,Total,Nombre,2022,7489,1,standard,105,KOUMEA,,
+Population résidente par découpage administratif et par sexe,TCHARE,TCHARE,Total,Nombre,2022,2301,1,standard,106,TCHARE,,
+Population résidente par découpage administratif et par sexe,BOHOU,BOHOU,Total,Nombre,2022,6739,1,standard,107,BOHOU,,
+Population résidente par découpage administratif et par sexe,YADE,YADE,Total,Nombre,2022,4301,1,standard,108,YADE,,
+Population résidente par découpage administratif et par sexe,TCHITCHAO,TCHITCHAO,Total,Nombre,2022,7427,1,standard,109,TCHITCHAO,,
+Population résidente par découpage administratif et par sexe,SARAKAWA,SARAKAWA,Total,Nombre,2022,6049,1,standard,110,SARAKAWA,,
+Population résidente par découpage administratif et par sexe,KOZAH 3,KOZAH 3,Total,Nombre,2022,23755,1,standard,111,KOZAH 3,C37,commune
+Population résidente par découpage administratif et par sexe,AWANDJELO,AWANDJELO,Total,Nombre,2022,12147,1,standard,112,AWANDJELO,,
+Population résidente par découpage administratif et par sexe,KPINZINDE,KPINZINDE,Total,Nombre,2022,11608,1,standard,113,KPINZINDE,,
+Population résidente par découpage administratif et par sexe,KOZAH 4,KOZAH 4,Total,Nombre,2022,20654,1,standard,114,KOZAH 4,C38,commune
+Population résidente par découpage administratif et par sexe,ATCHANGBADE,ATCHANGBADE,Total,Nombre,2022,16876,1,standard,115,ATCHANGBADE,,
+Population résidente par découpage administratif et par sexe,DJAMDE,DJAMDE,Total,Nombre,2022,3778,1,standard,116,DJAMDE,,
+Population résidente par découpage administratif et par sexe,ASSOLI,ASSOLI,Total,Nombre,2022,66394,1,standard,117,ASSOLI,P8,prefecture
+Population résidente par découpage administratif et par sexe,ASSOLI 1,ASSOLI 1,Total,Nombre,2022,40417,1,standard,118,ASSOLI 1,C17,commune
+Population résidente par découpage administratif et par sexe,BAFILO,BAFILO,Total,Nombre,2022,27038,1,standard,119,BAFILO,,
+Population résidente par découpage administratif et par sexe,BOULADE,BOULADE,Total,Nombre,2022,5384,1,standard,120,BOULADE,,
+Population résidente par découpage administratif et par sexe,DAKO/DAOUDE,DAKO/DAOUDE,Total,Nombre,2022,7995,1,standard,121,DAKO DAOUDE,,
+Population résidente par découpage administratif et par sexe,ASSOLI 2,ASSOLI 2,Total,Nombre,2022,9933,1,standard,122,ASSOLI 2,C18,commune
+Population résidente par découpage administratif et par sexe,ALEDJO,ALEDJO,Total,Nombre,2022,4809,1,standard,123,ALEDJO,,
+Population résidente par découpage administratif et par sexe,KOUMONDE,KOUMONDE,Total,Nombre,2022,5124,1,standard,124,KOUMONDE,,
+Population résidente par découpage administratif et par sexe,ASSOLI 3,ASSOLI 3,Total,Nombre,2022,16044,1,standard,125,ASSOLI 3,C19,commune
+Population résidente par découpage administratif et par sexe,SOUDOU,SOUDOU,Total,Nombre,2022,16044,1,standard,126,SOUDOU,,
+Population résidente par découpage administratif et par sexe,BASSAR,BASSAR,Total,Nombre,2022,152065,1,standard,127,BASSAR,P9,prefecture
+Population résidente par découpage administratif et par sexe,BASSAR 1,BASSAR 1,Total,Nombre,2022,65059,1,standard,128,BASSAR 1,C20,commune
+Population résidente par découpage administratif et par sexe,BASSAR (occurrence 2),BASSAR,Total,Nombre,2022,45846,2,homonyme,129,BASSAR,P9,prefecture
+Population résidente par découpage administratif et par sexe,BAGHAN,BAGHAN,Total,Nombre,2022,11814,1,standard,130,BAGHAN,,
+Population résidente par découpage administratif et par sexe,KALANGA,KALANGA,Total,Nombre,2022,7399,1,standard,131,KALANGA,,
+Population résidente par découpage administratif et par sexe,BASSAR 2,BASSAR 2,Total,Nombre,2022,36476,1,standard,132,BASSAR 2,C21,commune
+Population résidente par découpage administratif et par sexe,BANGELI,BANGELI,Total,Nombre,2022,15571,1,standard,133,BANGELI,,
+Population résidente par découpage administratif et par sexe,BITCHABE,BITCHABE,Total,Nombre,2022,7142,1,standard,134,BITCHABE,,
+Population résidente par découpage administratif et par sexe,DIMORI,DIMORI,Total,Nombre,2022,13763,1,standard,135,DIMORI,,
+Population résidente par découpage administratif et par sexe,BASSAR 3,BASSAR 3,Total,Nombre,2022,33873,1,standard,136,BASSAR 3,C22,commune
+Population résidente par découpage administratif et par sexe,KABOU,KABOU,Total,Nombre,2022,26604,1,standard,137,KABOU,,
+Population résidente par découpage administratif et par sexe,MANGA,MANGA,Total,Nombre,2022,7269,1,standard,138,MANGA,,
+Population résidente par découpage administratif et par sexe,BASSAR 4,BASSAR 4,Total,Nombre,2022,16657,1,standard,139,BASSAR 4,C23,commune
+Population résidente par découpage administratif et par sexe,SANDA-KAGBANDA,SANDA-KAGBANDA,Total,Nombre,2022,10642,1,standard,140,SANDA KAGBANDA,,
+Population résidente par découpage administratif et par sexe,SANDA-AFOHOU,SANDA-AFOHOU,Total,Nombre,2022,6015,1,standard,141,SANDA AFOHOU,,
+Population résidente par découpage administratif et par sexe,DANKPEN,DANKPEN,Total,Nombre,2022,185662,1,standard,142,DANKPEN,P11,prefecture
+Population résidente par découpage administratif et par sexe,DANKPEN 1,DANKPEN 1,Total,Nombre,2022,76294,1,standard,143,DANKPEN 1,C26,commune
+Population résidente par découpage administratif et par sexe,GUERIN-KOUKA,GUERIN-KOUKA,Total,Nombre,2022,48399,1,standard,144,GUERIN KOUKA,,
+Population résidente par découpage administratif et par sexe,NAMPOCH,NAMPOCH,Total,Nombre,2022,9256,1,standard,145,NAMPOCH,,
+Population résidente par découpage administratif et par sexe,KATCHAMBA,KATCHAMBA,Total,Nombre,2022,9121,1,standard,146,KATCHAMBA,,
+Population résidente par découpage administratif et par sexe,KOULFIEKOU,KOULFIEKOU,Total,Nombre,2022,9518,1,standard,147,KOULFIEKOU,,
+Population résidente par découpage administratif et par sexe,DANKPEN 2,DANKPEN 2,Total,Nombre,2022,32716,1,standard,148,DANKPEN 2,C27,commune
+Population résidente par découpage administratif et par sexe,NAMON,NAMON,Total,Nombre,2022,9389,1,standard,149,NAMON,,
+Population résidente par découpage administratif et par sexe,NATCHIBORE,NATCHIBORE,Total,Nombre,2022,11741,1,standard,150,NATCHIBORE,,
+Population résidente par découpage administratif et par sexe,NATCHITIKPI,NATCHITIKPI,Total,Nombre,2022,7844,1,standard,151,NATCHITIKPI,,
+Population résidente par découpage administratif et par sexe,KOUTCHITCHEOU,KOUTCHITCHEOU,Total,Nombre,2022,3742,1,standard,152,KOUTCHITCHEOU,,
+Population résidente par découpage administratif et par sexe,DANKPEN 3,DANKPEN 3,Total,Nombre,2022,76652,1,standard,153,DANKPEN 3,C28,commune
+Population résidente par découpage administratif et par sexe,BAPURE,BAPURE,Total,Nombre,2022,25428,1,standard,154,BAPURE,,
+Population résidente par découpage administratif et par sexe,NANDOUTA,NANDOUTA,Total,Nombre,2022,14114,1,standard,155,NANDOUTA,,
+Population résidente par découpage administratif et par sexe,NAWARE,NAWARE,Total,Nombre,2022,18253,1,standard,156,NAWARE,,
+Population résidente par découpage administratif et par sexe,KIDJABOUN,KIDJABOUN,Total,Nombre,2022,18857,1,standard,157,KIDJABOUN,,
+Population résidente par découpage administratif et par sexe,KERAN,KERAN,Total,Nombre,2022,128687,1,standard,158,KERAN,P13,prefecture
+Population résidente par découpage administratif et par sexe,KERAN 1,KERAN 1,Total,Nombre,2022,44399,1,standard,159,KERAN 1,C32,commune
+Population résidente par découpage administratif et par sexe,KANDE,KANDE,Total,Nombre,2022,26266,1,standard,160,KANDE,,
+Population résidente par découpage administratif et par sexe,AKPONTE,AKPONTE,Total,Nombre,2022,8877,1,standard,161,AKPONTE,,
+Population résidente par découpage administratif et par sexe,PESSIDE,PESSIDE,Total,Nombre,2022,9256,1,standard,162,PESSIDE,,
+Population résidente par découpage administratif et par sexe,KERAN 2,KERAN 2,Total,Nombre,2022,53305,1,standard,163,KERAN 2,C33,commune
+Population résidente par découpage administratif et par sexe,ATALOTE,ATALOTE,Total,Nombre,2022,17429,1,standard,164,ATALOTE,,
+Population résidente par découpage administratif et par sexe,OSSACRE,OSSACRE,Total,Nombre,2022,19842,1,standard,165,OSSACRE,,
+Population résidente par découpage administratif et par sexe,HELOTA,HELOTA,Total,Nombre,2022,16034,1,standard,166,HELOTA,,
+Population résidente par découpage administratif et par sexe,KERAN 3,KERAN 3,Total,Nombre,2022,30983,1,standard,167,KERAN 3,C34,commune
+Population résidente par découpage administratif et par sexe,NADOBA,NADOBA,Total,Nombre,2022,19878,1,standard,168,NADOBA,,
+Population résidente par découpage administratif et par sexe,WARENGO,WARENGO,Total,Nombre,2022,6315,1,standard,169,WARENGO,,
+Population résidente par découpage administratif et par sexe,KOUTOUGOU,KOUTOUGOU,Total,Nombre,2022,4790,1,standard,170,KOUTOUGOU,,
+Population résidente par découpage administratif et par sexe,DOUFELGOU,DOUFELGOU,Total,Nombre,2022,84767,1,standard,171,DOUFELGOU,P12,prefecture
+Population résidente par découpage administratif et par sexe,DOUFELGOU 1,DOUFELGOU 1,Total,Nombre,2022,44783,1,standard,172,DOUFELGOU 1,C29,commune
+Population résidente par découpage administratif et par sexe,NIAMTOUGOU,NIAMTOUGOU,Total,Nombre,2022,6433,1,standard,173,NIAMTOUGOU,,
+Population résidente par découpage administratif et par sexe,AGBANDE-YAKA,AGBANDE-YAKA,Total,Nombre,2022,8915,1,standard,174,AGBANDE YAKA,,
+Population résidente par découpage administratif et par sexe,BAGA,BAGA,Total,Nombre,2022,5905,1,standard,175,BAGA,,
+Population résidente par découpage administratif et par sexe,KOKA,KOKA,Total,Nombre,2022,3433,1,standard,176,KOKA,,
+Population résidente par découpage administratif et par sexe,TENEGA,TENEGA,Total,Nombre,2022,4303,1,standard,177,TENEGA,,
+Population résidente par découpage administratif et par sexe,SIOU,SIOU,Total,Nombre,2022,8910,1,standard,178,SIOU,,
+Population résidente par découpage administratif et par sexe,POUDA,POUDA,Total,Nombre,2022,3137,1,standard,179,POUDA,,
+Population résidente par découpage administratif et par sexe,MASSEDENA,MASSEDENA,Total,Nombre,2022,3747,1,standard,180,MASSEDENA,,
+Population résidente par découpage administratif et par sexe,DOUFELGOU 2,DOUFELGOU 2,Total,Nombre,2022,11722,1,standard,181,DOUFELGOU 2,C30,commune
+Population résidente par découpage administratif et par sexe,DEFALE,DEFALE,Total,Nombre,2022,6938,1,standard,182,DEFALE,,
+Population résidente par découpage administratif et par sexe,KPAHA,KPAHA,Total,Nombre,2022,3692,1,standard,183,KPAHA,,
+Population résidente par découpage administratif et par sexe,ANIMA,ANIMA,Total,Nombre,2022,1092,1,standard,184,ANIMA,,
+Population résidente par découpage administratif et par sexe,DOUFELGOU 3,DOUFELGOU 3,Total,Nombre,2022,28262,1,standard,185,DOUFELGOU 3,C31,commune
+Population résidente par découpage administratif et par sexe,KADJALLA,KADJALLA,Total,Nombre,2022,9835,1,standard,186,KADJALLA,,
+Population résidente par découpage administratif et par sexe,TCHORE,TCHORE,Total,Nombre,2022,3982,1,standard,187,TCHORE,,
+Population résidente par découpage administratif et par sexe,ALLOUM,ALLOUM,Total,Nombre,2022,10239,1,standard,188,ALLOUM,,
+Population résidente par découpage administratif et par sexe,LEON,LEON,Total,Nombre,2022,4206,1,standard,189,LEON,,
+Population résidente par découpage administratif et par sexe,BINAH,BINAH,Total,Nombre,2022,84199,1,standard,190,BINAH,P10,prefecture
+Population résidente par découpage administratif et par sexe,BINAH 1,BINAH 1,Total,Nombre,2022,44039,1,standard,191,BINAH 1,C24,commune
+Population résidente par découpage administratif et par sexe,PAGOUDA,PAGOUDA,Total,Nombre,2022,16870,1,standard,192,PAGOUDA,,
+Population résidente par découpage administratif et par sexe,LAMA-DESSI,LAMA-DESSI,Total,Nombre,2022,3932,1,standard,193,LAMA DESSI,,
+Population résidente par découpage administratif et par sexe,PITIKITA,PITIKITA,Total,Nombre,2022,1484,1,standard,194,PITIKITA,,
+Population résidente par découpage administratif et par sexe,PESSARE,PESSARE,Total,Nombre,2022,6329,1,standard,195,PESSARE,,
+Population résidente par découpage administratif et par sexe,BOUFALE,BOUFALE,Total,Nombre,2022,5801,1,standard,196,BOUFALE,,
+Population résidente par découpage administratif et par sexe,SOLLA,SOLLA,Total,Nombre,2022,9623,1,standard,197,SOLLA,,
+Population résidente par découpage administratif et par sexe,BINAH2,BINAH2,Total,Nombre,2022,40160,1,standard,198,BINAH2,,
+Population résidente par découpage administratif et par sexe,KETAO,KETAO,Total,Nombre,2022,25809,1,standard,199,KETAO,,
+Population résidente par découpage administratif et par sexe,KEMERIDA,KEMERIDA,Total,Nombre,2022,7182,1,standard,200,KEMERIDA,,
+Population résidente par découpage administratif et par sexe,SIRKA,SIRKA,Total,Nombre,2022,7169,1,standard,201,SIRKA,,
+Population résidente par découpage administratif et par sexe,CENTRALE,CENTRALE,Total,Nombre,2022,795529,1,standard,202,CENTRALE,R3,region
+Population résidente par découpage administratif et par sexe,TCHAOUDJO,TCHAOUDJO,Total,Nombre,2022,240360,1,standard,203,TCHAOUDJO,P18,prefecture
+Population résidente par découpage administratif et par sexe,TCHAOUDJO 1,TCHAOUDJO 1,Total,Nombre,2022,177706,1,standard,204,TCHAOUDJO 1,C48,commune
+Population résidente par découpage administratif et par sexe,KOMAH,KOMAH,Total,Nombre,2022,91606,1,standard,205,KOMAH,,
+Population résidente par découpage administratif et par sexe,KPARATAO,KPARATAO,Total,Nombre,2022,16588,1,standard,206,KPARATAO,,
+Population résidente par découpage administratif et par sexe,KADAMBARA,KADAMBARA,Total,Nombre,2022,23526,1,standard,207,KADAMBARA,,
+Population résidente par découpage administratif et par sexe,TCHALO,TCHALO,Total,Nombre,2022,8871,1,standard,208,TCHALO,,
+Population résidente par découpage administratif et par sexe,KPANGALAM,KPANGALAM,Total,Nombre,2022,37115,1,standard,209,KPANGALAM,,
+Population résidente par découpage administratif et par sexe,TCHAOUDJO 2,TCHAOUDJO 2,Total,Nombre,2022,24891,1,standard,210,TCHAOUDJO 2,C49,commune
+Population résidente par découpage administratif et par sexe,LAMA-TESSI,LAMA-TESSI,Total,Nombre,2022,24891,1,standard,211,LAMA TESSI,,
+Population résidente par découpage administratif et par sexe,TCHAOUDJO 3,TCHAOUDJO 3,Total,Nombre,2022,17484,1,standard,212,TCHAOUDJO 3,C50,commune
+Population résidente par découpage administratif et par sexe,ALEHERIDE,ALEHERIDE,Total,Nombre,2022,6123,1,standard,213,ALEHERIDE,,
+Population résidente par découpage administratif et par sexe,AMAIDE,AMAIDE,Total,Nombre,2022,4338,1,standard,214,AMAIDE,,
+Population résidente par découpage administratif et par sexe,KEMENI,KEMENI,Total,Nombre,2022,2876,1,standard,215,KEMENI,,
+Population résidente par découpage administratif et par sexe,KOLINA,KOLINA,Total,Nombre,2022,4147,1,standard,216,KOLINA,,
+Population résidente par découpage administratif et par sexe,TCHAOUDJO 4,TCHAOUDJO 4,Total,Nombre,2022,20279,1,standard,217,TCHAOUDJO 4,C51,commune
+Population résidente par découpage administratif et par sexe,AGOULOU,AGOULOU,Total,Nombre,2022,13714,1,standard,218,AGOULOU,,
+Population résidente par découpage administratif et par sexe,KPASSOUADE,KPASSOUADE,Total,Nombre,2022,3468,1,standard,219,KPASSOUADE,,
+Population résidente par découpage administratif et par sexe,WASSARABO,WASSARABO,Total,Nombre,2022,3097,1,standard,220,WASSARABO,,
+Population résidente par découpage administratif et par sexe,TCHAMBA,TCHAMBA,Total,Nombre,2022,200585,1,standard,221,TCHAMBA,P17,prefecture
+Population résidente par découpage administratif et par sexe,TCHAMBA 1,TCHAMBA 1,Total,Nombre,2022,82451,1,standard,222,TCHAMBA 1,C45,commune
+Population résidente par découpage administratif et par sexe,TCHAMBA (occurrence 2),TCHAMBA,Total,Nombre,2022,48392,2,homonyme,223,TCHAMBA,P17,prefecture
+Population résidente par découpage administratif et par sexe,ALIBI,ALIBI,Total,Nombre,2022,10324,1,standard,224,ALIBI,,
+Population résidente par découpage administratif et par sexe,LARNI,LARNI,Total,Nombre,2022,7113,1,standard,225,LARNI,,
+Population résidente par découpage administratif et par sexe,KRI-KRI (ADJEIDE),KRI-KRI (ADJEIDE),Total,Nombre,2022,7359,1,standard,226,KRI KRI ADJEIDE,,
+Population résidente par découpage administratif et par sexe,AFFEM,AFFEM,Total,Nombre,2022,9263,1,standard,227,AFFEM,,
+Population résidente par découpage administratif et par sexe,TCHAMBA 2,TCHAMBA 2,Total,Nombre,2022,64930,1,standard,228,TCHAMBA 2,C46,commune
+Population résidente par découpage administratif et par sexe,KOUSSOUNTOU,KOUSSOUNTOU,Total,Nombre,2022,28343,1,standard,229,KOUSSOUNTOU,,
+Population résidente par découpage administratif et par sexe,BAGO,BAGO,Total,Nombre,2022,36587,1,standard,230,BAGO,,
+Population résidente par découpage administratif et par sexe,TCHAMBA 3,TCHAMBA 3,Total,Nombre,2022,53204,1,standard,231,TCHAMBA 3,C47,commune
+Population résidente par découpage administratif et par sexe,KABOLI,KABOLI,Total,Nombre,2022,30575,1,standard,232,KABOLI,,
+Population résidente par découpage administratif et par sexe,GOUBI,GOUBI,Total,Nombre,2022,10845,1,standard,233,GOUBI,,
+Population résidente par découpage administratif et par sexe,BALANKA,BALANKA,Total,Nombre,2022,11784,1,standard,234,BALANKA,,
+Population résidente par découpage administratif et par sexe,BLITTA,BLITTA,Total,Nombre,2022,163272,1,standard,235,BLITTA,P15,prefecture
+Population résidente par découpage administratif et par sexe,BLITTA 1,BLITTA 1,Total,Nombre,2022,71539,1,standard,236,BLITTA 1,C39,commune
+Population résidente par découpage administratif et par sexe,BLITTA-GARE,BLITTA-GARE,Total,Nombre,2022,14067,1,standard,237,BLITTA GARE,,
+Population résidente par découpage administratif et par sexe,BLITTA VILLAGE,BLITTA VILLAGE,Total,Nombre,2022,10794,1,standard,238,BLITTA VILLAGE,,
+Population résidente par découpage administratif et par sexe,YALOUMBE,YALOUMBE,Total,Nombre,2022,6253,1,standard,239,YALOUMBE,,
+Population résidente par découpage administratif et par sexe,TCHALOUDE,TCHALOUDE,Total,Nombre,2022,9752,1,standard,240,TCHALOUDE,,
+Population résidente par découpage administratif et par sexe,WARAGNI,WARAGNI,Total,Nombre,2022,4956,1,standard,241,WARAGNI,,
+Population résidente par découpage administratif et par sexe,PAGALA-GARE,PAGALA-GARE,Total,Nombre,2022,23112,1,standard,242,PAGALA GARE,,
+Population résidente par découpage administratif et par sexe,DOUFOULI,DOUFOULI,Total,Nombre,2022,2605,1,standard,243,DOUFOULI,,
+Population résidente par découpage administratif et par sexe,BLITTA 2,BLITTA 2,Total,Nombre,2022,46515,1,standard,244,BLITTA 2,C40,commune
+Population résidente par découpage administratif et par sexe,AGBANDI,AGBANDI,Total,Nombre,2022,12122,1,standard,245,AGBANDI,,
+Population résidente par découpage administratif et par sexe,LANGABOU,LANGABOU,Total,Nombre,2022,16790,1,standard,246,LANGABOU,,
+Population résidente par découpage administratif et par sexe,KOFFITI,KOFFITI,Total,Nombre,2022,10294,1,standard,247,KOFFITI,,
+Population résidente par découpage administratif et par sexe,TCHARE-BAOU,TCHARE-BAOU,Total,Nombre,2022,7309,1,standard,248,TCHARE BAOU,,
+Population résidente par découpage administratif et par sexe,BLITTA 3,BLITTA 3,Total,Nombre,2022,45218,1,standard,249,BLITTA 3,C41,commune
+Population résidente par découpage administratif et par sexe,M'POTI,M'POTI,Total,Nombre,2022,6971,1,standard,250,M POTI,,
+Population résidente par découpage administratif et par sexe,TCHIFAMA,TCHIFAMA,Total,Nombre,2022,5574,1,standard,251,TCHIFAMA,,
+Population résidente par découpage administratif et par sexe,PAGALA-VILLAGE,PAGALA-VILLAGE,Total,Nombre,2022,3554,1,standard,252,PAGALA VILLAGE,,
+Population résidente par découpage administratif et par sexe,WELLY,WELLY,Total,Nombre,2022,10170,1,standard,253,WELLY,,
+Population résidente par découpage administratif et par sexe,TINTCHRO,TINTCHRO,Total,Nombre,2022,4041,1,standard,254,TINTCHRO,,
+Population résidente par découpage administratif et par sexe,ATCHINTSE,ATCHINTSE,Total,Nombre,2022,4572,1,standard,255,ATCHINTSE,,
+Population résidente par découpage administratif et par sexe,DIGUENGUE,DIGUENGUE,Total,Nombre,2022,1523,1,standard,256,DIGUENGUE,,
+Population résidente par découpage administratif et par sexe,DIKPELEOU,DIKPELEOU,Total,Nombre,2022,2086,1,standard,257,DIKPELEOU,,
+Population résidente par découpage administratif et par sexe,YEGUE,YEGUE,Total,Nombre,2022,3472,1,standard,258,YEGUE,,
+Population résidente par découpage administratif et par sexe,KATCHENKE,KATCHENKE,Total,Nombre,2022,3255,1,standard,259,KATCHENKE,,
+Population résidente par découpage administratif et par sexe,SOTOUBOUA,SOTOUBOUA,Total,Nombre,2022,138864,1,standard,260,SOTOUBOUA,P16,prefecture
+Population résidente par découpage administratif et par sexe,SOTOUBOUA 1,SOTOUBOUA 1,Total,Nombre,2022,46907,1,standard,261,SOTOUBOUA 1,C42,commune
+Population résidente par découpage administratif et par sexe,SOTOUBOUA (occurrence 2),SOTOUBOUA,Total,Nombre,2022,37143,2,homonyme,262,SOTOUBOUA,P16,prefecture
+Population résidente par découpage administratif et par sexe,KANIAMBOUA,KANIAMBOUA,Total,Nombre,2022,2190,1,standard,263,KANIAMBOUA,,
+Population résidente par découpage administratif et par sexe,TABINDE,TABINDE,Total,Nombre,2022,7574,1,standard,264,TABINDE,,
+Population résidente par découpage administratif et par sexe,SOTOUBOUA 2,SOTOUBOUA 2,Total,Nombre,2022,64187,1,standard,265,SOTOUBOUA 2,C43,commune
+Population résidente par découpage administratif et par sexe,ADJENGRE,ADJENGRE,Total,Nombre,2022,21727,1,standard,266,ADJENGRE,,
+Population résidente par découpage administratif et par sexe,SESSARO,SESSARO,Total,Nombre,2022,12226,1,standard,267,SESSARO,,
+Population résidente par découpage administratif et par sexe,TITIGBE,TITIGBE,Total,Nombre,2022,7130,1,standard,268,TITIGBE,,
+Population résidente par découpage administratif et par sexe,KERIADE,KERIADE,Total,Nombre,2022,3524,1,standard,269,KERIADE,,
+Population résidente par découpage administratif et par sexe,FAZAO,FAZAO,Total,Nombre,2022,2289,1,standard,270,FAZAO,,
+Population résidente par découpage administratif et par sexe,AOUDA,AOUDA,Total,Nombre,2022,17291,1,standard,271,AOUDA,,
+Population résidente par découpage administratif et par sexe,SOTOUBOUA 3,SOTOUBOUA 3,Total,Nombre,2022,27770,1,standard,272,SOTOUBOUA 3,C44,commune
+Population résidente par découpage administratif et par sexe,TCHEBEBE,TCHEBEBE,Total,Nombre,2022,16205,1,standard,273,TCHEBEBE,,
+Population résidente par découpage administratif et par sexe,BODJONDE,BODJONDE,Total,Nombre,2022,2218,1,standard,274,BODJONDE,,
+Population résidente par découpage administratif et par sexe,KAZABOUA,KAZABOUA,Total,Nombre,2022,9347,1,standard,275,KAZABOUA,,
+Population résidente par découpage administratif et par sexe,MO,MO,Total,Nombre,2022,52448,1,standard,276,MO,P19,prefecture
+Population résidente par découpage administratif et par sexe,MO 1,MO 1,Total,Nombre,2022,30522,1,standard,277,MO 1,C52,commune
+Population résidente par découpage administratif et par sexe,DJARKPANGA,DJARKPANGA,Total,Nombre,2022,19374,1,standard,278,DJARKPANGA,,
+Population résidente par découpage administratif et par sexe,KAGNIGBARA,KAGNIGBARA,Total,Nombre,2022,5317,1,standard,279,KAGNIGBARA,,
+Population résidente par découpage administratif et par sexe,BOULOHOU,BOULOHOU,Total,Nombre,2022,5831,1,standard,280,BOULOHOU,,
+Population résidente par découpage administratif et par sexe,MO 2,MO 2,Total,Nombre,2022,21926,1,standard,281,MO 2,C53,commune
+Population résidente par découpage administratif et par sexe,TINDJASSI,TINDJASSI,Total,Nombre,2022,14230,1,standard,282,TINDJASSI,,
+Population résidente par découpage administratif et par sexe,SAIBOUDE,SAIBOUDE,Total,Nombre,2022,7696,1,standard,283,SAIBOUDE,,
+Population résidente par découpage administratif et par sexe,PLATEAUX,PLATEAUX,Total,Nombre,2022,1635946,1,standard,284,PLATEAUX,R4,region
+Population résidente par découpage administratif et par sexe,OGOU,OGOU,Total,Nombre,2022,253467,1,standard,285,OGOU,P30,prefecture
+Population résidente par découpage administratif et par sexe,OGOU 1,OGOU 1,Total,Nombre,2022,116301,1,standard,286,OGOU 1,C78,commune
+Population résidente par découpage administratif et par sexe,DJAMA,DJAMA,Total,Nombre,2022,45885,1,standard,287,DJAMA,,
+Population résidente par découpage administratif et par sexe,GNAGNA,GNAGNA,Total,Nombre,2022,60222,1,standard,288,GNAGNA,,
+Population résidente par découpage administratif et par sexe,WOUDOU,WOUDOU,Total,Nombre,2022,10194,1,standard,289,WOUDOU,,
+Population résidente par découpage administratif et par sexe,OGOU 2,OGOU 2,Total,Nombre,2022,56282,1,standard,290,OGOU 2,C79,commune
+Population résidente par découpage administratif et par sexe,DATCHA,DATCHA,Total,Nombre,2022,15180,1,standard,291,DATCHA,,
+Population résidente par découpage administratif et par sexe,KATORE,KATORE,Total,Nombre,2022,13635,1,standard,292,KATORE,,
+Population résidente par découpage administratif et par sexe,AKPARE,AKPARE,Total,Nombre,2022,27467,1,standard,293,AKPARE,,
+Population résidente par découpage administratif et par sexe,OGOU 3,OGOU 3,Total,Nombre,2022,51836,1,standard,294,OGOU 3,C80,commune
+Population résidente par découpage administratif et par sexe,GLEI,GLEI,Total,Nombre,2022,51836,1,standard,295,GLEI,,
+Population résidente par découpage administratif et par sexe,OGOU 4,OGOU 4,Total,Nombre,2022,29048,1,standard,296,OGOU 4,C81,commune
+Population résidente par découpage administratif et par sexe,OUNTIVOU,OUNTIVOU,Total,Nombre,2022,29048,1,standard,297,OUNTIVOU,,
+Population résidente par découpage administratif et par sexe,MOYEN-MONO,MOYEN-MONO,Total,Nombre,2022,90505,1,standard,298,MOYEN MONO,P29,prefecture
+Population résidente par découpage administratif et par sexe,MOYEN-MONO 1,MOYEN-MONO 1,Total,Nombre,2022,46797,1,standard,299,MOYEN MONO 1,C76,commune
+Population résidente par découpage administratif et par sexe,TOHOUN,TOHOUN,Total,Nombre,2022,18393,1,standard,300,TOHOUN,,
+Population résidente par découpage administratif et par sexe,TADO,TADO,Total,Nombre,2022,18476,1,standard,301,TADO,,
+Population résidente par découpage administratif et par sexe,AHASSOME,AHASSOME,Total,Nombre,2022,9928,1,standard,302,AHASSOME,,
+Population résidente par découpage administratif et par sexe,MOYEN-MONO 2,MOYEN-MONO 2,Total,Nombre,2022,43708,1,standard,303,MOYEN MONO 2,C77,commune
+Population résidente par découpage administratif et par sexe,KPEKPLEME,KPEKPLEME,Total,Nombre,2022,22135,1,standard,304,KPEKPLEME,,
+Population résidente par découpage administratif et par sexe,KATOME,KATOME,Total,Nombre,2022,8105,1,standard,305,KATOME,,
+Population résidente par découpage administratif et par sexe,SALIGBE,SALIGBE,Total,Nombre,2022,13468,1,standard,306,SALIGBE,,
+Population résidente par découpage administratif et par sexe,HAHO,HAHO,Total,Nombre,2022,305096,1,standard,307,HAHO,P26,prefecture
+Population résidente par découpage administratif et par sexe,HAHO 1,HAHO 1,Total,Nombre,2022,119929,1,standard,308,HAHO 1,C67,commune
+Population résidente par découpage administratif et par sexe,NOTSE,NOTSE,Total,Nombre,2022,58983,1,standard,309,NOTSE,,
+Population résidente par découpage administratif et par sexe,ATCHAVE,ATCHAVE,Total,Nombre,2022,25560,1,standard,310,ATCHAVE,,
+Population résidente par découpage administratif et par sexe,DALIA,DALIA,Total,Nombre,2022,16372,1,standard,311,DALIA,,
+Population résidente par découpage administratif et par sexe,HAHOMEGBE,HAHOMEGBE,Total,Nombre,2022,19014,1,standard,312,HAHOMEGBE,,
+Population résidente par découpage administratif et par sexe,HAHO 2,HAHO 2,Total,Nombre,2022,82507,1,standard,313,HAHO 2,C68,commune
+Population résidente par découpage administratif et par sexe,ASRAMA,ASRAMA,Total,Nombre,2022,50994,1,standard,314,ASRAMA,,
+Population résidente par découpage administratif et par sexe,DJEMEGNI,DJEMEGNI,Total,Nombre,2022,31513,1,standard,315,DJEMEGNI,,
+Population résidente par découpage administratif et par sexe,HAHO 3,HAHO 3,Total,Nombre,2022,58695,1,standard,316,HAHO 3,C69,commune
+Population résidente par découpage administratif et par sexe,KPEDOME,KPEDOME,Total,Nombre,2022,46326,1,standard,317,KPEDOME,,
+Population résidente par découpage administratif et par sexe,AKPAKPAKPE,AKPAKPAKPE,Total,Nombre,2022,12369,1,standard,318,AKPAKPAKPE,,
+Population résidente par découpage administratif et par sexe,HAHO 4,HAHO 4,Total,Nombre,2022,43965,1,standard,319,HAHO 4,C70,commune
+Population résidente par découpage administratif et par sexe,WAHALA,WAHALA,Total,Nombre,2022,36703,1,standard,320,WAHALA,,
+Population résidente par découpage administratif et par sexe,AYITO,AYITO,Total,Nombre,2022,7262,1,standard,321,AYITO,,
+Population résidente par découpage administratif et par sexe,AGOU,AGOU,Total,Nombre,2022,85793,1,standard,322,AGOU,P20,prefecture
+Population résidente par découpage administratif et par sexe,AGOU 1,AGOU 1,Total,Nombre,2022,58328,1,standard,323,AGOU 1,C54,commune
+Population résidente par découpage administratif et par sexe,AGOU TAVIE,AGOU TAVIE,Total,Nombre,2022,9019,1,standard,324,AGOU TAVIE,,
+Population résidente par découpage administratif et par sexe,AGOU-AKPLOLO,AGOU-AKPLOLO,Total,Nombre,2022,2609,1,standard,325,AGOU AKPLOLO,,
+Population résidente par découpage administratif et par sexe,AGOU KEBO,AGOU KEBO,Total,Nombre,2022,2708,1,standard,326,AGOU KEBO,,
+Population résidente par découpage administratif et par sexe,AGOU YIBOE,AGOU YIBOE,Total,Nombre,2022,2894,1,standard,327,AGOU YIBOE,,
+Population résidente par découpage administratif et par sexe,KATI,KATI,Total,Nombre,2022,8231,1,standard,328,KATI,,
+Population résidente par découpage administratif et par sexe,GADJA,GADJA,Total,Nombre,2022,20634,1,standard,329,GADJA,,
+Population résidente par découpage administratif et par sexe,AGOU ATIGBE,AGOU ATIGBE,Total,Nombre,2022,1845,1,standard,330,AGOU ATIGBE,,
+Population résidente par découpage administratif et par sexe,ADJAHUN FIAGBE,ADJAHUN FIAGBE,Total,Nombre,2022,2934,1,standard,331,ADJAHUN FIAGBE,,
+Population résidente par découpage administratif et par sexe,NYOGBO-NORD_NYOGBO-SUD,NYOGBO-NORD_NYOGBO-SUD,Total,Nombre,2022,7454,1,standard,332,NYOGBO NORD NYOGBO SUD,,
+Population résidente par découpage administratif et par sexe,AGOU 2,AGOU 2,Total,Nombre,2022,27465,1,standard,333,AGOU 2,C55,commune
+Population résidente par découpage administratif et par sexe,AMOUSSOU KOPE,AMOUSSOU KOPE,Total,Nombre,2022,11697,1,standard,334,AMOUSSOU KOPE,,
+Population résidente par découpage administratif et par sexe,ADZAKPA,ADZAKPA,Total,Nombre,2022,7436,1,standard,335,ADZAKPA,,
+Population résidente par découpage administratif et par sexe,AGOTIME NORD,AGOTIME NORD,Total,Nombre,2022,8332,1,standard,336,AGOTIME NORD,,
+Population résidente par découpage administratif et par sexe,KLOTO,KLOTO,Total,Nombre,2022,145986,1,standard,337,KLOTO,P27,prefecture
+Population résidente par découpage administratif et par sexe,KLOTO 1,KLOTO 1,Total,Nombre,2022,118387,1,standard,338,KLOTO 1,C71,commune
+Population résidente par découpage administratif et par sexe,AGOME KPALIME,AGOME KPALIME,Total,Nombre,2022,87478,1,standard,339,AGOME KPALIME,,
+Population résidente par découpage administratif et par sexe,YOKELE,YOKELE,Total,Nombre,2022,3248,1,standard,340,YOKELE,,
+Population résidente par découpage administratif et par sexe,TOVE,TOVE,Total,Nombre,2022,5662,1,standard,341,TOVE,,
+Population résidente par découpage administratif et par sexe,TOME,TOME,Total,Nombre,2022,3287,1,standard,342,TOME,,
+Population résidente par découpage administratif et par sexe,GBALAVE,GBALAVE,Total,Nombre,2022,2304,1,standard,343,GBALAVE,,
+Population résidente par découpage administratif et par sexe,HANYIGBA,HANYIGBA,Total,Nombre,2022,4455,1,standard,344,HANYIGBA,,
+Population résidente par découpage administratif et par sexe,KPADAPE_WOME,KPADAPE_WOME,Total,Nombre,2022,11953,1,standard,345,KPADAPE WOME,,
+Population résidente par découpage administratif et par sexe,KLOTO 2,KLOTO 2,Total,Nombre,2022,16166,1,standard,346,KLOTO 2,C72,commune
+Population résidente par découpage administratif et par sexe,KPIME,KPIME,Total,Nombre,2022,7225,1,standard,347,KPIME,,
+Population résidente par découpage administratif et par sexe,LAVIE /LAVIE APEDOME,LAVIE /LAVIE APEDOME,Total,Nombre,2022,8941,1,standard,348,LAVIE LAVIE APEDOME,,
+Population résidente par découpage administratif et par sexe,KLOTO 3,KLOTO 3,Total,Nombre,2022,11433,1,standard,349,KLOTO 3,C73,commune
+Population résidente par découpage administratif et par sexe,KOUMA,KOUMA,Total,Nombre,2022,6815,1,standard,350,KOUMA,,
+Population résidente par découpage administratif et par sexe,AGOME,AGOME,Total,Nombre,2022,1785,1,standard,351,AGOME,,
+Population résidente par découpage administratif et par sexe,AGOME-TOMEGBE,AGOME-TOMEGBE,Total,Nombre,2022,2833,1,standard,352,AGOME TOMEGBE,,
+Population résidente par découpage administratif et par sexe,KPELE,KPELE,Total,Nombre,2022,80939,1,standard,353,KPELE,P28,prefecture
+Population résidente par découpage administratif et par sexe,KPELE 1,KPELE 1,Total,Nombre,2022,53275,1,standard,354,KPELE 1,C74,commune
+Population résidente par découpage administratif et par sexe,KPELE-NOVIVE,KPELE-NOVIVE,Total,Nombre,2022,29987,1,standard,355,KPELE NOVIVE,,
+Population résidente par découpage administratif et par sexe,AKATA,AKATA,Total,Nombre,2022,7655,1,standard,356,AKATA,,
+Population résidente par découpage administratif et par sexe,KPELE-GOVIE,KPELE-GOVIE,Total,Nombre,2022,4629,1,standard,357,KPELE GOVIE,,
+Population résidente par découpage administratif et par sexe,KPELE-DAWLOTOU,KPELE-DAWLOTOU,Total,Nombre,2022,11004,1,standard,358,KPELE DAWLOTOU,,
+Population résidente par découpage administratif et par sexe,KPELE 2,KPELE 2,Total,Nombre,2022,27664,1,standard,359,KPELE 2,C75,commune
+Population résidente par découpage administratif et par sexe,KPELE-CENTRE/GOUDEVE,KPELE-CENTRE/GOUDEVE,Total,Nombre,2022,7262,1,standard,360,KPELE CENTRE GOUDEVE,,
+Population résidente par découpage administratif et par sexe,KPELE-GBALADZE,KPELE-GBALADZE,Total,Nombre,2022,3325,1,standard,361,KPELE GBALADZE,,
+Population résidente par découpage administratif et par sexe,KPELE-KAME,KPELE-KAME,Total,Nombre,2022,5966,1,standard,362,KPELE KAME,,
+Population résidente par découpage administratif et par sexe,KPELE-DUTOE,KPELE-DUTOE,Total,Nombre,2022,3573,1,standard,363,KPELE DUTOE,,
+Population résidente par découpage administratif et par sexe,KPELE-NORD,KPELE-NORD,Total,Nombre,2022,7538,1,standard,364,KPELE NORD,,
+Population résidente par découpage administratif et par sexe,DANYI,DANYI,Total,Nombre,2022,40240,1,standard,365,DANYI,P24,prefecture
+Population résidente par découpage administratif et par sexe,DANYI 1+DANYI 2,DANYI 1+DANYI 2,Total,Nombre,2022,40240,1,standard,366,DANYI 1 DANYI 2,,
+Population résidente par découpage administratif et par sexe,DANYI-KAKPA,DANYI-KAKPA,Total,Nombre,2022,8891,1,standard,367,DANYI KAKPA,,
+Population résidente par découpage administratif et par sexe,YIKPA,YIKPA,Total,Nombre,2022,1243,1,standard,368,YIKPA,,
+Population résidente par découpage administratif et par sexe,DANYI-ATIGBA_DANYI-ELAVANYO,DANYI-ATIGBA_DANYI-ELAVANYO,Total,Nombre,2022,22125,1,standard,369,DANYI ATIGBA DANYI ELAVANYO,,
+Population résidente par découpage administratif et par sexe,AHLON,AHLON,Total,Nombre,2022,4423,1,standard,370,AHLON,,
+Population résidente par découpage administratif et par sexe,DANYI KPETO-EVITA,DANYI KPETO-EVITA,Total,Nombre,2022,3558,1,standard,371,DANYI KPETO EVITA,,
+Population résidente par découpage administratif et par sexe,WAWA,WAWA,Total,Nombre,2022,101300,1,standard,372,WAWA,P31,prefecture
+Population résidente par découpage administratif et par sexe,WAWA 1,WAWA 1,Total,Nombre,2022,51187,1,standard,373,WAWA 1,C82,commune
+Population résidente par découpage administratif et par sexe,BADOU,BADOU,Total,Nombre,2022,20144,1,standard,374,BADOU,,
+Population résidente par découpage administratif et par sexe,KESSIBO,KESSIBO,Total,Nombre,2022,10490,1,standard,375,KESSIBO,,
+Population résidente par découpage administratif et par sexe,TOMEGBE,TOMEGBE,Total,Nombre,2022,8784,1,standard,376,TOMEGBE,,
+Population résidente par découpage administratif et par sexe,KPETE BENA,KPETE BENA,Total,Nombre,2022,11769,1,standard,377,KPETE BENA,,
+Population résidente par découpage administratif et par sexe,WAWA 2,WAWA 2,Total,Nombre,2022,20414,1,standard,378,WAWA 2,C83,commune
+Population résidente par découpage administratif et par sexe,EKETO_GBANDI-N'KOUGNA_GOBE,EKETO_GBANDI-N'KOUGNA_GOBE,Total,Nombre,2022,20414,1,standard,379,EKETO GBANDI N KOUGNA GOBE,,
+Population résidente par découpage administratif et par sexe,WAWA 3,WAWA 3,Total,Nombre,2022,29699,1,standard,380,WAWA 3,C84,commune
+Population résidente par découpage administratif et par sexe,OKOU,OKOU,Total,Nombre,2022,4765,1,standard,381,OKOU,,
+Population résidente par découpage administratif et par sexe,OUNABE,OUNABE,Total,Nombre,2022,3477,1,standard,382,OUNABE,,
+Population résidente par découpage administratif et par sexe,DOUME,DOUME,Total,Nombre,2022,4642,1,standard,383,DOUME,,
+Population résidente par découpage administratif et par sexe,ZOGBEGAN,ZOGBEGAN,Total,Nombre,2022,10912,1,standard,384,ZOGBEGAN,,
+Population résidente par découpage administratif et par sexe,KLABE EFOUKPA,KLABE EFOUKPA,Total,Nombre,2022,5903,1,standard,385,KLABE EFOUKPA,,
+Population résidente par découpage administratif et par sexe,AKEBOU,AKEBOU,Total,Nombre,2022,73830,1,standard,386,AKEBOU,P21,prefecture
+Population résidente par découpage administratif et par sexe,AKEBOU 1,AKEBOU 1,Total,Nombre,2022,44196,1,standard,387,AKEBOU 1,C56,commune
+Population résidente par découpage administratif et par sexe,KOUGNOHOU,KOUGNOHOU,Total,Nombre,2022,13718,1,standard,388,KOUGNOHOU,,
+Population résidente par découpage administratif et par sexe,VHE,VHE,Total,Nombre,2022,5315,1,standard,389,VHE,,
+Population résidente par découpage administratif et par sexe,DJON,DJON,Total,Nombre,2022,13562,1,standard,390,DJON,,
+Population résidente par découpage administratif et par sexe,GBENDE,GBENDE,Total,Nombre,2022,6071,1,standard,391,GBENDE,,
+Population résidente par découpage administratif et par sexe,YALLA,YALLA,Total,Nombre,2022,5530,1,standard,392,YALLA,,
+Population résidente par découpage administratif et par sexe,AKEBOU 2,AKEBOU 2,Total,Nombre,2022,29634,1,standard,393,AKEBOU 2,C57,commune
+Population résidente par découpage administratif et par sexe,KAMINA,KAMINA,Total,Nombre,2022,14632,1,standard,394,KAMINA,,
+Population résidente par découpage administratif et par sexe,KPALAVE,KPALAVE,Total,Nombre,2022,6989,1,standard,395,KPALAVE,,
+Population résidente par découpage administratif et par sexe,SEREGBENE,SEREGBENE,Total,Nombre,2022,8013,1,standard,396,SEREGBENE,,
+Population résidente par découpage administratif et par sexe,AMOU,AMOU,Total,Nombre,2022,114172,1,standard,397,AMOU,P22,prefecture
+Population résidente par découpage administratif et par sexe,AMOU 1,AMOU 1,Total,Nombre,2022,19746,1,standard,398,AMOU 1,C58,commune
+Population résidente par découpage administratif et par sexe,OUMA-AMLAME,OUMA-AMLAME,Total,Nombre,2022,13782,1,standard,399,OUMA AMLAME,,
+Population résidente par découpage administratif et par sexe,IMLE,IMLE,Total,Nombre,2022,4806,1,standard,400,IMLE,,
+Population résidente par découpage administratif et par sexe,ADIVA,ADIVA,Total,Nombre,2022,1158,1,standard,401,ADIVA,,
+Population résidente par découpage administratif et par sexe,AMOU 2,AMOU 2,Total,Nombre,2022,40016,1,standard,402,AMOU 2,C59,commune
+Population résidente par découpage administratif et par sexe,AMOU-OBLO,AMOU-OBLO,Total,Nombre,2022,19923,1,standard,403,AMOU OBLO,,
+Population résidente par découpage administratif et par sexe,SODO,SODO,Total,Nombre,2022,3920,1,standard,404,SODO,,
+Population résidente par découpage administratif et par sexe,EKPEGNON,EKPEGNON,Total,Nombre,2022,6098,1,standard,405,EKPEGNON,,
+Population résidente par découpage administratif et par sexe,KPATEGAN,KPATEGAN,Total,Nombre,2022,10075,1,standard,406,KPATEGAN,,
+Population résidente par découpage administratif et par sexe,AMOU 2 (occurrence 2),AMOU 2,Total,Nombre,2022,54410,2,homonyme,407,AMOU 2,C59,commune
+Population résidente par découpage administratif et par sexe,HIHEATRO,HIHEATRO,Total,Nombre,2022,23330,1,standard,408,HIHEATRO,,
+Population résidente par découpage administratif et par sexe,OKPAHOE,OKPAHOE,Total,Nombre,2022,1247,1,standard,409,OKPAHOE,,
+Population résidente par découpage administratif et par sexe,OTADI,OTADI,Total,Nombre,2022,5421,1,standard,410,OTADI,,
+Population résidente par découpage administratif et par sexe,GAME,GAME,Total,Nombre,2022,7377,1,standard,411,GAME,,
+Population résidente par découpage administratif et par sexe,AVEDJE-ITADI,AVEDJE-ITADI,Total,Nombre,2022,3116,1,standard,412,AVEDJE ITADI,,
+Population résidente par découpage administratif et par sexe,TEMEDJA,TEMEDJA,Total,Nombre,2022,9026,1,standard,413,TEMEDJA,,
+Population résidente par découpage administratif et par sexe,EVOU,EVOU,Total,Nombre,2022,4893,1,standard,414,EVOU,,
+Population résidente par découpage administratif et par sexe,ANIE,ANIE,Total,Nombre,2022,180158,1,standard,415,ANIE,P23,prefecture
+Population résidente par découpage administratif et par sexe,ANIE 1,ANIE 1,Total,Nombre,2022,100745,1,standard,416,ANIE 1,C60,commune
+Population résidente par découpage administratif et par sexe,ANIE (occurrence 2),ANIE,Total,Nombre,2022,78455,2,homonyme,417,ANIE,P23,prefecture
+Population résidente par découpage administratif et par sexe,PALLAKOKO,PALLAKOKO,Total,Nombre,2022,7372,1,standard,418,PALLAKOKO,,
+Population résidente par découpage administratif et par sexe,KOLO-KOPE,KOLO-KOPE,Total,Nombre,2022,14918,1,standard,419,KOLO KOPE,,
+Population résidente par découpage administratif et par sexe,ANIE 2,ANIE 2,Total,Nombre,2022,79413,1,standard,420,ANIE 2,C61,commune
+Population résidente par découpage administratif et par sexe,ADOGBENOU,ADOGBENOU,Total,Nombre,2022,37998,1,standard,421,ADOGBENOU,,
+Population résidente par découpage administratif et par sexe,GLITTO,GLITTO,Total,Nombre,2022,23415,1,standard,422,GLITTO,,
+Population résidente par découpage administratif et par sexe,ATCHINEDJI,ATCHINEDJI,Total,Nombre,2022,18000,1,standard,423,ATCHINEDJI,,
+Population résidente par découpage administratif et par sexe,EST-MONO,EST-MONO,Total,Nombre,2022,164460,1,standard,424,EST MONO,P25,prefecture
+Population résidente par découpage administratif et par sexe,EST-MONO 1,EST-MONO 1,Total,Nombre,2022,34652,1,standard,425,EST MONO 1,C64,commune
+Population résidente par découpage administratif et par sexe,ELAVAGNON,ELAVAGNON,Total,Nombre,2022,25016,1,standard,426,ELAVAGNON,,
+Population résidente par découpage administratif et par sexe,GBADJAHE,GBADJAHE,Total,Nombre,2022,9636,1,standard,427,GBADJAHE,,
+Population résidente par découpage administratif et par sexe,EST-MONO 2,EST-MONO 2,Total,Nombre,2022,101866,1,standard,428,EST MONO 2,C65,commune
+Population résidente par découpage administratif et par sexe,MORETAN,MORETAN,Total,Nombre,2022,49295,1,standard,429,MORETAN,,
+Population résidente par découpage administratif et par sexe,BADIN,BADIN,Total,Nombre,2022,26879,1,standard,430,BADIN,,
+Population résidente par découpage administratif et par sexe,KAMINA (occurrence 2),KAMINA,Total,Nombre,2022,25692,2,homonyme,431,KAMINA,,
+Population résidente par découpage administratif et par sexe,EST-MONO 1 (occurrence 2),EST-MONO 1,Total,Nombre,2022,27942,2,homonyme,432,EST MONO 1,C64,commune
+Population résidente par découpage administratif et par sexe,NYAMASSILA,NYAMASSILA,Total,Nombre,2022,16032,1,standard,433,NYAMASSILA,,
+Population résidente par découpage administratif et par sexe,KPESSI,KPESSI,Total,Nombre,2022,11910,1,standard,434,KPESSI,,
+Population résidente par découpage administratif et par sexe,MARITIME,MARITIME,Total,Nombre,2022,1346615,1,standard,435,MARITIME,R5,region
+Population résidente par découpage administratif et par sexe,ZIO,ZIO,Total,Nombre,2022,500032,1,standard,436,ZIO,P39,prefecture
+Population résidente par découpage administratif et par sexe,ZIO 1,ZIO 1,Total,Nombre,2022,307292,1,standard,437,ZIO 1,C113,commune
+Population résidente par découpage administratif et par sexe,TSEVIE,TSEVIE,Total,Nombre,2022,81568,1,standard,438,TSEVIE,,
+Population résidente par découpage administratif et par sexe,GBATOPE,GBATOPE,Total,Nombre,2022,26317,1,standard,439,GBATOPE,,
+Population résidente par découpage administratif et par sexe,KPOME,KPOME,Total,Nombre,2022,18991,1,standard,440,KPOME,,
+Population résidente par découpage administratif et par sexe,ABOBO,ABOBO,Total,Nombre,2022,40622,1,standard,441,ABOBO,,
+Population résidente par découpage administratif et par sexe,DJAGBLE,DJAGBLE,Total,Nombre,2022,65455,1,standard,442,DJAGBLE,,
+Population résidente par découpage administratif et par sexe,DALAVE,DALAVE,Total,Nombre,2022,24596,1,standard,443,DALAVE,,
+Population résidente par découpage administratif et par sexe,DAVIE,DAVIE,Total,Nombre,2022,40518,1,standard,444,DAVIE,,
+Population résidente par découpage administratif et par sexe,GBLAINVIE,GBLAINVIE,Total,Nombre,2022,9225,1,standard,445,GBLAINVIE,,
+Population résidente par découpage administratif et par sexe,ZIO 2,ZIO 2,Total,Nombre,2022,96193,1,standard,446,ZIO 2,C114,commune
+Population résidente par découpage administratif et par sexe,KOVIE,KOVIE,Total,Nombre,2022,20834,1,standard,447,KOVIE,,
+Population résidente par découpage administratif et par sexe,WLI,WLI,Total,Nombre,2022,5687,1,standard,448,WLI,,
+Population résidente par découpage administratif et par sexe,BOLOU,BOLOU,Total,Nombre,2022,12878,1,standard,449,BOLOU,,
+Population résidente par découpage administratif et par sexe,MISSION TOVE,MISSION TOVE,Total,Nombre,2022,56794,1,standard,450,MISSION TOVE,,
+Population résidente par découpage administratif et par sexe,ZIO 3,ZIO 3,Total,Nombre,2022,67843,1,standard,451,ZIO 3,C115,commune
+Population résidente par découpage administratif et par sexe,AGBELOUVE,AGBELOUVE,Total,Nombre,2022,50219,1,standard,452,AGBELOUVE,,
+Population résidente par découpage administratif et par sexe,GAME (occurrence 2),GAME,Total,Nombre,2022,17624,2,homonyme,453,GAME,,
+Population résidente par découpage administratif et par sexe,ZIO 4,ZIO 4,Total,Nombre,2022,28704,1,standard,454,ZIO 4,C116,commune
+Population résidente par découpage administratif et par sexe,GAPE-CENTRE,GAPE-CENTRE,Total,Nombre,2022,20215,1,standard,455,GAPE CENTRE,,
+Population résidente par découpage administratif et par sexe,GAPE-KPODJI,GAPE-KPODJI,Total,Nombre,2022,8489,1,standard,456,GAPE KPODJI,,
+Population résidente par découpage administratif et par sexe,YOTO,YOTO,Total,Nombre,2022,174851,1,standard,457,YOTO,P38,prefecture
+Population résidente par découpage administratif et par sexe,YOTO 1,YOTO 1,Total,Nombre,2022,77353,1,standard,458,YOTO 1,C110,commune
+Population résidente par découpage administratif et par sexe,TABLIGBO,TABLIGBO,Total,Nombre,2022,37182,1,standard,459,TABLIGBO,,
+Population résidente par découpage administratif et par sexe,KOUVE,KOUVE,Total,Nombre,2022,21986,1,standard,460,KOUVE,,
+Population résidente par découpage administratif et par sexe,AMOUSSIME,AMOUSSIME,Total,Nombre,2022,12720,1,standard,461,AMOUSSIME,,
+Population résidente par découpage administratif et par sexe,KINI-KONDJI,KINI-KONDJI,Total,Nombre,2022,5465,1,standard,462,KINI KONDJI,,
+Population résidente par découpage administratif et par sexe,YOTO 2,YOTO 2,Total,Nombre,2022,43412,1,standard,463,YOTO 2,C111,commune
+Population résidente par découpage administratif et par sexe,AHEPE,AHEPE,Total,Nombre,2022,18138,1,standard,464,AHEPE,,
+Population résidente par découpage administratif et par sexe,TCHEKPO,TCHEKPO,Total,Nombre,2022,14591,1,standard,465,TCHEKPO,,
+Population résidente par découpage administratif et par sexe,ZAFI,ZAFI,Total,Nombre,2022,10683,1,standard,466,ZAFI,,
+Population résidente par découpage administratif et par sexe,YOTO 3,YOTO 3,Total,Nombre,2022,54086,1,standard,467,YOTO 3,C112,commune
+Population résidente par découpage administratif et par sexe,TOKPLI,TOKPLI,Total,Nombre,2022,13998,1,standard,468,TOKPLI,,
+Population résidente par découpage administratif et par sexe,GBOTO,GBOTO,Total,Nombre,2022,13168,1,standard,469,GBOTO,,
+Population résidente par découpage administratif et par sexe,TOMETY-KONDJI,TOMETY-KONDJI,Total,Nombre,2022,9068,1,standard,470,TOMETY KONDJI,,
+Population résidente par découpage administratif et par sexe,SEDOME,SEDOME,Total,Nombre,2022,9955,1,standard,471,SEDOME,,
+Population résidente par découpage administratif et par sexe,ESSE-GODJIN,ESSE-GODJIN,Total,Nombre,2022,7897,1,standard,472,ESSE GODJIN,,
+Population résidente par découpage administratif et par sexe,BAS-MONO,BAS-MONO,Total,Nombre,2022,94860,1,standard,473,BAS MONO,P34,prefecture
+Population résidente par découpage administratif et par sexe,BAS-MONO 1,BAS-MONO 1,Total,Nombre,2022,55382,1,standard,474,BAS MONO 1,C93,commune
+Population résidente par découpage administratif et par sexe,AFAGNAGAN,AFAGNAGAN,Total,Nombre,2022,19478,1,standard,475,AFAGNAGAN,,
+Population résidente par découpage administratif et par sexe,AFAGNAN,AFAGNAN,Total,Nombre,2022,15929,1,standard,476,AFAGNAN,,
+Population résidente par découpage administratif et par sexe,AGOME-GLOZOU,AGOME-GLOZOU,Total,Nombre,2022,7254,1,standard,477,AGOME GLOZOU,,
+Population résidente par découpage administratif et par sexe,KPETSOU,KPETSOU,Total,Nombre,2022,12721,1,standard,478,KPETSOU,,
+Population résidente par découpage administratif et par sexe,BAS-MONO 2,BAS-MONO 2,Total,Nombre,2022,39478,1,standard,479,BAS MONO 2,C94,commune
+Population résidente par découpage administratif et par sexe,ATTITOGON,ATTITOGON,Total,Nombre,2022,31288,1,standard,480,ATTITOGON,,
+Population résidente par découpage administratif et par sexe,AGBETIKO,AGBETIKO,Total,Nombre,2022,4087,1,standard,481,AGBETIKO,,
+Population résidente par découpage administratif et par sexe,HOMPOU,HOMPOU,Total,Nombre,2022,4103,1,standard,482,HOMPOU,,
+Population résidente par découpage administratif et par sexe,LACS,LACS,Total,Nombre,2022,241247,1,standard,483,LACS,P36,prefecture
+Population résidente par découpage administratif et par sexe,LACS 1,LACS 1,Total,Nombre,2022,52994,1,standard,484,LACS 1,C102,commune
+Population résidente par découpage administratif et par sexe,ANEHO,ANEHO,Total,Nombre,2022,28237,1,standard,485,ANEHO,,
+Population résidente par découpage administratif et par sexe,GLIDJI,GLIDJI,Total,Nombre,2022,24757,1,standard,486,GLIDJI,,
+Population résidente par découpage administratif et par sexe,LACS 2,LACS 2,Total,Nombre,2022,42855,1,standard,487,LACS 2,C103,commune
+Population résidente par découpage administratif et par sexe,AKLAKOU,AKLAKOU,Total,Nombre,2022,31030,1,standard,488,AKLAKOU,,
+Population résidente par découpage administratif et par sexe,AGOUEGAN,AGOUEGAN,Total,Nombre,2022,11825,1,standard,489,AGOUEGAN,,
+Population résidente par découpage administratif et par sexe,LACS 3,LACS 3,Total,Nombre,2022,108176,1,standard,490,LACS 3,C104,commune
+Population résidente par découpage administratif et par sexe,AGBODRAFO,AGBODRAFO,Total,Nombre,2022,35262,1,standard,491,AGBODRAFO,,
+Population résidente par découpage administratif et par sexe,GBODJOME,GBODJOME,Total,Nombre,2022,72914,1,standard,492,GBODJOME,,
+Population résidente par découpage administratif et par sexe,LACS 4,LACS 4,Total,Nombre,2022,37222,1,standard,493,LACS 4,C105,commune
+Population résidente par découpage administratif et par sexe,ANFOIN,ANFOIN,Total,Nombre,2022,17172,1,standard,494,ANFOIN,,
+Population résidente par découpage administratif et par sexe,GANAVE,GANAVE,Total,Nombre,2022,11062,1,standard,495,GANAVE,,
+Population résidente par découpage administratif et par sexe,FIATA,FIATA,Total,Nombre,2022,8988,1,standard,496,FIATA,,
+Population résidente par découpage administratif et par sexe,VO,VO,Total,Nombre,2022,224411,1,standard,497,VO,P37,prefecture
+Population résidente par découpage administratif et par sexe,VO 1,VO 1,Total,Nombre,2022,88865,1,standard,498,VO 1,C106,commune
+Population résidente par découpage administratif et par sexe,VOGAN,VOGAN,Total,Nombre,2022,64675,1,standard,499,VOGAN,,
+Population résidente par découpage administratif et par sexe,VO-KOUTIME,VO-KOUTIME,Total,Nombre,2022,24190,1,standard,500,VO KOUTIME,,
+Population résidente par découpage administratif et par sexe,VO 2,VO 2,Total,Nombre,2022,24396,1,standard,501,VO 2,C107,commune
+Population résidente par découpage administratif et par sexe,TOGOVILLE,TOGOVILLE,Total,Nombre,2022,18253,1,standard,502,TOGOVILLE,,
+Population résidente par découpage administratif et par sexe,ANYRON KOPE,ANYRON KOPE,Total,Nombre,2022,6143,1,standard,503,ANYRON KOPE,,
+Population résidente par découpage administratif et par sexe,VO 3,VO 3,Total,Nombre,2022,64651,1,standard,504,VO 3,C108,commune
+Population résidente par découpage administratif et par sexe,DZREKPO,DZREKPO,Total,Nombre,2022,29687,1,standard,505,DZREKPO,,
+Population résidente par découpage administratif et par sexe,DAGBATI,DAGBATI,Total,Nombre,2022,18206,1,standard,506,DAGBATI,,
+Population résidente par découpage administratif et par sexe,MOME-HOUNKPATI,MOME-HOUNKPATI,Total,Nombre,2022,16758,1,standard,507,MOME HOUNKPATI,,
+Population résidente par découpage administratif et par sexe,VO 4,VO 4,Total,Nombre,2022,46499,1,standard,508,VO 4,C109,commune
+Population résidente par découpage administratif et par sexe,AKOUMAPE,AKOUMAPE,Total,Nombre,2022,19187,1,standard,509,AKOUMAPE,,
+Population résidente par découpage administratif et par sexe,SEVAGAN,SEVAGAN,Total,Nombre,2022,12919,1,standard,510,SEVAGAN,,
+Population résidente par découpage administratif et par sexe,HAHOTOE,HAHOTOE,Total,Nombre,2022,14393,1,standard,511,HAHOTOE,,
+Population résidente par découpage administratif et par sexe,TOTOAL AVE,TOTOAL AVE,Total,Nombre,2022,111214,1,standard,512,TOTOAL AVE,,
+Population résidente par découpage administratif et par sexe,AVE 1,AVE 1,Total,Nombre,2022,75044,1,standard,513,AVE 1,C91,commune
+Population résidente par découpage administratif et par sexe,KEVE,KEVE,Total,Nombre,2022,11735,1,standard,514,KEVE,,
+Population résidente par découpage administratif et par sexe,DZOLO,DZOLO,Total,Nombre,2022,8101,1,standard,515,DZOLO,,
+Population résidente par découpage administratif et par sexe,EDZI,EDZI,Total,Nombre,2022,1832,1,standard,516,EDZI,,
+Population résidente par découpage administratif et par sexe,TOVEGAN,TOVEGAN,Total,Nombre,2022,12732,1,standard,517,TOVEGAN,,
+Population résidente par découpage administratif et par sexe,ASSAHOUN/ANDO,ASSAHOUN/ANDO,Total,Nombre,2022,40644,1,standard,518,ASSAHOUN ANDO,,
+Population résidente par découpage administratif et par sexe,AVE 2,AVE 2,Total,Nombre,2022,36170,1,standard,519,AVE 2,C92,commune
+Population résidente par découpage administratif et par sexe,NOEPE,NOEPE,Total,Nombre,2022,9796,1,standard,520,NOEPE,,
+Population résidente par découpage administratif et par sexe,BADJA,BADJA,Total,Nombre,2022,9413,1,standard,521,BADJA,,
+Population résidente par découpage administratif et par sexe,AKEPE,AKEPE,Total,Nombre,2022,16961,1,standard,522,AKEPE,,
+Population résidente par découpage administratif et par sexe,DAGL,DAGL,Total,Nombre,2022,2188376,1,standard,523,DAGL,,
+Population résidente par découpage administratif et par sexe,GOLFE,GOLFE,Total,Nombre,2022,1305681,1,standard,524,GOLFE,P35,prefecture
+Population résidente par découpage administratif et par sexe,GOLFE 1,GOLFE 1,Total,Nombre,2022,351550,1,standard,525,GOLFE 1,C95,commune
+Population résidente par découpage administratif et par sexe,BE,BE,Total,Nombre,2022,10815,1,standard,526,BE,,
+Population résidente par découpage administratif et par sexe,GBENYEDJI,GBENYEDJI,Total,Nombre,2022,11299,1,standard,527,GBENYEDJI,,
+Population résidente par découpage administratif et par sexe,WETE,WETE,Total,Nombre,2022,11088,1,standard,528,WETE,,
+Population résidente par découpage administratif et par sexe,BE HEDJE,BE HEDJE,Total,Nombre,2022,11686,1,standard,529,BE HEDJE,,
+Population résidente par découpage administratif et par sexe,N'TIFAFA KOME,N'TIFAFA KOME,Total,Nombre,2022,4539,1,standard,530,N TIFAFA KOME,,
+Population résidente par découpage administratif et par sexe,BE KPOTA,BE KPOTA,Total,Nombre,2022,41682,1,standard,531,BE KPOTA,,
+Population résidente par découpage administratif et par sexe,ANFAME,ANFAME,Total,Nombre,2022,62588,1,standard,532,ANFAME,,
+Population résidente par découpage administratif et par sexe,KLOBATEME,KLOBATEME,Total,Nombre,2022,6852,1,standard,533,KLOBATEME,,
+Population résidente par découpage administratif et par sexe,ADAKPAME,ADAKPAME,Total,Nombre,2022,35094,1,standard,534,ADAKPAME,,
+Population résidente par découpage administratif et par sexe,KANYIKOPE,KANYIKOPE,Total,Nombre,2022,26457,1,standard,535,KANYIKOPE,,
+Population résidente par découpage administratif et par sexe,AKODESSEWA KPONOU,AKODESSEWA KPONOU,Total,Nombre,2022,14510,1,standard,536,AKODESSEWA KPONOU,,
+Population résidente par découpage administratif et par sexe,AKODESSEWA KPOTA,AKODESSEWA KPOTA,Total,Nombre,2022,11683,1,standard,537,AKODESSEWA KPOTA,,
+Population résidente par découpage administratif et par sexe,ZONE PORTUAIRE,ZONE PORTUAIRE,Total,Nombre,2022,8205,1,standard,538,ZONE PORTUAIRE,,
+Population résidente par découpage administratif et par sexe,AKODESSEWA,AKODESSEWA,Total,Nombre,2022,6521,1,standard,539,AKODESSEWA,,
+Population résidente par découpage administratif et par sexe,ABLOGAME,ABLOGAME,Total,Nombre,2022,8155,1,standard,540,ABLOGAME,,
+Population résidente par découpage administratif et par sexe,BE AHLIGO,BE AHLIGO,Total,Nombre,2022,6339,1,standard,541,BE AHLIGO,,
+Population résidente par découpage administratif et par sexe,KOTOKOU KONDJI,KOTOKOU KONDJI,Total,Nombre,2022,4044,1,standard,542,KOTOKOU KONDJI,,
+Population résidente par découpage administratif et par sexe,ANTONIO NETIME,ANTONIO NETIME,Total,Nombre,2022,1564,1,standard,543,ANTONIO NETIME,,
+Population résidente par découpage administratif et par sexe,SOUZA NETIME,SOUZA NETIME,Total,Nombre,2022,17147,1,standard,544,SOUZA NETIME,,
+Population résidente par découpage administratif et par sexe,BE KPEHENOU,BE KPEHENOU,Total,Nombre,2022,6569,1,standard,545,BE KPEHENOU,,
+Population résidente par découpage administratif et par sexe,BE APEYEME,BE APEYEME,Total,Nombre,2022,12253,1,standard,546,BE APEYEME,,
+Population résidente par découpage administratif et par sexe,KELEGOUGAN1,KELEGOUGAN1,Total,Nombre,2022,13145,1,standard,547,KELEGOUGAN1,,
+Population résidente par découpage administratif et par sexe,ATIEGOU1,ATIEGOU1,Total,Nombre,2022,19315,1,standard,548,ATIEGOU1,,
+Population résidente par découpage administratif et par sexe,GOLFE 2,GOLFE 2,Total,Nombre,2022,136153,1,standard,549,GOLFE 2,C96,commune
+Population résidente par découpage administratif et par sexe,HEDZRANAWOE,HEDZRANAWOE,Total,Nombre,2022,51637,1,standard,550,HEDZRANAWOE,,
+Population résidente par découpage administratif et par sexe,KELEGOUGAN 2,KELEGOUGAN 2,Total,Nombre,2022,14240,1,standard,551,KELEGOUGAN 2,,
+Population résidente par découpage administratif et par sexe,TOKOIN AEROPORT,TOKOIN AEROPORT,Total,Nombre,2022,189,1,standard,552,TOKOIN AEROPORT,,
+Population résidente par découpage administratif et par sexe,TOKOIN N'KAFU,TOKOIN N'KAFU,Total,Nombre,2022,11864,1,standard,553,TOKOIN N KAFU,,
+Population résidente par découpage administratif et par sexe,SAINT JOSEPH,SAINT JOSEPH,Total,Nombre,2022,5778,1,standard,554,SAINT JOSEPH,,
+Population résidente par découpage administratif et par sexe,TOKOIN FOREVER,TOKOIN FOREVER,Total,Nombre,2022,2898,1,standard,555,TOKOIN FOREVER,,
+Population résidente par découpage administratif et par sexe,TOKOIN TAME,TOKOIN TAME,Total,Nombre,2022,4187,1,standard,556,TOKOIN TAME,,
+Population résidente par découpage administratif et par sexe,TOKOIN WUITI,TOKOIN WUITI,Total,Nombre,2022,18385,1,standard,557,TOKOIN WUITI,,
+Population résidente par découpage administratif et par sexe,ATIEGOU 2,ATIEGOU 2,Total,Nombre,2022,26975,1,standard,558,ATIEGOU 2,,
+Population résidente par découpage administratif et par sexe,GOLFE 3,GOLFE 3,Total,Nombre,2022,52769,1,standard,559,GOLFE 3,C97,commune
+Population résidente par découpage administratif et par sexe,DOUMASSESSE,DOUMASSESSE,Total,Nombre,2022,20792,1,standard,560,DOUMASSESSE,,
+Population résidente par découpage administratif et par sexe,UNIVERSITE DE LOME,UNIVERSITE DE LOME,Total,Nombre,2022,2157,1,standard,561,UNIVERSITE DE LOME,,
+Population résidente par découpage administratif et par sexe,RESIDENCE DU BENIN,RESIDENCE DU BENIN,Total,Nombre,2022,1101,1,standard,562,RESIDENCE DU BENIN,,
+Population résidente par découpage administratif et par sexe,LOME II,LOME II,Total,Nombre,2022,10902,1,standard,563,LOME II,,
+Population résidente par découpage administratif et par sexe,GBONVIE,GBONVIE,Total,Nombre,2022,6534,1,standard,564,GBONVIE,,
+Population résidente par découpage administratif et par sexe,TOKOIN LYCEE,TOKOIN LYCEE,Total,Nombre,2022,3248,1,standard,565,TOKOIN LYCEE,,
+Population résidente par découpage administratif et par sexe,TOKOIN ELAVAGNON,TOKOIN ELAVAGNON,Total,Nombre,2022,7273,1,standard,566,TOKOIN ELAVAGNON,,
+Population résidente par découpage administratif et par sexe,KELEGOUGAN 3,KELEGOUGAN 3,Total,Nombre,2022,762,1,standard,567,KELEGOUGAN 3,,
+Population résidente par découpage administratif et par sexe,GOLFE 4,GOLFE 4,Total,Nombre,2022,155842,1,standard,568,GOLFE 4,C98,commune
+Population résidente par découpage administratif et par sexe,AMOUTIVE,AMOUTIVE,Total,Nombre,2022,5344,1,standard,569,AMOUTIVE,,
+Population résidente par découpage administratif et par sexe,BASSADJI,BASSADJI,Total,Nombre,2022,2230,1,standard,570,BASSADJI,,
+Population résidente par découpage administratif et par sexe,LOM NAVA,LOM NAVA,Total,Nombre,2022,9413,1,standard,571,LOM NAVA,,
+Population résidente par découpage administratif et par sexe,ABOBOKOME,ABOBOKOME,Total,Nombre,2022,1432,1,standard,572,ABOBOKOME,,
+Population résidente par découpage administratif et par sexe,AGUIAKOME,AGUIAKOME,Total,Nombre,2022,3499,1,standard,573,AGUIAKOME,,
+Population résidente par découpage administratif et par sexe,BENIGLATO,BENIGLATO,Total,Nombre,2022,3051,1,standard,574,BENIGLATO,,
+Population résidente par découpage administratif et par sexe,ADAWLATO,ADAWLATO,Total,Nombre,2022,132,1,standard,575,ADAWLATO,,
+Population résidente par découpage administratif et par sexe,AGBADAHONOU,AGBADAHONOU,Total,Nombre,2022,534,1,standard,576,AGBADAHONOU,,
+Population résidente par découpage administratif et par sexe,KOKETIME,KOKETIME,Total,Nombre,2022,642,1,standard,577,KOKETIME,,
+Population résidente par découpage administratif et par sexe,SANGUERA,SANGUERA,Total,Nombre,2022,956,1,standard,578,SANGUERA,,
+Population résidente par découpage administratif et par sexe,FREAU JARDIN,FREAU JARDIN,Total,Nombre,2022,715,1,standard,579,FREAU JARDIN,,
+Population résidente par découpage administratif et par sexe,WETRIVI KONDJI,WETRIVI KONDJI,Total,Nombre,2022,1376,1,standard,580,WETRIVI KONDJI,,
+Population résidente par découpage administratif et par sexe,ADOBOUKOME,ADOBOUKOME,Total,Nombre,2022,2003,1,standard,581,ADOBOUKOME,,
+Population résidente par découpage administratif et par sexe,QUARTIER ADMINISTRATIF,QUARTIER ADMINISTRATIF,Total,Nombre,2022,3421,1,standard,582,QUARTIER ADMINISTRATIF,,
+Population résidente par découpage administratif et par sexe,KODJOVIAKOPE,KODJOVIAKOPE,Total,Nombre,2022,14848,1,standard,583,KODJOVIAKOPE,,
+Population résidente par découpage administratif et par sexe,NYEKONAKPOE,NYEKONAKPOE,Total,Nombre,2022,22100,1,standard,584,NYEKONAKPOE,,
+Population résidente par découpage administratif et par sexe,OCTAVIONO NETIME,OCTAVIONO NETIME,Total,Nombre,2022,5562,1,standard,585,OCTAVIONO NETIME,,
+Population résidente par découpage administratif et par sexe,HANOUKOPE,HANOUKOPE,Total,Nombre,2022,2806,1,standard,586,HANOUKOPE,,
+Population résidente par découpage administratif et par sexe,DOULASSAME,DOULASSAME,Total,Nombre,2022,8328,1,standard,587,DOULASSAME,,
+Population résidente par découpage administratif et par sexe,TOKOIN OUEST,TOKOIN OUEST,Total,Nombre,2022,9451,1,standard,588,TOKOIN OUEST,,
+Population résidente par découpage administratif et par sexe,TOKOIN HOPITAL,TOKOIN HOPITAL,Total,Nombre,2022,6256,1,standard,589,TOKOIN HOPITAL,,
+Population résidente par découpage administratif et par sexe,TOKOIN GBADAGO,TOKOIN GBADAGO,Total,Nombre,2022,11883,1,standard,590,TOKOIN GBADAGO,,
+Population résidente par découpage administratif et par sexe,TOKOIN SOLIDARITE,TOKOIN SOLIDARITE,Total,Nombre,2022,9810,1,standard,591,TOKOIN SOLIDARITE,,
+Population résidente par découpage administratif et par sexe,DOGBEAVOU,DOGBEAVOU,Total,Nombre,2022,10365,1,standard,592,DOGBEAVOU,,
+Population résidente par découpage administratif et par sexe,CASABLANCA,CASABLANCA,Total,Nombre,2022,1993,1,standard,593,CASABLANCA,,
+Population résidente par découpage administratif et par sexe,ABOVE,ABOVE,Total,Nombre,2022,5000,1,standard,594,ABOVE,,
+Population résidente par découpage administratif et par sexe,AKOSSOMBO,AKOSSOMBO,Total,Nombre,2022,3742,1,standard,595,AKOSSOMBO,,
+Population résidente par découpage administratif et par sexe,BE KLIKAME,BE KLIKAME,Total,Nombre,2022,8950,1,standard,596,BE KLIKAME,,
+Population résidente par découpage administratif et par sexe,GOLFE 5,GOLFE 5,Total,Nombre,2022,169993,1,standard,597,GOLFE 5,C99,commune
+Population résidente par découpage administratif et par sexe,AFLAO GAKLI,AFLAO GAKLI,Total,Nombre,2022,17108,1,standard,598,AFLAO GAKLI,,
+Population résidente par découpage administratif et par sexe,AVENOU BATOME,AVENOU BATOME,Total,Nombre,2022,4829,1,standard,599,AVENOU BATOME,,
+Population résidente par découpage administratif et par sexe,SOVIEPE,SOVIEPE,Total,Nombre,2022,11021,1,standard,600,SOVIEPE,,
+Population résidente par découpage administratif et par sexe,TOTSI,TOTSI,Total,Nombre,2022,25559,1,standard,601,TOTSI,,
+Population résidente par découpage administratif et par sexe,AGBALEPEDOGAN,AGBALEPEDOGAN,Total,Nombre,2022,22076,1,standard,602,AGBALEPEDOGAN,,
+Population résidente par découpage administratif et par sexe,ANYIGBE,ANYIGBE,Total,Nombre,2022,6313,1,standard,603,ANYIGBE,,
+Population résidente par découpage administratif et par sexe,TESHIE,TESHIE,Total,Nombre,2022,3087,1,standard,604,TESHIE,,
+Population résidente par découpage administratif et par sexe,AMADAHOME,AMADAHOME,Total,Nombre,2022,15647,1,standard,605,AMADAHOME,,
+Population résidente par découpage administratif et par sexe,APEDOKOE,APEDOKOE,Total,Nombre,2022,14800,1,standard,606,APEDOKOE,,
+Population résidente par découpage administratif et par sexe,WESSOME,WESSOME,Total,Nombre,2022,11547,1,standard,607,WESSOME,,
+Population résidente par découpage administratif et par sexe,AVEDJI TELESSOU,AVEDJI TELESSOU,Total,Nombre,2022,31612,1,standard,608,AVEDJI TELESSOU,,
+Population résidente par découpage administratif et par sexe,ADIDOADIN,ADIDOADIN,Total,Nombre,2022,6394,1,standard,609,ADIDOADIN,,
+Population résidente par découpage administratif et par sexe,GOLFE 6,GOLFE 6,Total,Nombre,2022,181561,1,standard,610,GOLFE 6,C100,commune
+Population résidente par découpage administratif et par sexe,BAGUIDA,BAGUIDA,Total,Nombre,2022,46017,1,standard,611,BAGUIDA,,
+Population résidente par découpage administratif et par sexe,ADAMAVO,ADAMAVO,Total,Nombre,2022,56103,1,standard,612,ADAMAVO,,
+Population résidente par découpage administratif et par sexe,AVEPOZO,AVEPOZO,Total,Nombre,2022,15685,1,standard,613,AVEPOZO,,
+Population résidente par découpage administratif et par sexe,DEVEGO,DEVEGO,Total,Nombre,2022,26711,1,standard,614,DEVEGO,,
+Population résidente par découpage administratif et par sexe,AGODEKE,AGODEKE,Total,Nombre,2022,19101,1,standard,615,AGODEKE,,
+Population résidente par découpage administratif et par sexe,KPOGAN,KPOGAN,Total,Nombre,2022,17944,1,standard,616,KPOGAN,,
+Population résidente par découpage administratif et par sexe,GOLFE 7,GOLFE 7,Total,Nombre,2022,257813,1,standard,617,GOLFE 7,C101,commune
+Population résidente par découpage administratif et par sexe,SAGBADO,SAGBADO,Total,Nombre,2022,8274,1,standard,618,SAGBADO,,
+Population résidente par découpage administratif et par sexe,AGOTIME,AGOTIME,Total,Nombre,2022,6442,1,standard,619,AGOTIME,,
+Population résidente par découpage administratif et par sexe,LOGOTE,LOGOTE,Total,Nombre,2022,26035,1,standard,620,LOGOTE,,
+Population résidente par découpage administratif et par sexe,LANKOUVI SAKANI,LANKOUVI SAKANI,Total,Nombre,2022,10253,1,standard,621,LANKOUVI SAKANI,,
+Population résidente par découpage administratif et par sexe,AKATO VIEPE,AKATO VIEPE,Total,Nombre,2022,13497,1,standard,622,AKATO VIEPE,,
+Population résidente par découpage administratif et par sexe,AKATO AVOEME,AKATO AVOEME,Total,Nombre,2022,7336,1,standard,623,AKATO AVOEME,,
+Population résidente par découpage administratif et par sexe,AKATO DEME,AKATO DEME,Total,Nombre,2022,5146,1,standard,624,AKATO DEME,,
+Population résidente par découpage administratif et par sexe,SEGBE DOUANE,SEGBE DOUANE,Total,Nombre,2022,10154,1,standard,625,SEGBE DOUANE,,
+Population résidente par découpage administratif et par sexe,SEGBEGAN,SEGBEGAN,Total,Nombre,2022,4865,1,standard,626,SEGBEGAN,,
+Population résidente par découpage administratif et par sexe,SAGBADO ZANVI,SAGBADO ZANVI,Total,Nombre,2022,5754,1,standard,627,SAGBADO ZANVI,,
+Population résidente par découpage administratif et par sexe,KLEME YEWEPE,KLEME YEWEPE,Total,Nombre,2022,14823,1,standard,628,KLEME YEWEPE,,
+Population résidente par découpage administratif et par sexe,KLEME AGOKPANOU,KLEME AGOKPANOU,Total,Nombre,2022,13068,1,standard,629,KLEME AGOKPANOU,,
+Population résidente par découpage administratif et par sexe,WOUGOME,WOUGOME,Total,Nombre,2022,11509,1,standard,630,WOUGOME,,
+Population résidente par découpage administratif et par sexe,DEKPOR /WOUGOME DEKPOR,DEKPOR /WOUGOME DEKPOR,Total,Nombre,2022,3648,1,standard,631,DEKPOR WOUGOME DEKPOR,,
+Population résidente par découpage administratif et par sexe,APEDOKOE GBOMAME,APEDOKOE GBOMAME,Total,Nombre,2022,19660,1,standard,632,APEDOKOE GBOMAME,,
+Population résidente par découpage administratif et par sexe,APEDOKOE AGOKPANOU,APEDOKOE AGOKPANOU,Total,Nombre,2022,13316,1,standard,633,APEDOKOE AGOKPANOU,,
+Population résidente par découpage administratif et par sexe,SAGBADO ASSIYEYE,SAGBADO ASSIYEYE,Total,Nombre,2022,8195,1,standard,634,SAGBADO ASSIYEYE,,
+Population résidente par découpage administratif et par sexe,WONYOME,WONYOME,Total,Nombre,2022,4105,1,standard,635,WONYOME,,
+Population résidente par découpage administratif et par sexe,YOKOE AGBLEGAN,YOKOE AGBLEGAN,Total,Nombre,2022,23494,1,standard,636,YOKOE AGBLEGAN,,
+Population résidente par découpage administratif et par sexe,ABLOGOME,ABLOGOME,Total,Nombre,2022,4167,1,standard,637,ABLOGOME,,
+Population résidente par découpage administratif et par sexe,AWATAME,AWATAME,Total,Nombre,2022,20349,1,standard,638,AWATAME,,
+Population résidente par découpage administratif et par sexe,GBLENKOMEGAN,GBLENKOMEGAN,Total,Nombre,2022,12769,1,standard,639,GBLENKOMEGAN,,
+Population résidente par découpage administratif et par sexe,YOKOE KOPEGAN,YOKOE KOPEGAN,Total,Nombre,2022,4852,1,standard,640,YOKOE KOPEGAN,,
+Population résidente par découpage administratif et par sexe,LANKOUVI,LANKOUVI,Total,Nombre,2022,6102,1,standard,641,LANKOUVI,,
+Population résidente par découpage administratif et par sexe,AGOE-NYIVE,AGOE-NYIVE,Total,Nombre,2022,882695,1,standard,642,AGOE NYIVE,,
+Population résidente par découpage administratif et par sexe,AGOE-NYIVE 1,AGOE-NYIVE 1,Total,Nombre,2022,317255,1,standard,643,AGOE NYIVE 1,C85,commune
+Population résidente par découpage administratif et par sexe,HOUMBI,HOUMBI,Total,Nombre,2022,6410,1,standard,644,HOUMBI,,
+Population résidente par découpage administratif et par sexe,ADOUIKO,ADOUIKO,Total,Nombre,2022,19470,1,standard,645,ADOUIKO,,
+Population résidente par découpage administratif et par sexe,ADJOUGBA,ADJOUGBA,Total,Nombre,2022,4316,1,standard,646,ADJOUGBA,,
+Population résidente par découpage administratif et par sexe,TOGOME,TOGOME,Total,Nombre,2022,23145,1,standard,647,TOGOME,,
+Population résidente par découpage administratif et par sexe,KELEGOUGAN DIGBLE,KELEGOUGAN DIGBLE,Total,Nombre,2022,6216,1,standard,648,KELEGOUGAN DIGBLE,,
+Population résidente par découpage administratif et par sexe,DJIGBLE,DJIGBLE,Total,Nombre,2022,11680,1,standard,649,DJIGBLE,,
+Population résidente par découpage administratif et par sexe,NYAVIME AVEYIME,NYAVIME AVEYIME,Total,Nombre,2022,6259,1,standard,650,NYAVIME AVEYIME,,
+Population résidente par découpage administratif et par sexe,KITIDJAN,KITIDJAN,Total,Nombre,2022,12957,1,standard,651,KITIDJAN,,
+Population résidente par découpage administratif et par sexe,NYIVEME + APELEBUIME,NYIVEME + APELEBUIME,Total,Nombre,2022,4727,1,standard,652,NYIVEME APELEBUIME,,
+Population résidente par découpage administratif et par sexe,TOTSI NYIVEME,TOTSI NYIVEME,Total,Nombre,2022,14607,1,standard,653,TOTSI NYIVEME,,
+Population résidente par découpage administratif et par sexe,TOTSI KPATEFI,TOTSI KPATEFI,Total,Nombre,2022,6826,1,standard,654,TOTSI KPATEFI,,
+Population résidente par découpage administratif et par sexe,TOTSI KLEVEGBLE,TOTSI KLEVEGBLE,Total,Nombre,2022,4261,1,standard,655,TOTSI KLEVEGBLE,,
+Population résidente par découpage administratif et par sexe,ANOMEGBLE,ANOMEGBLE,Total,Nombre,2022,9152,1,standard,656,ANOMEGBLE,,
+Population résidente par découpage administratif et par sexe,ANOME GBONVE,ANOME GBONVE,Total,Nombre,2022,9735,1,standard,657,ANOME GBONVE,,
+Population résidente par découpage administratif et par sexe,TELESSOU ADOKPO KOPE,TELESSOU ADOKPO KOPE,Total,Nombre,2022,10808,1,standard,658,TELESSOU ADOKPO KOPE,,
+Population résidente par découpage administratif et par sexe,LOGOPE KPATEFI,LOGOPE KPATEFI,Total,Nombre,2022,14966,1,standard,659,LOGOPE KPATEFI,,
+Population résidente par découpage administratif et par sexe,HOUMBIGBLE,HOUMBIGBLE,Total,Nombre,2022,4267,1,standard,660,HOUMBIGBLE,,
+Population résidente par découpage administratif et par sexe,AHONGAKOPE ASSIYEYE,AHONGAKOPE ASSIYEYE,Total,Nombre,2022,5188,1,standard,661,AHONGAKOPE ASSIYEYE,,
+Population résidente par découpage administratif et par sexe,KLEVE,KLEVE,Total,Nombre,2022,6081,1,standard,662,KLEVE,,
+Population résidente par découpage administratif et par sexe,ATSANVE,ATSANVE,Total,Nombre,2022,8216,1,standard,663,ATSANVE,,
+Population résidente par découpage administratif et par sexe,DEMAKPOE,DEMAKPOE,Total,Nombre,2022,22858,1,standard,664,DEMAKPOE,,
+Population résidente par découpage administratif et par sexe,APEGNIGBI,APEGNIGBI,Total,Nombre,2022,7222,1,standard,665,APEGNIGBI,,
+Population résidente par découpage administratif et par sexe,FIOVI,FIOVI,Total,Nombre,2022,10202,1,standard,666,FIOVI,,
+Population résidente par découpage administratif et par sexe,LOGOPE ATSANVE,LOGOPE ATSANVE,Total,Nombre,2022,5630,1,standard,667,LOGOPE ATSANVE,,
+Population résidente par découpage administratif et par sexe,LOGOPE,LOGOPE,Total,Nombre,2022,6101,1,standard,668,LOGOPE,,
+Population résidente par découpage administratif et par sexe,ANOKUI,ANOKUI,Total,Nombre,2022,2197,1,standard,669,ANOKUI,,
+Population résidente par découpage administratif et par sexe,ANOKUI NOGO,ANOKUI NOGO,Total,Nombre,2022,13384,1,standard,670,ANOKUI NOGO,,
+Population résidente par découpage administratif et par sexe,SOGBOSSITO,SOGBOSSITO,Total,Nombre,2022,11798,1,standard,671,SOGBOSSITO,,
+Population résidente par découpage administratif et par sexe,KOVE APELEBUIME,KOVE APELEBUIME,Total,Nombre,2022,2627,1,standard,672,KOVE APELEBUIME,,
+Population résidente par découpage administratif et par sexe,SOGBOSSITO AZIALE KOPE,SOGBOSSITO AZIALE KOPE,Total,Nombre,2022,1942,1,standard,673,SOGBOSSITO AZIALE KOPE,,
+Population résidente par découpage administratif et par sexe,ANOKUI KOME KOPE,ANOKUI KOME KOPE,Total,Nombre,2022,1896,1,standard,674,ANOKUI KOME KOPE,,
+Population résidente par découpage administratif et par sexe,APELEBUIME,APELEBUIME,Total,Nombre,2022,847,1,standard,675,APELEBUIME,,
+Population résidente par découpage administratif et par sexe,DARA KOPE,DARA KOPE,Total,Nombre,2022,3818,1,standard,676,DARA KOPE,,
+Population résidente par découpage administratif et par sexe,GNAMASSIGAN,GNAMASSIGAN,Total,Nombre,2022,6893,1,standard,677,GNAMASSIGAN,,
+Population résidente par découpage administratif et par sexe,KLEVE APENYIGBE,KLEVE APENYIGBE,Total,Nombre,2022,3970,1,standard,678,KLEVE APENYIGBE,,
+Population résidente par découpage administratif et par sexe,KLEVE ASSIYEYE,KLEVE ASSIYEYE,Total,Nombre,2022,9314,1,standard,679,KLEVE ASSIYEYE,,
+Population résidente par découpage administratif et par sexe,KPATEFI ADIDODOKPO,KPATEFI ADIDODOKPO,Total,Nombre,2022,2252,1,standard,680,KPATEFI ADIDODOKPO,,
+Population résidente par découpage administratif et par sexe,TELESSOU AGBODEKA KOPE,TELESSOU AGBODEKA KOPE,Total,Nombre,2022,9670,1,standard,681,TELESSOU AGBODEKA KOPE,,
+Population résidente par découpage administratif et par sexe,AZOGBEGAN,AZOGBEGAN,Total,Nombre,2022,5347,1,standard,682,AZOGBEGAN,,
+Population résidente par découpage administratif et par sexe,AGOE-NYIVE 2,AGOE-NYIVE 2,Total,Nombre,2022,128164,1,standard,683,AGOE NYIVE 2,C86,commune
+Population résidente par découpage administratif et par sexe,LEGBASSITO,LEGBASSITO,Total,Nombre,2022,13516,1,standard,684,LEGBASSITO,,
+Population résidente par découpage administratif et par sexe,AGOSSITO,AGOSSITO,Total,Nombre,2022,2914,1,standard,685,AGOSSITO,,
+Population résidente par découpage administratif et par sexe,AHONKPOE,AHONKPOE,Total,Nombre,2022,16467,1,standard,686,AHONKPOE,,
+Population résidente par découpage administratif et par sexe,YOHONOU,YOHONOU,Total,Nombre,2022,1577,1,standard,687,YOHONOU,,
+Population résidente par découpage administratif et par sexe,KOVE SIVAGNON KOPE,KOVE SIVAGNON KOPE,Total,Nombre,2022,9065,1,standard,688,KOVE SIVAGNON KOPE,,
+Population résidente par découpage administratif et par sexe,KPOKPLOVIME,KPOKPLOVIME,Total,Nombre,2022,8232,1,standard,689,KPOKPLOVIME,,
+Population résidente par découpage administratif et par sexe,DALIME,DALIME,Total,Nombre,2022,1456,1,standard,690,DALIME,,
+Population résidente par découpage administratif et par sexe,DALIKO,DALIKO,Total,Nombre,2022,16109,1,standard,691,DALIKO,,
+Population résidente par découpage administratif et par sexe,AMEDENTA AKI KOPE,AMEDENTA AKI KOPE,Total,Nombre,2022,3191,1,standard,692,AMEDENTA AKI KOPE,,
+Population résidente par découpage administratif et par sexe,AMADENTA ANAGLI KOPE,AMADENTA ANAGLI KOPE,Total,Nombre,2022,2188,1,standard,693,AMADENTA ANAGLI KOPE,,
+Population résidente par découpage administratif et par sexe,DOUTHE KOPE,DOUTHE KOPE,Total,Nombre,2022,2215,1,standard,694,DOUTHE KOPE,,
+Population résidente par découpage administratif et par sexe,ASSIKO,ASSIKO,Total,Nombre,2022,2268,1,standard,695,ASSIKO,,
+Population résidente par découpage administratif et par sexe,BOKPOKO,BOKPOKO,Total,Nombre,2022,1289,1,standard,696,BOKPOKO,,
+Population résidente par découpage administratif et par sexe,SILIVI KOPE OU ADIDOME,SILIVI KOPE OU ADIDOME,Total,Nombre,2022,4767,1,standard,697,SILIVI KOPE OU ADIDOME,,
+Population résidente par découpage administratif et par sexe,AVINATO,AVINATO,Total,Nombre,2022,3504,1,standard,698,AVINATO,,
+Population résidente par découpage administratif et par sexe,ATHIEME AHONKPOE,ATHIEME AHONKPOE,Total,Nombre,2022,8104,1,standard,699,ATHIEME AHONKPOE,,
+Population résidente par découpage administratif et par sexe,ATHIEME,ATHIEME,Total,Nombre,2022,8384,1,standard,700,ATHIEME,,
+Population résidente par découpage administratif et par sexe,MADJIKPETO,MADJIKPETO,Total,Nombre,2022,6446,1,standard,701,MADJIKPETO,,
+Population résidente par découpage administratif et par sexe,ZOVADJIN,ZOVADJIN,Total,Nombre,2022,4555,1,standard,702,ZOVADJIN,,
+Population résidente par découpage administratif et par sexe,KOVE AHONDJI KOPE,KOVE AHONDJI KOPE,Total,Nombre,2022,11917,1,standard,703,KOVE AHONDJI KOPE,,
+Population résidente par découpage administratif et par sexe,AGOE-NYIVE 3,AGOE-NYIVE 3,Total,Nombre,2022,47554,1,standard,704,AGOE NYIVE 3,C87,commune
+Population résidente par découpage administratif et par sexe,ATSANVE (occurrence 2),ATSANVE,Total,Nombre,2022,8969,2,homonyme,705,ATSANVE,,
+Population résidente par découpage administratif et par sexe,AWOUDJA KOPE,AWOUDJA KOPE,Total,Nombre,2022,24218,1,standard,706,AWOUDJA KOPE,,
+Population résidente par découpage administratif et par sexe,ELAVANYO ATSANVE,ELAVANYO ATSANVE,Total,Nombre,2022,7707,1,standard,707,ELAVANYO ATSANVE,,
+Population résidente par découpage administratif et par sexe,ELAVANYO KLEVE,ELAVANYO KLEVE,Total,Nombre,2022,2714,1,standard,708,ELAVANYO KLEVE,,
+Population résidente par découpage administratif et par sexe,HOSSOUKOPE,HOSSOUKOPE,Total,Nombre,2022,3946,1,standard,709,HOSSOUKOPE,,
+Population résidente par découpage administratif et par sexe,AGOE-NYIVE 4,AGOE-NYIVE 4,Total,Nombre,2022,154431,1,standard,710,AGOE NYIVE 4,C88,commune
+Population résidente par découpage administratif et par sexe,TOGBLE CENTRE,TOGBLE CENTRE,Total,Nombre,2022,5839,1,standard,711,TOGBLE CENTRE,,
+Population résidente par découpage administratif et par sexe,FIDOKPUI,FIDOKPUI,Total,Nombre,2022,15097,1,standard,712,FIDOKPUI,,
+Population résidente par découpage administratif et par sexe,GUENOU KOPE,GUENOU KOPE,Total,Nombre,2022,14383,1,standard,713,GUENOU KOPE,,
+Population résidente par découpage administratif et par sexe,DIKAME,DIKAME,Total,Nombre,2022,16203,1,standard,714,DIKAME,,
+Population résidente par découpage administratif et par sexe,BOKOR KOPE,BOKOR KOPE,Total,Nombre,2022,19051,1,standard,715,BOKOR KOPE,,
+Population résidente par découpage administratif et par sexe,KOTOKOLI ZONZO,KOTOKOLI ZONZO,Total,Nombre,2022,11492,1,standard,716,KOTOKOLI ZONZO,,
+Population résidente par découpage administratif et par sexe,HAOUSSA ZONGO,HAOUSSA ZONGO,Total,Nombre,2022,12509,1,standard,717,HAOUSSA ZONGO,,
+Population résidente par découpage administratif et par sexe,DJELEDZI,DJELEDZI,Total,Nombre,2022,16076,1,standard,718,DJELEDZI,,
+Population résidente par découpage administratif et par sexe,DEGOME,DEGOME,Total,Nombre,2022,11166,1,standard,719,DEGOME,,
+Population résidente par découpage administratif et par sexe,AKOIN,AKOIN,Total,Nombre,2022,11373,1,standard,720,AKOIN,,
+Population résidente par découpage administratif et par sexe,ATSANVE (occurrence 3),ATSANVE,Total,Nombre,2022,1566,3,homonyme,721,ATSANVE,,
+Population résidente par découpage administratif et par sexe,AVEYIME,AVEYIME,Total,Nombre,2022,889,1,standard,722,AVEYIME,,
+Population résidente par découpage administratif et par sexe,ALINKA,ALINKA,Total,Nombre,2022,7961,1,standard,723,ALINKA,,
+Population résidente par découpage administratif et par sexe,ALINKA NYIVEMEGBLE,ALINKA NYIVEMEGBLE,Total,Nombre,2022,4932,1,standard,724,ALINKA NYIVEMEGBLE,,
+Population résidente par découpage administratif et par sexe,TOWOUGANOU,TOWOUGANOU,Total,Nombre,2022,1997,1,standard,725,TOWOUGANOU,,
+Population résidente par découpage administratif et par sexe,KPEDEVI KOPE,KPEDEVI KOPE,Total,Nombre,2022,3897,1,standard,726,KPEDEVI KOPE,,
+Population résidente par découpage administratif et par sexe,AGOE-NYIVE 5,AGOE-NYIVE 5,Total,Nombre,2022,125097,1,standard,727,AGOE NYIVE 5,C89,commune
+Population résidente par découpage administratif et par sexe,KOHE,KOHE,Total,Nombre,2022,12626,1,standard,728,KOHE,,
+Population résidente par découpage administratif et par sexe,KLEME SANGUERA,KLEME SANGUERA,Total,Nombre,2022,6085,1,standard,729,KLEME SANGUERA,,
+Population résidente par découpage administratif et par sexe,ATIGAN COPE,ATIGAN COPE,Total,Nombre,2022,7627,1,standard,730,ATIGAN COPE,,
+Population résidente par découpage administratif et par sexe,DEKPO SANGUERA,DEKPO SANGUERA,Total,Nombre,2022,3803,1,standard,731,DEKPO SANGUERA,,
+Population résidente par découpage administratif et par sexe,ANYIGBE (occurrence 2),ANYIGBE,Total,Nombre,2022,4799,2,homonyme,732,ANYIGBE,,
+Population résidente par découpage administratif et par sexe,VOGOME,VOGOME,Total,Nombre,2022,5144,1,standard,733,VOGOME,,
+Population résidente par découpage administratif et par sexe,KOPEGAN,KOPEGAN,Total,Nombre,2022,5346,1,standard,734,KOPEGAN,,
+Population résidente par découpage administratif et par sexe,AGBLELIKO,AGBLELIKO,Total,Nombre,2022,2736,1,standard,735,AGBLELIKO,,
+Population résidente par découpage administratif et par sexe,AFIADEGNIGBA,AFIADEGNIGBA,Total,Nombre,2022,4257,1,standard,736,AFIADEGNIGBA,,
+Population résidente par découpage administratif et par sexe,KLIKAME,KLIKAME,Total,Nombre,2022,5287,1,standard,737,KLIKAME,,
+Population résidente par découpage administratif et par sexe,DANGBESSITO,DANGBESSITO,Total,Nombre,2022,8307,1,standard,738,DANGBESSITO,,
+Population résidente par découpage administratif et par sexe,TAGA KOPE,TAGA KOPE,Total,Nombre,2022,5046,1,standard,739,TAGA KOPE,,
+Population résidente par découpage administratif et par sexe,SANYRAKO,SANYRAKO,Total,Nombre,2022,10285,1,standard,740,SANYRAKO,,
+Population résidente par découpage administratif et par sexe,EZION KOPE,EZION KOPE,Total,Nombre,2022,2065,1,standard,741,EZION KOPE,,
+Population résidente par découpage administratif et par sexe,ZOPOMAHE,ZOPOMAHE,Total,Nombre,2022,12497,1,standard,742,ZOPOMAHE,,
+Population résidente par découpage administratif et par sexe,NANEGBE,NANEGBE,Total,Nombre,2022,8238,1,standard,743,NANEGBE,,
+Population résidente par découpage administratif et par sexe,NANEGBE ZOSSIME,NANEGBE ZOSSIME,Total,Nombre,2022,7388,1,standard,744,NANEGBE ZOSSIME,,
+Population résidente par découpage administratif et par sexe,TSROKPOSSIME,TSROKPOSSIME,Total,Nombre,2022,6798,1,standard,745,TSROKPOSSIME,,
+Population résidente par découpage administratif et par sexe,ASSIGOME,ASSIGOME,Total,Nombre,2022,2500,1,standard,746,ASSIGOME,,
+Population résidente par découpage administratif et par sexe,LOGOGOME,LOGOGOME,Total,Nombre,2022,4263,1,standard,747,LOGOGOME,,
+Population résidente par découpage administratif et par sexe,AGOE-NYIVE 6,AGOE-NYIVE 6,Total,Nombre,2022,110194,1,standard,748,AGOE NYIVE 6,C90,commune
+Population résidente par découpage administratif et par sexe,ADETIKOPE-CENTRE,ADETIKOPE-CENTRE,Total,Nombre,2022,18033,1,standard,749,ADETIKOPE CENTRE,,
+Population résidente par découpage administratif et par sexe,AGNAVE,AGNAVE,Total,Nombre,2022,7312,1,standard,750,AGNAVE,,
+Population résidente par découpage administratif et par sexe,DEVIME,DEVIME,Total,Nombre,2022,10545,1,standard,751,DEVIME,,
+Population résidente par découpage administratif et par sexe,DZOVE,DZOVE,Total,Nombre,2022,6202,1,standard,752,DZOVE,,
+Population résidente par découpage administratif et par sexe,ADOGLOVE,ADOGLOVE,Total,Nombre,2022,4303,1,standard,753,ADOGLOVE,,
+Population résidente par découpage administratif et par sexe,LOMENYO KOPE,LOMENYO KOPE,Total,Nombre,2022,4195,1,standard,754,LOMENYO KOPE,,
+Population résidente par découpage administratif et par sexe,KPOKPOME-AGUTE,KPOKPOME-AGUTE,Total,Nombre,2022,27993,1,standard,755,KPOKPOME AGUTE,,
+Population résidente par découpage administratif et par sexe,AGOTIME (occurrence 2),AGOTIME,Total,Nombre,2022,3824,2,homonyme,756,AGOTIME,,
+Population résidente par découpage administratif et par sexe,KLADJEME,KLADJEME,Total,Nombre,2022,8624,1,standard,757,KLADJEME,,
+Population résidente par découpage administratif et par sexe,KPOTAVE,KPOTAVE,Total,Nombre,2022,11064,1,standard,758,KPOTAVE,,
+Population résidente par découpage administratif et par sexe,TONOUKOUTI,TONOUKOUTI,Total,Nombre,2022,4862,1,standard,759,TONOUKOUTI,,
+Population résidente par découpage administratif et par sexe,TSIKPLONOU-KONDJI,TSIKPLONOU-KONDJI,Total,Nombre,2022,3237,1,standard,760,TSIKPLONOU KONDJI,,

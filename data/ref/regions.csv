@@ -1,0 +1,6 @@
+region_id,region_code,region_nom,latitude,longitude,superficie
+1,TG-S,Savanes,10.5291781,0.5257823,8602.0
+2,TG-K,Kara,9.55111,1.18611,
+3,TG-C,Centrale,8.66667,1.0,
+4,TG-P,Plateaux,,,
+5,TG-M,Maritime,,,

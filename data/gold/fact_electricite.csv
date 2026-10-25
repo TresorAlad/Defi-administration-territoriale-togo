@@ -1,0 +1,326 @@
+indicateur,prefecture,libelle,unite,annee,valeur,cle_prefecture,alias,prefecture_id
+Taux d'accès à l'électricité par préfecture,ENSEMBLE DU PAYS,Nombre d'abonnés BT,Nombre,2018,438235.0,ENSEMBLE DU PAYS,,
+Taux d'accès à l'électricité par préfecture,ENSEMBLE DU PAYS,Nombre d'abonnés BT,Nombre,2019,501857.0,ENSEMBLE DU PAYS,,
+Taux d'accès à l'électricité par préfecture,ENSEMBLE DU PAYS,Nombre d'abonnés BT,Nombre,2020,548489.0,ENSEMBLE DU PAYS,,
+Taux d'accès à l'électricité par préfecture,ENSEMBLE DU PAYS,Taux d'accès (%),%,2018,45.09,ENSEMBLE DU PAYS,,
+Taux d'accès à l'électricité par préfecture,ENSEMBLE DU PAYS,Taux d'accès (%),%,2019,50.3,ENSEMBLE DU PAYS,,
+Taux d'accès à l'électricité par préfecture,ENSEMBLE DU PAYS,Taux d'accès (%),%,2020,53.0,ENSEMBLE DU PAYS,,
+Taux d'accès à l'électricité par préfecture,ENSEMBLE DU PAYS,Taux d'accès (%),%,2021,57.82,ENSEMBLE DU PAYS,,
+Taux d'accès à l'électricité par préfecture,LOME,Nombre d'abonnés BT,Nombre,2018,231909.0,LOME,LOME,35.0
+Taux d'accès à l'électricité par préfecture,LOME,Nombre d'abonnés BT,Nombre,2019,231909.0,LOME,LOME,35.0
+Taux d'accès à l'électricité par préfecture,LOME,Nombre d'abonnés BT,Nombre,2020,253194.0,LOME,LOME,35.0
+Taux d'accès à l'électricité par préfecture,LOME,Taux d'accès (%),%,2018,98.37,LOME,LOME,35.0
+Taux d'accès à l'électricité par préfecture,LOME,Taux d'accès (%),%,2019,94.77,LOME,LOME,35.0
+Taux d'accès à l'électricité par préfecture,LOME,Taux d'accès (%),%,2020,96.7,LOME,LOME,35.0
+Taux d'accès à l'électricité par préfecture,LOME,Taux d'accès (%),%,2021,98.55,LOME,LOME,35.0
+Taux d'accès à l'électricité par préfecture,LOME COMMUNE + GOLFE,Nombre d'abonnés BT,Nombre,2018,231909.0,LOME COMMUNE GOLFE,LOME COMMUNE + GOLFE,35.0
+Taux d'accès à l'électricité par préfecture,LOME COMMUNE + GOLFE,Nombre d'abonnés BT,Nombre,2019,231909.0,LOME COMMUNE GOLFE,LOME COMMUNE + GOLFE,35.0
+Taux d'accès à l'électricité par préfecture,LOME COMMUNE + GOLFE,Nombre d'abonnés BT,Nombre,2020,253194.0,LOME COMMUNE GOLFE,LOME COMMUNE + GOLFE,35.0
+Taux d'accès à l'électricité par préfecture,LOME COMMUNE + GOLFE,Taux d'accès (%),%,2018,98.37,LOME COMMUNE GOLFE,LOME COMMUNE + GOLFE,35.0
+Taux d'accès à l'électricité par préfecture,LOME COMMUNE + GOLFE,Taux d'accès (%),%,2019,94.77,LOME COMMUNE GOLFE,LOME COMMUNE + GOLFE,35.0
+Taux d'accès à l'électricité par préfecture,LOME COMMUNE + GOLFE,Taux d'accès (%),%,2020,96.7,LOME COMMUNE GOLFE,LOME COMMUNE + GOLFE,35.0
+Taux d'accès à l'électricité par préfecture,LOME COMMUNE + GOLFE,Taux d'accès (%),%,2021,98.55,LOME COMMUNE GOLFE,LOME COMMUNE + GOLFE,35.0
+Taux d'accès à l'électricité par préfecture,REGION MARITIME,Nombre d'abonnés BT,Nombre,2018,95586.0,REGION MARITIME,,
+Taux d'accès à l'électricité par préfecture,REGION MARITIME,Nombre d'abonnés BT,Nombre,2019,139819.0,REGION MARITIME,,
+Taux d'accès à l'électricité par préfecture,REGION MARITIME,Nombre d'abonnés BT,Nombre,2020,151911.0,REGION MARITIME,,
+Taux d'accès à l'électricité par préfecture,REGION MARITIME,Taux d'accès (%),%,2018,44.86,REGION MARITIME,,
+Taux d'accès à l'électricité par préfecture,REGION MARITIME,Taux d'accès (%),%,2019,64.0,REGION MARITIME,,
+Taux d'accès à l'électricité par préfecture,REGION MARITIME,Taux d'accès (%),%,2020,65.52,REGION MARITIME,,
+Taux d'accès à l'électricité par préfecture,REGION MARITIME,Taux d'accès (%),%,2021,73.89,REGION MARITIME,,
+Taux d'accès à l'électricité par préfecture,AGOENYIVE,Nombre d'abonnés BT,Nombre,2018,47615.0,AGOENYIVE,AGOENYIVE,32.0
+Taux d'accès à l'électricité par préfecture,AGOENYIVE,Nombre d'abonnés BT,Nombre,2019,79815.0,AGOENYIVE,AGOENYIVE,32.0
+Taux d'accès à l'électricité par préfecture,AGOENYIVE,Nombre d'abonnés BT,Nombre,2020,81703.0,AGOENYIVE,AGOENYIVE,32.0
+Taux d'accès à l'électricité par préfecture,AGOENYIVE,Taux d'accès (%),%,2018,65.96,AGOENYIVE,AGOENYIVE,32.0
+Taux d'accès à l'électricité par préfecture,AGOENYIVE,Taux d'accès (%),%,2019,106.52,AGOENYIVE,AGOENYIVE,32.0
+Taux d'accès à l'électricité par préfecture,AGOENYIVE,Taux d'accès (%),%,2020,94.49,AGOENYIVE,AGOENYIVE,32.0
+Taux d'accès à l'électricité par préfecture,AGOENYIVE,Taux d'accès (%),%,2021,95.63,AGOENYIVE,AGOENYIVE,32.0
+Taux d'accès à l'électricité par préfecture,LACS + BAS-MONO,Nombre d'abonnés BT,Nombre,2018,13757.0,LACS BAS MONO,LACS + BAS-MONO,36.0
+Taux d'accès à l'électricité par préfecture,LACS + BAS-MONO,Nombre d'abonnés BT,Nombre,2018,13757.0,LACS BAS MONO,LACS + BAS-MONO,34.0
+Taux d'accès à l'électricité par préfecture,LACS + BAS-MONO,Nombre d'abonnés BT,Nombre,2019,16468.0,LACS BAS MONO,LACS + BAS-MONO,36.0
+Taux d'accès à l'électricité par préfecture,LACS + BAS-MONO,Nombre d'abonnés BT,Nombre,2019,16468.0,LACS BAS MONO,LACS + BAS-MONO,34.0
+Taux d'accès à l'électricité par préfecture,LACS + BAS-MONO,Nombre d'abonnés BT,Nombre,2020,18294.0,LACS BAS MONO,LACS + BAS-MONO,36.0
+Taux d'accès à l'électricité par préfecture,LACS + BAS-MONO,Nombre d'abonnés BT,Nombre,2020,18294.0,LACS BAS MONO,LACS + BAS-MONO,34.0
+Taux d'accès à l'électricité par préfecture,LACS + BAS-MONO,Taux d'accès (%),%,2018,35.53,LACS BAS MONO,LACS + BAS-MONO,36.0
+Taux d'accès à l'électricité par préfecture,LACS + BAS-MONO,Taux d'accès (%),%,2018,35.53,LACS BAS MONO,LACS + BAS-MONO,34.0
+Taux d'accès à l'électricité par préfecture,LACS + BAS-MONO,Taux d'accès (%),%,2019,41.54,LACS BAS MONO,LACS + BAS-MONO,36.0
+Taux d'accès à l'électricité par préfecture,LACS + BAS-MONO,Taux d'accès (%),%,2019,41.54,LACS BAS MONO,LACS + BAS-MONO,34.0
+Taux d'accès à l'électricité par préfecture,LACS + BAS-MONO,Taux d'accès (%),%,2020,45.34,LACS BAS MONO,LACS + BAS-MONO,36.0
+Taux d'accès à l'électricité par préfecture,LACS + BAS-MONO,Taux d'accès (%),%,2020,45.34,LACS BAS MONO,LACS + BAS-MONO,34.0
+Taux d'accès à l'électricité par préfecture,LACS + BAS-MONO,Taux d'accès (%),%,2021,50.68,LACS BAS MONO,LACS + BAS-MONO,36.0
+Taux d'accès à l'électricité par préfecture,LACS + BAS-MONO,Taux d'accès (%),%,2021,50.68,LACS BAS MONO,LACS + BAS-MONO,34.0
+Taux d'accès à l'électricité par préfecture,VO,Nombre d'abonnés BT,Nombre,2018,6830.0,VO,,37.0
+Taux d'accès à l'électricité par préfecture,VO,Nombre d'abonnés BT,Nombre,2019,8043.0,VO,,37.0
+Taux d'accès à l'électricité par préfecture,VO,Nombre d'abonnés BT,Nombre,2020,9520.0,VO,,37.0
+Taux d'accès à l'électricité par préfecture,VO,Taux d'accès (%),%,2018,21.92,VO,,37.0
+Taux d'accès à l'électricité par préfecture,VO,Taux d'accès (%),%,2019,25.21,VO,,37.0
+Taux d'accès à l'électricité par préfecture,VO,Taux d'accès (%),%,2020,29.31,VO,,37.0
+Taux d'accès à l'électricité par préfecture,VO,Taux d'accès (%),%,2021,37.58,VO,,37.0
+Taux d'accès à l'électricité par préfecture,YOTO,Nombre d'abonnés BT,Nombre,2018,7068.0,YOTO,,38.0
+Taux d'accès à l'électricité par préfecture,YOTO,Nombre d'abonnés BT,Nombre,2019,8908.0,YOTO,,38.0
+Taux d'accès à l'électricité par préfecture,YOTO,Nombre d'abonnés BT,Nombre,2020,10571.0,YOTO,,38.0
+Taux d'accès à l'électricité par préfecture,YOTO,Taux d'accès (%),%,2018,28.77,YOTO,,38.0
+Taux d'accès à l'électricité par préfecture,YOTO,Taux d'accès (%),%,2019,35.42,YOTO,,38.0
+Taux d'accès à l'électricité par préfecture,YOTO,Taux d'accès (%),%,2020,41.29,YOTO,,38.0
+Taux d'accès à l'électricité par préfecture,YOTO,Taux d'accès (%),%,2021,62.4,YOTO,,38.0
+Taux d'accès à l'électricité par préfecture,ZIO,Nombre d'abonnés BT,Nombre,2018,19028.0,ZIO,,39.0
+Taux d'accès à l'électricité par préfecture,ZIO,Nombre d'abonnés BT,Nombre,2019,24042.0,ZIO,,39.0
+Taux d'accès à l'électricité par préfecture,ZIO,Nombre d'abonnés BT,Nombre,2020,28561.0,ZIO,,39.0
+Taux d'accès à l'électricité par préfecture,ZIO,Taux d'accès (%),%,2018,58.51,ZIO,,39.0
+Taux d'accès à l'électricité par préfecture,ZIO,Taux d'accès (%),%,2019,73.78,ZIO,,39.0
+Taux d'accès à l'électricité par préfecture,ZIO,Taux d'accès (%),%,2020,88.01,ZIO,,39.0
+Taux d'accès à l'électricité par préfecture,ZIO,Taux d'accès (%),%,2021,106.84,ZIO,,39.0
+Taux d'accès à l'électricité par préfecture,AVE,Nombre d'abonnés BT,Nombre,2018,1288.0,AVE,,33.0
+Taux d'accès à l'électricité par préfecture,AVE,Nombre d'abonnés BT,Nombre,2019,2543.0,AVE,,33.0
+Taux d'accès à l'électricité par préfecture,AVE,Nombre d'abonnés BT,Nombre,2020,3262.0,AVE,,33.0
+Taux d'accès à l'électricité par préfecture,AVE,Taux d'accès (%),%,2018,9.26,AVE,,33.0
+Taux d'accès à l'électricité par préfecture,AVE,Taux d'accès (%),%,2019,17.85,AVE,,33.0
+Taux d'accès à l'électricité par préfecture,AVE,Taux d'accès (%),%,2020,22.49,AVE,,33.0
+Taux d'accès à l'électricité par préfecture,AVE,Taux d'accès (%),%,2021,32.57,AVE,,33.0
+Taux d'accès à l'électricité par préfecture,REGION DES PLATEAUX,Nombre d'abonnés BT,Nombre,2018,38156.0,REGION DES PLATEAUX,,
+Taux d'accès à l'électricité par préfecture,REGION DES PLATEAUX,Nombre d'abonnés BT,Nombre,2019,45520.0,REGION DES PLATEAUX,,
+Taux d'accès à l'électricité par préfecture,REGION DES PLATEAUX,Nombre d'abonnés BT,Nombre,2020,49399.0,REGION DES PLATEAUX,,
+Taux d'accès à l'électricité par préfecture,REGION DES PLATEAUX,Taux d'accès (%),%,2018,19.1,REGION DES PLATEAUX,,
+Taux d'accès à l'électricité par préfecture,REGION DES PLATEAUX,Taux d'accès (%),%,2019,22.3,REGION DES PLATEAUX,,
+Taux d'accès à l'électricité par préfecture,REGION DES PLATEAUX,Taux d'accès (%),%,2020,23.84,REGION DES PLATEAUX,,
+Taux d'accès à l'électricité par préfecture,REGION DES PLATEAUX,Taux d'accès (%),%,2021,27.64,REGION DES PLATEAUX,,
+Taux d'accès à l'électricité par préfecture,OGOU + ANIE,Nombre d'abonnés BT,Nombre,2018,12422.0,OGOU ANIE,OGOU + ANIE,30.0
+Taux d'accès à l'électricité par préfecture,OGOU + ANIE,Nombre d'abonnés BT,Nombre,2018,12422.0,OGOU ANIE,OGOU + ANIE,23.0
+Taux d'accès à l'électricité par préfecture,OGOU + ANIE,Nombre d'abonnés BT,Nombre,2019,15065.0,OGOU ANIE,OGOU + ANIE,30.0
+Taux d'accès à l'électricité par préfecture,OGOU + ANIE,Nombre d'abonnés BT,Nombre,2019,15065.0,OGOU ANIE,OGOU + ANIE,23.0
+Taux d'accès à l'électricité par préfecture,OGOU + ANIE,Nombre d'abonnés BT,Nombre,2020,16545.0,OGOU ANIE,OGOU + ANIE,30.0
+Taux d'accès à l'électricité par préfecture,OGOU + ANIE,Nombre d'abonnés BT,Nombre,2020,16545.0,OGOU ANIE,OGOU + ANIE,23.0
+Taux d'accès à l'électricité par préfecture,OGOU + ANIE,Taux d'accès (%),%,2018,27.87,OGOU ANIE,OGOU + ANIE,30.0
+Taux d'accès à l'électricité par préfecture,OGOU + ANIE,Taux d'accès (%),%,2018,27.87,OGOU ANIE,OGOU + ANIE,23.0
+Taux d'accès à l'électricité par préfecture,OGOU + ANIE,Taux d'accès (%),%,2019,33.29,OGOU ANIE,OGOU + ANIE,30.0
+Taux d'accès à l'électricité par préfecture,OGOU + ANIE,Taux d'accès (%),%,2019,33.29,OGOU ANIE,OGOU + ANIE,23.0
+Taux d'accès à l'électricité par préfecture,OGOU + ANIE,Taux d'accès (%),%,2020,36.23,OGOU ANIE,OGOU + ANIE,30.0
+Taux d'accès à l'électricité par préfecture,OGOU + ANIE,Taux d'accès (%),%,2020,36.23,OGOU ANIE,OGOU + ANIE,23.0
+Taux d'accès à l'électricité par préfecture,OGOU + ANIE,Taux d'accès (%),%,2021,41.35,OGOU ANIE,OGOU + ANIE,30.0
+Taux d'accès à l'électricité par préfecture,OGOU + ANIE,Taux d'accès (%),%,2021,41.35,OGOU ANIE,OGOU + ANIE,23.0
+Taux d'accès à l'électricité par préfecture,EST MONO,Nombre d'abonnés BT,Nombre,2018,734.0,EST MONO,,25.0
+Taux d'accès à l'électricité par préfecture,EST MONO,Nombre d'abonnés BT,Nombre,2019,766.0,EST MONO,,25.0
+Taux d'accès à l'électricité par préfecture,EST MONO,Nombre d'abonnés BT,Nombre,2020,714.0,EST MONO,,25.0
+Taux d'accès à l'électricité par préfecture,EST MONO,Taux d'accès (%),%,2018,4.06,EST MONO,,25.0
+Taux d'accès à l'électricité par préfecture,EST MONO,Taux d'accès (%),%,2019,4.14,EST MONO,,25.0
+Taux d'accès à l'électricité par préfecture,EST MONO,Taux d'accès (%),%,2020,3.79,EST MONO,,25.0
+Taux d'accès à l'électricité par préfecture,EST MONO,Taux d'accès (%),%,2021,5.26,EST MONO,,25.0
+Taux d'accès à l'électricité par préfecture,AMOU,Nombre d'abonnés BT,Nombre,2018,1968.0,AMOU,,22.0
+Taux d'accès à l'électricité par préfecture,AMOU,Nombre d'abonnés BT,Nombre,2019,2601.0,AMOU,,22.0
+Taux d'accès à l'électricité par préfecture,AMOU,Nombre d'abonnés BT,Nombre,2020,2706.0,AMOU,,22.0
+Taux d'accès à l'électricité par préfecture,AMOU,Taux d'accès (%),%,2018,12.62,AMOU,,22.0
+Taux d'accès à l'électricité par préfecture,AMOU,Taux d'accès (%),%,2019,16.29,AMOU,,22.0
+Taux d'accès à l'électricité par préfecture,AMOU,Taux d'accès (%),%,2020,16.66,AMOU,,22.0
+Taux d'accès à l'électricité par préfecture,AMOU,Taux d'accès (%),%,2021,19.11,AMOU,,22.0
+Taux d'accès à l'électricité par préfecture,AKEBOU,Nombre d'abonnés BT,Nombre,2018,241.0,AKEBOU,AKEBOU,21.0
+Taux d'accès à l'électricité par préfecture,AKEBOU,Nombre d'abonnés BT,Nombre,2019,233.0,AKEBOU,AKEBOU,21.0
+Taux d'accès à l'électricité par préfecture,AKEBOU,Nombre d'abonnés BT,Nombre,2020,284.0,AKEBOU,AKEBOU,21.0
+Taux d'accès à l'électricité par préfecture,AKEBOU,Nombre d'abonnés BT,Nombre,2021,364.0,AKEBOU,AKEBOU,21.0
+Taux d'accès à l'électricité par préfecture,AKEBOU,Taux d'accès (%),%,2018,2.61,AKEBOU,AKEBOU,21.0
+Taux d'accès à l'électricité par préfecture,AKEBOU,Taux d'accès (%),%,2019,2.46,AKEBOU,AKEBOU,21.0
+Taux d'accès à l'électricité par préfecture,AKEBOU,Taux d'accès (%),%,2020,2.95,AKEBOU,AKEBOU,21.0
+Taux d'accès à l'électricité par préfecture,AKEBOU,Taux d'accès (%),%,2021,3.74,AKEBOU,AKEBOU,21.0
+Taux d'accès à l'électricité par préfecture,WAWA,Nombre d'abonnés BT,Nombre,2018,1666.0,WAWA,,31.0
+Taux d'accès à l'électricité par préfecture,WAWA,Nombre d'abonnés BT,Nombre,2019,1707.0,WAWA,,31.0
+Taux d'accès à l'électricité par préfecture,WAWA,Nombre d'abonnés BT,Nombre,2020,1834.0,WAWA,,31.0
+Taux d'accès à l'électricité par préfecture,WAWA,Taux d'accès (%),%,2018,11.12,WAWA,,31.0
+Taux d'accès à l'électricité par préfecture,WAWA,Taux d'accès (%),%,2019,11.13,WAWA,,31.0
+Taux d'accès à l'électricité par préfecture,WAWA,Taux d'accès (%),%,2020,11.75,WAWA,,31.0
+Taux d'accès à l'électricité par préfecture,WAWA,Taux d'accès (%),%,2021,12.98,WAWA,,31.0
+Taux d'accès à l'électricité par préfecture,KPELE,Nombre d'abonnés BT,Nombre,2018,1223.0,KPELE,KPELE,28.0
+Taux d'accès à l'électricité par préfecture,KPELE,Nombre d'abonnés BT,Nombre,2019,1141.0,KPELE,KPELE,28.0
+Taux d'accès à l'électricité par préfecture,KPELE,Nombre d'abonnés BT,Nombre,2020,1115.0,KPELE,KPELE,28.0
+Taux d'accès à l'électricité par préfecture,KPELE,Taux d'accès (%),%,2018,10.91,KPELE,KPELE,28.0
+Taux d'accès à l'électricité par préfecture,KPELE,Taux d'accès (%),%,2019,9.94,KPELE,KPELE,28.0
+Taux d'accès à l'électricité par préfecture,KPELE,Taux d'accès (%),%,2020,9.55,KPELE,KPELE,28.0
+Taux d'accès à l'électricité par préfecture,KPELE,Taux d'accès (%),%,2021,9.31,KPELE,KPELE,28.0
+Taux d'accès à l'électricité par préfecture,DANYI,Nombre d'abonnés BT,Nombre,2018,931.0,DANYI,,24.0
+Taux d'accès à l'électricité par préfecture,DANYI,Nombre d'abonnés BT,Nombre,2019,944.0,DANYI,,24.0
+Taux d'accès à l'électricité par préfecture,DANYI,Nombre d'abonnés BT,Nombre,2020,1001.0,DANYI,,24.0
+Taux d'accès à l'électricité par préfecture,DANYI,Taux d'accès (%),%,2018,16.2,DANYI,,24.0
+Taux d'accès à l'électricité par préfecture,DANYI,Taux d'accès (%),%,2019,16.04,DANYI,,24.0
+Taux d'accès à l'électricité par préfecture,DANYI,Taux d'accès (%),%,2020,16.71,DANYI,,24.0
+Taux d'accès à l'électricité par préfecture,DANYI,Taux d'accès (%),%,2021,22.32,DANYI,,24.0
+Taux d'accès à l'électricité par préfecture,KLOTO,Nombre d'abonnés BT,Nombre,2018,12184.0,KLOTO,,27.0
+Taux d'accès à l'électricité par préfecture,KLOTO,Nombre d'abonnés BT,Nombre,2019,14586.0,KLOTO,,27.0
+Taux d'accès à l'électricité par préfecture,KLOTO,Nombre d'abonnés BT,Nombre,2020,15940.0,KLOTO,,27.0
+Taux d'accès à l'électricité par préfecture,KLOTO,Taux d'accès (%),%,2018,62.31,KLOTO,,27.0
+Taux d'accès à l'électricité par préfecture,KLOTO,Taux d'accès (%),%,2019,73.33,KLOTO,,27.0
+Taux d'accès à l'électricité par préfecture,KLOTO,Taux d'accès (%),%,2020,79.27,KLOTO,,27.0
+Taux d'accès à l'électricité par préfecture,KLOTO,Taux d'accès (%),%,2021,86.25,KLOTO,,27.0
+Taux d'accès à l'électricité par préfecture,AGOU,Nombre d'abonnés BT,Nombre,2018,1641.0,AGOU,,20.0
+Taux d'accès à l'électricité par préfecture,AGOU,Nombre d'abonnés BT,Nombre,2019,1825.0,AGOU,,20.0
+Taux d'accès à l'électricité par préfecture,AGOU,Nombre d'abonnés BT,Nombre,2020,2056.0,AGOU,,20.0
+Taux d'accès à l'électricité par préfecture,AGOU,Taux d'accès (%),%,2018,13.03,AGOU,,20.0
+Taux d'accès à l'électricité par préfecture,AGOU,Taux d'accès (%),%,2019,14.15,AGOU,,20.0
+Taux d'accès à l'électricité par préfecture,AGOU,Taux d'accès (%),%,2020,15.67,AGOU,,20.0
+Taux d'accès à l'électricité par préfecture,AGOU,Taux d'accès (%),%,2021,20.55,AGOU,,20.0
+Taux d'accès à l'électricité par préfecture,HAHO + MOYEN MONO,Nombre d'abonnés BT,Nombre,2018,5146.0,HAHO MOYEN MONO,HAHO + MOYEN MONO,26.0
+Taux d'accès à l'électricité par préfecture,HAHO + MOYEN MONO,Nombre d'abonnés BT,Nombre,2018,5146.0,HAHO MOYEN MONO,HAHO + MOYEN MONO,29.0
+Taux d'accès à l'électricité par préfecture,HAHO + MOYEN MONO,Nombre d'abonnés BT,Nombre,2019,6652.0,HAHO MOYEN MONO,HAHO + MOYEN MONO,26.0
+Taux d'accès à l'électricité par préfecture,HAHO + MOYEN MONO,Nombre d'abonnés BT,Nombre,2019,6652.0,HAHO MOYEN MONO,HAHO + MOYEN MONO,29.0
+Taux d'accès à l'électricité par préfecture,HAHO + MOYEN MONO,Nombre d'abonnés BT,Nombre,2020,7204.0,HAHO MOYEN MONO,HAHO + MOYEN MONO,26.0
+Taux d'accès à l'électricité par préfecture,HAHO + MOYEN MONO,Nombre d'abonnés BT,Nombre,2020,7204.0,HAHO MOYEN MONO,HAHO + MOYEN MONO,29.0
+Taux d'accès à l'électricité par préfecture,HAHO + MOYEN MONO,Taux d'accès (%),%,2018,10.66,HAHO MOYEN MONO,HAHO + MOYEN MONO,26.0
+Taux d'accès à l'électricité par préfecture,HAHO + MOYEN MONO,Taux d'accès (%),%,2018,10.66,HAHO MOYEN MONO,HAHO + MOYEN MONO,29.0
+Taux d'accès à l'électricité par préfecture,HAHO + MOYEN MONO,Taux d'accès (%),%,2019,13.46,HAHO MOYEN MONO,HAHO + MOYEN MONO,26.0
+Taux d'accès à l'électricité par préfecture,HAHO + MOYEN MONO,Taux d'accès (%),%,2019,13.46,HAHO MOYEN MONO,HAHO + MOYEN MONO,29.0
+Taux d'accès à l'électricité par préfecture,HAHO + MOYEN MONO,Taux d'accès (%),%,2020,14.32,HAHO MOYEN MONO,HAHO + MOYEN MONO,26.0
+Taux d'accès à l'électricité par préfecture,HAHO + MOYEN MONO,Taux d'accès (%),%,2020,14.32,HAHO MOYEN MONO,HAHO + MOYEN MONO,29.0
+Taux d'accès à l'électricité par préfecture,HAHO + MOYEN MONO,Taux d'accès (%),%,2021,18.68,HAHO MOYEN MONO,HAHO + MOYEN MONO,26.0
+Taux d'accès à l'électricité par préfecture,HAHO + MOYEN MONO,Taux d'accès (%),%,2021,18.68,HAHO MOYEN MONO,HAHO + MOYEN MONO,29.0
+Taux d'accès à l'électricité par préfecture,REGION CENTRALE,Nombre d'abonnés BT,Nombre,2018,22097.0,REGION CENTRALE,,
+Taux d'accès à l'électricité par préfecture,REGION CENTRALE,Nombre d'abonnés BT,Nombre,2019,26052.0,REGION CENTRALE,,
+Taux d'accès à l'électricité par préfecture,REGION CENTRALE,Nombre d'abonnés BT,Nombre,2020,29304.0,REGION CENTRALE,,
+Taux d'accès à l'électricité par préfecture,REGION CENTRALE,Taux d'accès (%),%,2018,24.69,REGION CENTRALE,,
+Taux d'accès à l'électricité par préfecture,REGION CENTRALE,Taux d'accès (%),%,2019,28.51,REGION CENTRALE,,
+Taux d'accès à l'électricité par préfecture,REGION CENTRALE,Taux d'accès (%),%,2020,31.61,REGION CENTRALE,,
+Taux d'accès à l'électricité par préfecture,REGION CENTRALE,Taux d'accès (%),%,2021,35.95,REGION CENTRALE,,
+Taux d'accès à l'électricité par préfecture,TCHAOUDJO,Nombre d'abonnés BT,Nombre,2018,12539.0,TCHAOUDJO,,18.0
+Taux d'accès à l'électricité par préfecture,TCHAOUDJO,Nombre d'abonnés BT,Nombre,2019,14346.0,TCHAOUDJO,,18.0
+Taux d'accès à l'électricité par préfecture,TCHAOUDJO,Nombre d'abonnés BT,Nombre,2020,15444.0,TCHAOUDJO,,18.0
+Taux d'accès à l'électricité par préfecture,TCHAOUDJO,Taux d'accès (%),%,2018,48.17,TCHAOUDJO,,18.0
+Taux d'accès à l'électricité par préfecture,TCHAOUDJO,Taux d'accès (%),%,2019,54.36,TCHAOUDJO,,18.0
+Taux d'accès à l'électricité par préfecture,TCHAOUDJO,Taux d'accès (%),%,2020,58.08,TCHAOUDJO,,18.0
+Taux d'accès à l'électricité par préfecture,TCHAOUDJO,Taux d'accès (%),%,2021,64.95,TCHAOUDJO,,18.0
+Taux d'accès à l'électricité par préfecture,TCHAMBA,Nombre d'abonnés BT,Nombre,2018,3583.0,TCHAMBA,,17.0
+Taux d'accès à l'électricité par préfecture,TCHAMBA,Nombre d'abonnés BT,Nombre,2019,4434.0,TCHAMBA,,17.0
+Taux d'accès à l'électricité par préfecture,TCHAMBA,Nombre d'abonnés BT,Nombre,2020,5766.0,TCHAMBA,,17.0
+Taux d'accès à l'électricité par préfecture,TCHAMBA,Taux d'accès (%),%,2018,18.34,TCHAMBA,,17.0
+Taux d'accès à l'électricité par préfecture,TCHAMBA,Taux d'accès (%),%,2019,22.17,TCHAMBA,,17.0
+Taux d'accès à l'électricité par préfecture,TCHAMBA,Taux d'accès (%),%,2020,28.33,TCHAMBA,,17.0
+Taux d'accès à l'électricité par préfecture,TCHAMBA,Taux d'accès (%),%,2021,34.45,TCHAMBA,,17.0
+Taux d'accès à l'électricité par préfecture,SOTOUBOUA + PLAINE DE MO,Nombre d'abonnés BT,Nombre,2018,4317.0,SOTOUBOUA PLAINE DE MO,SOTOUBOUA + PLAINE DE MO,16.0
+Taux d'accès à l'électricité par préfecture,SOTOUBOUA + PLAINE DE MO,Nombre d'abonnés BT,Nombre,2018,4317.0,SOTOUBOUA PLAINE DE MO,SOTOUBOUA + PLAINE DE MO,19.0
+Taux d'accès à l'électricité par préfecture,SOTOUBOUA + PLAINE DE MO,Nombre d'abonnés BT,Nombre,2019,5169.0,SOTOUBOUA PLAINE DE MO,SOTOUBOUA + PLAINE DE MO,16.0
+Taux d'accès à l'électricité par préfecture,SOTOUBOUA + PLAINE DE MO,Nombre d'abonnés BT,Nombre,2019,5169.0,SOTOUBOUA PLAINE DE MO,SOTOUBOUA + PLAINE DE MO,19.0
+Taux d'accès à l'électricité par préfecture,SOTOUBOUA + PLAINE DE MO,Nombre d'abonnés BT,Nombre,2020,5655.0,SOTOUBOUA PLAINE DE MO,SOTOUBOUA + PLAINE DE MO,16.0
+Taux d'accès à l'électricité par préfecture,SOTOUBOUA + PLAINE DE MO,Nombre d'abonnés BT,Nombre,2020,5655.0,SOTOUBOUA PLAINE DE MO,SOTOUBOUA + PLAINE DE MO,19.0
+Taux d'accès à l'électricité par préfecture,SOTOUBOUA + PLAINE DE MO,Taux d'accès (%),%,2018,18.37,SOTOUBOUA PLAINE DE MO,SOTOUBOUA + PLAINE DE MO,16.0
+Taux d'accès à l'électricité par préfecture,SOTOUBOUA + PLAINE DE MO,Taux d'accès (%),%,2018,18.37,SOTOUBOUA PLAINE DE MO,SOTOUBOUA + PLAINE DE MO,19.0
+Taux d'accès à l'électricité par préfecture,SOTOUBOUA + PLAINE DE MO,Taux d'accès (%),%,2019,21.48,SOTOUBOUA PLAINE DE MO,SOTOUBOUA + PLAINE DE MO,16.0
+Taux d'accès à l'électricité par préfecture,SOTOUBOUA + PLAINE DE MO,Taux d'accès (%),%,2019,21.48,SOTOUBOUA PLAINE DE MO,SOTOUBOUA + PLAINE DE MO,19.0
+Taux d'accès à l'électricité par préfecture,SOTOUBOUA + PLAINE DE MO,Taux d'accès (%),%,2020,23.09,SOTOUBOUA PLAINE DE MO,SOTOUBOUA + PLAINE DE MO,16.0
+Taux d'accès à l'électricité par préfecture,SOTOUBOUA + PLAINE DE MO,Taux d'accès (%),%,2020,23.09,SOTOUBOUA PLAINE DE MO,SOTOUBOUA + PLAINE DE MO,19.0
+Taux d'accès à l'électricité par préfecture,SOTOUBOUA + PLAINE DE MO,Taux d'accès (%),%,2021,25.97,SOTOUBOUA PLAINE DE MO,SOTOUBOUA + PLAINE DE MO,16.0
+Taux d'accès à l'électricité par préfecture,SOTOUBOUA + PLAINE DE MO,Taux d'accès (%),%,2021,25.97,SOTOUBOUA PLAINE DE MO,SOTOUBOUA + PLAINE DE MO,19.0
+Taux d'accès à l'électricité par préfecture,BLITTA,Nombre d'abonnés BT,Nombre,2018,1658.0,BLITTA,,15.0
+Taux d'accès à l'électricité par préfecture,BLITTA,Nombre d'abonnés BT,Nombre,2019,2103.0,BLITTA,,15.0
+Taux d'accès à l'électricité par préfecture,BLITTA,Nombre d'abonnés BT,Nombre,2020,2439.0,BLITTA,,15.0
+Taux d'accès à l'électricité par préfecture,BLITTA,Taux d'accès (%),%,2019,10.06,BLITTA,,15.0
+Taux d'accès à l'électricité par préfecture,BLITTA,Taux d'accès (%),%,2020,11.46,BLITTA,,15.0
+Taux d'accès à l'électricité par préfecture,BLITTA,Taux d'accès (%),%,2021,13.01,BLITTA,,15.0
+Taux d'accès à l'électricité par préfecture,KOZAH,Nombre d'abonnés BT,Nombre,2018,18120.0,KOZAH,,14.0
+Taux d'accès à l'électricité par préfecture,KOZAH,Nombre d'abonnés BT,Nombre,2019,21412.0,KOZAH,,14.0
+Taux d'accès à l'électricité par préfecture,KOZAH,Nombre d'abonnés BT,Nombre,2020,23363.0,KOZAH,,14.0
+Taux d'accès à l'électricité par préfecture,KOZAH,Taux d'accès (%),%,2018,56.44,KOZAH,,14.0
+Taux d'accès à l'électricité par préfecture,KOZAH,Taux d'accès (%),%,2019,65.46,KOZAH,,14.0
+Taux d'accès à l'électricité par préfecture,KOZAH,Taux d'accès (%),%,2020,70.53,KOZAH,,14.0
+Taux d'accès à l'électricité par préfecture,KOZAH,Taux d'accès (%),%,2021,76.57,KOZAH,,14.0
+Taux d'accès à l'électricité par préfecture,REGION DE LA KARA,Nombre d'abonnés BT,Nombre,2018,31039.0,REGION DE LA KARA,,
+Taux d'accès à l'électricité par préfecture,REGION DE LA KARA,Nombre d'abonnés BT,Nombre,2019,36173.0,REGION DE LA KARA,,
+Taux d'accès à l'électricité par préfecture,REGION DE LA KARA,Nombre d'abonnés BT,Nombre,2020,39788.0,REGION DE LA KARA,,
+Taux d'accès à l'électricité par préfecture,REGION DE LA KARA,Taux d'accès (%),%,2018,27.49,REGION DE LA KARA,,
+Taux d'accès à l'électricité par préfecture,REGION DE LA KARA,Taux d'accès (%),%,2019,31.33,REGION DE LA KARA,,
+Taux d'accès à l'électricité par préfecture,REGION DE LA KARA,Taux d'accès (%),%,2020,33.91,REGION DE LA KARA,,
+Taux d'accès à l'électricité par préfecture,REGION DE LA KARA,Taux d'accès (%),%,2021,36.65,REGION DE LA KARA,,
+Taux d'accès à l'électricité par préfecture,REGION DES SAVANES,Nombre d'abonnés BT,Nombre,2018,19448.0,REGION DES SAVANES,,
+Taux d'accès à l'électricité par préfecture,REGION DES SAVANES,Nombre d'abonnés BT,Nombre,2019,22384.0,REGION DES SAVANES,,
+Taux d'accès à l'électricité par préfecture,REGION DES SAVANES,Nombre d'abonnés BT,Nombre,2020,24893.0,REGION DES SAVANES,,
+Taux d'accès à l'électricité par préfecture,REGION DES SAVANES,Taux d'accès (%),%,2018,16.08,REGION DES SAVANES,,
+Taux d'accès à l'électricité par préfecture,REGION DES SAVANES,Taux d'accès (%),%,2019,18.11,REGION DES SAVANES,,
+Taux d'accès à l'électricité par préfecture,REGION DES SAVANES,Taux d'accès (%),%,2020,20.09,REGION DES SAVANES,,
+Taux d'accès à l'électricité par préfecture,REGION DES SAVANES,Taux d'accès (%),%,2021,22.39,REGION DES SAVANES,,
+Taux d'accès à l'électricité par préfecture,BINAH,Nombre d'abonnés BT,Nombre,2018,1819.0,BINAH,,10.0
+Taux d'accès à l'électricité par préfecture,BINAH,Nombre d'abonnés BT,Nombre,2019,1884.0,BINAH,,10.0
+Taux d'accès à l'électricité par préfecture,BINAH,Nombre d'abonnés BT,Nombre,2020,2318.0,BINAH,,10.0
+Taux d'accès à l'électricité par préfecture,BINAH,Taux d'accès (%),%,2018,17.5,BINAH,,10.0
+Taux d'accès à l'électricité par préfecture,BINAH,Taux d'accès (%),%,2019,17.71,BINAH,,10.0
+Taux d'accès à l'électricité par préfecture,BINAH,Taux d'accès (%),%,2020,21.4,BINAH,,10.0
+Taux d'accès à l'électricité par préfecture,BINAH,Taux d'accès (%),%,2021,20.63,BINAH,,10.0
+Taux d'accès à l'électricité par préfecture,ASSOLI,Nombre d'abonnés BT,Nombre,2018,1996.0,ASSOLI,,8.0
+Taux d'accès à l'électricité par préfecture,ASSOLI,Nombre d'abonnés BT,Nombre,2019,2121.0,ASSOLI,,8.0
+Taux d'accès à l'électricité par préfecture,ASSOLI,Nombre d'abonnés BT,Nombre,2020,2295.0,ASSOLI,,8.0
+Taux d'accès à l'électricité par préfecture,ASSOLI,Taux d'accès (%),%,2018,26.13,ASSOLI,,8.0
+Taux d'accès à l'électricité par préfecture,ASSOLI,Taux d'accès (%),%,2019,27.12,ASSOLI,,8.0
+Taux d'accès à l'électricité par préfecture,ASSOLI,Taux d'accès (%),%,2020,28.83,ASSOLI,,8.0
+Taux d'accès à l'électricité par préfecture,ASSOLI,Taux d'accès (%),%,2021,30.77,ASSOLI,,8.0
+Taux d'accès à l'électricité par préfecture,CINKASSE,Nombre d'abonnés BT,Nombre,2018,4419.0,CINKASSE,,1.0
+Taux d'accès à l'électricité par préfecture,CINKASSE,Nombre d'abonnés BT,Nombre,2019,4862.0,CINKASSE,,1.0
+Taux d'accès à l'électricité par préfecture,CINKASSE,Nombre d'abonnés BT,Nombre,2020,5440.0,CINKASSE,,1.0
+Taux d'accès à l'électricité par préfecture,CINKASSE,Taux d'accès (%),%,2018,37.91,CINKASSE,,1.0
+Taux d'accès à l'électricité par préfecture,CINKASSE,Taux d'accès (%),%,2019,40.73,CINKASSE,,1.0
+Taux d'accès à l'électricité par préfecture,CINKASSE,Taux d'accès (%),%,2020,44.77,CINKASSE,,1.0
+Taux d'accès à l'électricité par préfecture,CINKASSE,Taux d'accès (%),%,2021,49.33,CINKASSE,,1.0
+Taux d'accès à l'électricité par préfecture,TONE,Nombre d'abonnés BT,Nombre,2018,9636.0,TONE,,7.0
+Taux d'accès à l'électricité par préfecture,TONE,Nombre d'abonnés BT,Nombre,2019,11162.0,TONE,,7.0
+Taux d'accès à l'électricité par préfecture,TONE,Nombre d'abonnés BT,Nombre,2020,12396.0,TONE,,7.0
+Taux d'accès à l'électricité par préfecture,TONE,Taux d'accès (%),%,2018,23.79,TONE,,7.0
+Taux d'accès à l'électricité par préfecture,TONE,Taux d'accès (%),%,2019,27.06,TONE,,7.0
+Taux d'accès à l'électricité par préfecture,TONE,Taux d'accès (%),%,2020,29.7,TONE,,7.0
+Taux d'accès à l'électricité par préfecture,TONE,Taux d'accès (%),%,2021,33.45,TONE,,7.0
+Taux d'accès à l'électricité par préfecture,BASSAR,Nombre d'abonnés BT,Nombre,2018,5046.0,BASSAR,,9.0
+Taux d'accès à l'électricité par préfecture,BASSAR,Nombre d'abonnés BT,Nombre,2019,5743.0,BASSAR,,9.0
+Taux d'accès à l'électricité par préfecture,BASSAR,Nombre d'abonnés BT,Nombre,2020,6102.0,BASSAR,,9.0
+Taux d'accès à l'électricité par préfecture,BASSAR,Taux d'accès (%),%,2018,28.42,BASSAR,,9.0
+Taux d'accès à l'électricité par préfecture,BASSAR,Taux d'accès (%),%,2019,31.58,BASSAR,,9.0
+Taux d'accès à l'électricité par préfecture,BASSAR,Taux d'accès (%),%,2020,32.97,BASSAR,,9.0
+Taux d'accès à l'électricité par préfecture,BASSAR,Taux d'accès (%),%,2021,36.37,BASSAR,,9.0
+Taux d'accès à l'électricité par préfecture,DANKPEN,Nombre d'abonnés BT,Nombre,2018,568.0,DANKPEN,,11.0
+Taux d'accès à l'électricité par préfecture,DANKPEN,Nombre d'abonnés BT,Nombre,2019,900.0,DANKPEN,,11.0
+Taux d'accès à l'électricité par préfecture,DANKPEN,Nombre d'abonnés BT,Nombre,2020,1178.0,DANKPEN,,11.0
+Taux d'accès à l'électricité par préfecture,DANKPEN,Taux d'accès (%),%,2018,2.93,DANKPEN,,11.0
+Taux d'accès à l'électricité par préfecture,DANKPEN,Taux d'accès (%),%,2019,4.53,DANKPEN,,11.0
+Taux d'accès à l'électricité par préfecture,DANKPEN,Taux d'accès (%),%,2020,5.83,DANKPEN,,11.0
+Taux d'accès à l'électricité par préfecture,DANKPEN,Taux d'accès (%),%,2021,6.26,DANKPEN,,11.0
+Taux d'accès à l'électricité par préfecture,TANDJOARE,Nombre d'abonnés BT,Nombre,2018,428.0,TANDJOARE,TANDJOARE,6.0
+Taux d'accès à l'électricité par préfecture,TANDJOARE,Nombre d'abonnés BT,Nombre,2019,391.0,TANDJOARE,TANDJOARE,6.0
+Taux d'accès à l'électricité par préfecture,TANDJOARE,Nombre d'abonnés BT,Nombre,2020,367.0,TANDJOARE,TANDJOARE,6.0
+Taux d'accès à l'électricité par préfecture,TANDJOARE,Nombre d'abonnés BT,Nombre,2021,427.0,TANDJOARE,TANDJOARE,6.0
+Taux d'accès à l'électricité par préfecture,TANDJOARE,Taux d'accès (%),%,2018,2.45,TANDJOARE,TANDJOARE,6.0
+Taux d'accès à l'électricité par préfecture,TANDJOARE,Taux d'accès (%),%,2019,2.18,TANDJOARE,TANDJOARE,6.0
+Taux d'accès à l'électricité par préfecture,TANDJOARE,Taux d'accès (%),%,2020,2.01,TANDJOARE,TANDJOARE,6.0
+Taux d'accès à l'électricité par préfecture,TANDJOARE,Taux d'accès (%),%,2021,2.29,TANDJOARE,TANDJOARE,6.0
+Taux d'accès à l'électricité par préfecture,KPENDJAL + KPENDJAL OUEST,Nombre d'abonnés BT,Nombre,2018,484.0,KPENDJAL KPENDJAL OUEST,KPENDJAL + KPENDJAL OUEST,2.0
+Taux d'accès à l'électricité par préfecture,KPENDJAL + KPENDJAL OUEST,Nombre d'abonnés BT,Nombre,2018,484.0,KPENDJAL KPENDJAL OUEST,KPENDJAL + KPENDJAL OUEST,3.0
+Taux d'accès à l'électricité par préfecture,KPENDJAL + KPENDJAL OUEST,Nombre d'abonnés BT,Nombre,2019,442.0,KPENDJAL KPENDJAL OUEST,KPENDJAL + KPENDJAL OUEST,2.0
+Taux d'accès à l'électricité par préfecture,KPENDJAL + KPENDJAL OUEST,Nombre d'abonnés BT,Nombre,2019,442.0,KPENDJAL KPENDJAL OUEST,KPENDJAL + KPENDJAL OUEST,3.0
+Taux d'accès à l'électricité par préfecture,KPENDJAL + KPENDJAL OUEST,Nombre d'abonnés BT,Nombre,2020,408.0,KPENDJAL KPENDJAL OUEST,KPENDJAL + KPENDJAL OUEST,2.0
+Taux d'accès à l'électricité par préfecture,KPENDJAL + KPENDJAL OUEST,Nombre d'abonnés BT,Nombre,2020,408.0,KPENDJAL KPENDJAL OUEST,KPENDJAL + KPENDJAL OUEST,3.0
+Taux d'accès à l'électricité par préfecture,KPENDJAL + KPENDJAL OUEST,Nombre d'abonnés BT,Nombre,2021,426.0,KPENDJAL KPENDJAL OUEST,KPENDJAL + KPENDJAL OUEST,2.0
+Taux d'accès à l'électricité par préfecture,KPENDJAL + KPENDJAL OUEST,Nombre d'abonnés BT,Nombre,2021,426.0,KPENDJAL KPENDJAL OUEST,KPENDJAL + KPENDJAL OUEST,3.0
+Taux d'accès à l'électricité par préfecture,KPENDJAL + KPENDJAL OUEST,Taux d'accès (%),%,2018,2.1,KPENDJAL KPENDJAL OUEST,KPENDJAL + KPENDJAL OUEST,2.0
+Taux d'accès à l'électricité par préfecture,KPENDJAL + KPENDJAL OUEST,Taux d'accès (%),%,2018,2.1,KPENDJAL KPENDJAL OUEST,KPENDJAL + KPENDJAL OUEST,3.0
+Taux d'accès à l'électricité par préfecture,KPENDJAL + KPENDJAL OUEST,Taux d'accès (%),%,2019,1.88,KPENDJAL KPENDJAL OUEST,KPENDJAL + KPENDJAL OUEST,2.0
+Taux d'accès à l'électricité par préfecture,KPENDJAL + KPENDJAL OUEST,Taux d'accès (%),%,2019,1.88,KPENDJAL KPENDJAL OUEST,KPENDJAL + KPENDJAL OUEST,3.0
+Taux d'accès à l'électricité par préfecture,KPENDJAL + KPENDJAL OUEST,Taux d'accès (%),%,2020,1.83,KPENDJAL KPENDJAL OUEST,KPENDJAL + KPENDJAL OUEST,2.0
+Taux d'accès à l'électricité par préfecture,KPENDJAL + KPENDJAL OUEST,Taux d'accès (%),%,2020,1.83,KPENDJAL KPENDJAL OUEST,KPENDJAL + KPENDJAL OUEST,3.0
+Taux d'accès à l'électricité par préfecture,KPENDJAL + KPENDJAL OUEST,Taux d'accès (%),%,2021,1.86,KPENDJAL KPENDJAL OUEST,KPENDJAL + KPENDJAL OUEST,2.0
+Taux d'accès à l'électricité par préfecture,KPENDJAL + KPENDJAL OUEST,Taux d'accès (%),%,2021,1.86,KPENDJAL KPENDJAL OUEST,KPENDJAL + KPENDJAL OUEST,3.0
+Taux d'accès à l'électricité par préfecture,DOUFELGOU,Nombre d'abonnés BT,Nombre,2018,2622.0,DOUFELGOU,,12.0
+Taux d'accès à l'électricité par préfecture,DOUFELGOU,Nombre d'abonnés BT,Nombre,2019,3083.0,DOUFELGOU,,12.0
+Taux d'accès à l'électricité par préfecture,DOUFELGOU,Nombre d'abonnés BT,Nombre,2020,3341.0,DOUFELGOU,,12.0
+Taux d'accès à l'électricité par préfecture,DOUFELGOU,Taux d'accès (%),%,2018,22.48,DOUFELGOU,,12.0
+Taux d'accès à l'électricité par préfecture,DOUFELGOU,Taux d'accès (%),%,2019,25.81,DOUFELGOU,,12.0
+Taux d'accès à l'électricité par préfecture,DOUFELGOU,Taux d'accès (%),%,2020,27.48,DOUFELGOU,,12.0
+Taux d'accès à l'électricité par préfecture,DOUFELGOU,Taux d'accès (%),%,2021,29.93,DOUFELGOU,,12.0
+Taux d'accès à l'électricité par préfecture,KERAN,Nombre d'abonnés BT,Nombre,2018,868.0,KERAN,,13.0
+Taux d'accès à l'électricité par préfecture,KERAN,Nombre d'abonnés BT,Nombre,2019,1030.0,KERAN,,13.0
+Taux d'accès à l'électricité par préfecture,KERAN,Nombre d'abonnés BT,Nombre,2020,1191.0,KERAN,,13.0
+Taux d'accès à l'électricité par préfecture,KERAN,Taux d'accès (%),%,2018,6.22,KERAN,,13.0
+Taux d'accès à l'électricité par préfecture,KERAN,Taux d'accès (%),%,2019,7.21,KERAN,,13.0
+Taux d'accès à l'électricité par préfecture,KERAN,Taux d'accès (%),%,2020,8.19,KERAN,,13.0
+Taux d'accès à l'électricité par préfecture,KERAN,Taux d'accès (%),%,2021,9.54,KERAN,,13.0
+Taux d'accès à l'électricité par préfecture,OTI + OTI SUD,Nombre d'abonnés BT,Nombre,2018,4481.0,OTI OTI SUD,OTI + OTI SUD,4.0
+Taux d'accès à l'électricité par préfecture,OTI + OTI SUD,Nombre d'abonnés BT,Nombre,2018,4481.0,OTI OTI SUD,OTI + OTI SUD,5.0
+Taux d'accès à l'électricité par préfecture,OTI + OTI SUD,Nombre d'abonnés BT,Nombre,2019,5527.0,OTI OTI SUD,OTI + OTI SUD,4.0
+Taux d'accès à l'électricité par préfecture,OTI + OTI SUD,Nombre d'abonnés BT,Nombre,2019,5527.0,OTI OTI SUD,OTI + OTI SUD,5.0
+Taux d'accès à l'électricité par préfecture,OTI + OTI SUD,Nombre d'abonnés BT,Nombre,2020,6282.0,OTI OTI SUD,OTI + OTI SUD,4.0
+Taux d'accès à l'électricité par préfecture,OTI + OTI SUD,Nombre d'abonnés BT,Nombre,2020,6282.0,OTI OTI SUD,OTI + OTI SUD,5.0
+Taux d'accès à l'électricité par préfecture,OTI + OTI SUD,Taux d'accès (%),%,2018,15.85,OTI OTI SUD,OTI + OTI SUD,4.0
+Taux d'accès à l'électricité par préfecture,OTI + OTI SUD,Taux d'accès (%),%,2018,15.85,OTI OTI SUD,OTI + OTI SUD,5.0
+Taux d'accès à l'électricité par préfecture,OTI + OTI SUD,Taux d'accès (%),%,2019,19.1,OTI OTI SUD,OTI + OTI SUD,4.0
+Taux d'accès à l'électricité par préfecture,OTI + OTI SUD,Taux d'accès (%),%,2019,19.1,OTI OTI SUD,OTI + OTI SUD,5.0
+Taux d'accès à l'électricité par préfecture,OTI + OTI SUD,Taux d'accès (%),%,2020,21.33,OTI OTI SUD,OTI + OTI SUD,4.0
+Taux d'accès à l'électricité par préfecture,OTI + OTI SUD,Taux d'accès (%),%,2020,21.33,OTI OTI SUD,OTI + OTI SUD,5.0
+Taux d'accès à l'électricité par préfecture,OTI + OTI SUD,Taux d'accès (%),%,2021,23.73,OTI OTI SUD,OTI + OTI SUD,4.0
+Taux d'accès à l'électricité par préfecture,OTI + OTI SUD,Taux d'accès (%),%,2021,23.73,OTI OTI SUD,OTI + OTI SUD,5.0

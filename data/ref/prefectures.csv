@@ -1,0 +1,40 @@
+prefecture_id,prefecture_code,prefecture_nom,chef_lieu,region_id,region_code,region_nom,latitude,longitude,cle_normalisee
+1,TG-S-CINKASSE,Cinkassé,Cinkassé,1,TG-S,Savanes,,,CINKASSE
+2,TG-S-KPENDJAL,Kpendjal,Mandouri,1,TG-S,Savanes,,,KPENDJAL
+3,TG-S-KPENDJAL_OUEST,Kpendjal-Ouest,Naki-Est,1,TG-S,Savanes,,,KPENDJAL OUEST
+4,TG-S-OTI,Oti,Mango,1,TG-S,Savanes,,,OTI
+5,TG-S-OTI_SUD,Oti-Sud,Gando,1,TG-S,Savanes,,,OTI SUD
+6,TG-S-TANDJOUARE,Tandjouaré,Tandjouaré,1,TG-S,Savanes,,,TANDJOUARE
+7,TG-S-TONE,Tône,Dapaong,1,TG-S,Savanes,,,TONE
+8,TG-K-ASSOLI,Assoli,Bafilo,2,TG-K,Kara,,,ASSOLI
+9,TG-K-BASSAR,Bassar,Bassar,2,TG-K,Kara,,,BASSAR
+10,TG-K-BINAH,Binah,Pagouda,2,TG-K,Kara,,,BINAH
+11,TG-K-DANKPEN,Dankpen,Gérin-kouka,2,TG-K,Kara,,,DANKPEN
+12,TG-K-DOUFELGOU,Doufelgou,Niamtougou,2,TG-K,Kara,,,DOUFELGOU
+13,TG-K-KERAN,Kéran,Kanté,2,TG-K,Kara,,,KERAN
+14,TG-K-KOZAH,Kozah,Kara,2,TG-K,Kara,,,KOZAH
+15,TG-C-BLITTA,Blitta,Blitta,3,TG-C,Centrale,,,BLITTA
+16,TG-C-SOTOUBOUA,Sotouboua,Sotouboua,3,TG-C,Centrale,,,SOTOUBOUA
+17,TG-C-TCHAMBA,Tchamba,Tchamba,3,TG-C,Centrale,,,TCHAMBA
+18,TG-C-TCHAOUDJO,Tchaoudjo,Sokodé,3,TG-C,Centrale,,,TCHAOUDJO
+19,TG-C-MO,Mô,Djarkpanga,3,TG-C,Centrale,,,MO
+20,TG-P-AGOU,Agou,Agou-Gadzépé,4,TG-P,Plateaux,,,AGOU
+21,TG-P-AKEBOU,Akébou,Kougnohou,4,TG-P,Plateaux,,,AKEBOU
+22,TG-P-AMOU,Amou,Amlamé,4,TG-P,Plateaux,,,AMOU
+23,TG-P-ANIE,Anié,Anié,4,TG-P,Plateaux,,,ANIE
+24,TG-P-DANYI,Danyi,Danyi-Apéyémé,4,TG-P,Plateaux,,,DANYI
+25,TG-P-EST_MONO,Est-Mono,Elavagnon,4,TG-P,Plateaux,,,EST MONO
+26,TG-P-HAHO,Haho,Notsè,4,TG-P,Plateaux,,,HAHO
+27,TG-P-KLOTO,Kloto,Kpalimé,4,TG-P,Plateaux,,,KLOTO
+28,TG-P-KPELE,Kpélé,Adéta,4,TG-P,Plateaux,,,KPELE
+29,TG-P-MOYEN_MONO,Moyen-Mono,Tohoun,4,TG-P,Plateaux,,,MOYEN MONO
+30,TG-P-OGOU,Ogou,Atakpamé,4,TG-P,Plateaux,,,OGOU
+31,TG-P-WAWA,Wawa,Badou,4,TG-P,Plateaux,,,WAWA
+32,TG-M-AGOUE_NYIVE,Agouè-Nyivé,Agouè-Nyivé,5,TG-M,Maritime,,,AGOUE NYIVE
+33,TG-M-AVE,Avé,Kévé,5,TG-M,Maritime,,,AVE
+34,TG-M-BAS_MONO,Bas-Mono,Afagnan,5,TG-M,Maritime,,,BAS MONO
+35,TG-M-GOLFE,Golfe,Lomé,5,TG-M,Maritime,,,GOLFE
+36,TG-M-LACS,Lacs,Aného,5,TG-M,Maritime,,,LACS
+37,TG-M-VO,Vo,Vogan,5,TG-M,Maritime,,,VO
+38,TG-M-YOTO,Yoto,Tabligbo,5,TG-M,Maritime,,,YOTO
+39,TG-M-ZIO,Zio,Tsévié,5,TG-M,Maritime,,,ZIO

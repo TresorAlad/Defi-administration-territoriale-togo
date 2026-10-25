@@ -1,0 +1,8 @@
+{
+  "prefectures": 39,
+  "communes": 117,
+  "regions": 5,
+  "mapping_lignes": 140,
+  "source": "https://raw.githubusercontent.com/gausoft/Subdivision_administrative_Togo/main/data/csv",
+  "note": "117 communes / 39 prefectures / 5 regions (communalisation 2019)"
+}

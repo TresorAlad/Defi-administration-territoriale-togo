@@ -1,0 +1,3 @@
+Name,Resource type,Type,Status
+pl_copy_world_bank_bronze,Pipeline,Pipeline,Ready
+Copy_88q,Activity,Copy,Ready

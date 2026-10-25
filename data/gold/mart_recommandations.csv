@@ -1,0 +1,40 @@
+rang_priorite,score_priorite,prefecture_nom,region_nom,population_2022,taux_acces_electricite_pct,nb_agences_ceet,nb_agences_tde,habitants_par_agence,variation_pct,recommandation
+1,56.6,Est-Mono,Plateaux,164460,5.26,0,1,164460.0,35.04,"Renforcer l'acces a l'electricite (extension reseau BT, subventions branchements). Densifier les agences de services publics (ratio habitants/agence au-dessus du median national). Anticiper la demande : croissance demographique rapide 2010-2022 et acces encore faible."
+2,55.8,Dankpen,Kara,185662,6.26,0,1,185662.0,42.03,"Renforcer l'acces a l'electricite (extension reseau BT, subventions branchements). Densifier les agences de services publics (ratio habitants/agence au-dessus du median national). Anticiper la demande : croissance demographique rapide 2010-2022 et acces encore faible."
+3,54.3,Kpendjal-Ouest,Savanes,123330,1.86,0,0,,,"Renforcer l'acces a l'electricite (extension reseau BT, subventions branchements). Ouvrir au moins une agence CEET ou TdE (forte population, zero point de contact)."
+4,53.9,Tandjouaré,Savanes,138867,2.29,0,0,,17.71,"Renforcer l'acces a l'electricite (extension reseau BT, subventions branchements). Ouvrir au moins une agence CEET ou TdE (forte population, zero point de contact)."
+5,48.3,Kpélé,Plateaux,80939,9.31,0,0,,7.14,"Renforcer l'acces a l'electricite (extension reseau BT, subventions branchements). Ouvrir au moins une agence CEET ou TdE (forte population, zero point de contact)."
+6,40.0,Tône,Savanes,388775,33.45,0,1,388775.0,35.92,Densifier les agences de services publics (ratio habitants/agence au-dessus du median national). Anticiper la demande : croissance demographique rapide 2010-2022 et acces encore faible.
+7,35.4,Blitta,Centrale,163272,13.01,0,1,163272.0,18.61,"Renforcer l'acces a l'electricite (extension reseau BT, subventions branchements). Densifier les agences de services publics (ratio habitants/agence au-dessus du median national)."
+8,35.0,Bas-Mono,Maritime,94860,50.68,0,0,,6.77,"Ouvrir au moins une agence CEET ou TdE (forte population, zero point de contact)."
+8,35.0,Agouè-Nyivé,Maritime,882695,95.63,0,0,,,"Ouvrir au moins une agence CEET ou TdE (forte population, zero point de contact)."
+10,28.1,Kéran,Kara,128687,9.54,1,1,64343.5,36.81,"Renforcer l'acces a l'electricite (extension reseau BT, subventions branchements). Anticiper la demande : croissance demographique rapide 2010-2022 et acces encore faible."
+11,26.8,Oti-Sud,Savanes,150376,23.73,0,1,150376.0,,"Renforcer l'acces a l'electricite (extension reseau BT, subventions branchements). Densifier les agences de services publics (ratio habitants/agence au-dessus du median national)."
+12,25.0,Anié,Plateaux,180158,41.35,0,1,180158.0,44.21,Densifier les agences de services publics (ratio habitants/agence au-dessus du median national).
+13,19.3,Kpendjal,Savanes,88365,1.86,1,0,88365.0,-43.02,"Renforcer l'acces a l'electricite (extension reseau BT, subventions branchements)."
+14,17.8,Akébou,Plateaux,73830,3.74,0,0,,18.61,"Renforcer l'acces a l'electricite (extension reseau BT, subventions branchements)."
+15,15.0,Bassar,Kara,152065,36.37,1,2,50688.333333333336,27.02,Anticiper la demande : croissance demographique rapide 2010-2022 et acces encore faible.
+15,15.0,Assoli,Kara,66394,30.77,1,1,33197.0,28.94,Anticiper la demande : croissance demographique rapide 2010-2022 et acces encore faible.
+15,15.0,Tchamba,Centrale,200585,34.45,1,2,66861.66666666667,52.33,Anticiper la demande : croissance demographique rapide 2010-2022 et acces encore faible.
+18,10.4,Wawa,Plateaux,101300,12.98,1,1,50650.0,0.32,"Renforcer l'acces a l'electricite (extension reseau BT, subventions branchements)."
+19,5.8,Moyen-Mono,Plateaux,90505,18.68,0,1,90505.0,17.1,"Renforcer l'acces a l'electricite (extension reseau BT, subventions branchements)."
+19,5.8,Haho,Plateaux,305096,18.68,1,2,101698.66666666667,22.94,"Renforcer l'acces a l'electricite (extension reseau BT, subventions branchements)."
+21,5.5,Amou,Plateaux,114172,19.11,1,2,38057.333333333336,8.64,"Renforcer l'acces a l'electricite (extension reseau BT, subventions branchements)."
+22,4.3,Binah,Kara,84199,20.63,1,2,28066.333333333332,20.19,"Renforcer l'acces a l'electricite (extension reseau BT, subventions branchements)."
+22,4.3,Agou,Plateaux,85793,20.55,0,1,85793.0,1.06,"Renforcer l'acces a l'electricite (extension reseau BT, subventions branchements)."
+24,2.9,Danyi,Plateaux,40240,22.32,0,1,40240.0,3.87,"Renforcer l'acces a l'electricite (extension reseau BT, subventions branchements)."
+25,1.8,Oti,Savanes,124848,23.73,1,1,62424.0,-34.48,"Renforcer l'acces a l'electricite (extension reseau BT, subventions branchements)."
+26,0.0,Golfe,Maritime,1305681,98.55,8,10,72537.83333333333,78.39,Maintenir le niveau de service et partager les bonnes pratiques avec les territoires en retard.
+26,0.0,Zio,Maritime,500032,106.84,1,3,125008.0,67.81,Maintenir le niveau de service et partager les bonnes pratiques avec les territoires en retard.
+26,0.0,Ogou,Plateaux,253467,41.35,1,1,126733.5,29.01,Maintenir le niveau de service et partager les bonnes pratiques avec les territoires en retard.
+26,0.0,Kozah,Kara,283738,76.57,1,3,70934.5,25.96,Maintenir le niveau de service et partager les bonnes pratiques avec les territoires en retard.
+26,0.0,Lacs,Maritime,241247,50.68,1,1,120623.5,40.14,Maintenir le niveau de service et partager les bonnes pratiques avec les territoires en retard.
+26,0.0,Tchaoudjo,Centrale,240360,64.95,1,2,80120.0,26.43,Maintenir le niveau de service et partager les bonnes pratiques avec les territoires en retard.
+26,0.0,Cinkassé,Savanes,128959,49.33,1,0,128959.0,64.09,Maintenir le niveau de service et partager les bonnes pratiques avec les territoires en retard.
+26,0.0,Sotouboua,Centrale,138864,25.97,1,2,46288.0,14.75,Maintenir le niveau de service et partager les bonnes pratiques avec les territoires en retard.
+26,0.0,Kloto,Plateaux,145986,86.25,2,2,36496.5,4.99,Maintenir le niveau de service et partager les bonnes pratiques avec les territoires en retard.
+26,0.0,Yoto,Maritime,174851,62.4,1,1,87425.5,5.59,Maintenir le niveau de service et partager les bonnes pratiques avec les territoires en retard.
+26,0.0,Vo,Maritime,224411,37.58,1,1,112205.5,6.82,Maintenir le niveau de service et partager les bonnes pratiques avec les territoires en retard.
+26,0.0,Avé,Maritime,111214,32.57,1,2,37071.333333333336,18.55,Maintenir le niveau de service et partager les bonnes pratiques avec les territoires en retard.
+26,0.0,Doufelgou,Kara,84767,29.93,1,1,42383.5,7.8,Maintenir le niveau de service et partager les bonnes pratiques avec les territoires en retard.
+26,0.0,Mô,Centrale,52448,25.97,0,2,26224.0,,Maintenir le niveau de service et partager les bonnes pratiques avec les territoires en retard.

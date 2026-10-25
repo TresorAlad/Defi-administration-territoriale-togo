@@ -1,0 +1,82 @@
+{
+  "source": "/home/tresor/Administration defis/ingestion",
+  "destination": "/home/tresor/Administration defis/ingestion/clean",
+  "fichiers": {
+    "schema-ceet.csv": {
+      "lignes": 204,
+      "actions": [
+        "trim",
+        "colonnes snake_case"
+      ]
+    },
+    "schema-togolaise-des-eaux-tde.csv": {
+      "lignes": 204,
+      "actions": [
+        "trim",
+        "colonnes snake_case"
+      ]
+    },
+    "agences-ceet.csv": {
+      "lignes": 34,
+      "placeholders_vides": 50,
+      "actions": [
+        "trim espaces",
+        "Nsp/N/a/Néant -> vide",
+        "accolades {..} -> liste separee par ;",
+        "colonnes renommees (lisibles)"
+      ]
+    },
+    "agences-tde.csv": {
+      "lignes": 59,
+      "placeholders_vides": 59,
+      "actions": [
+        "trim espaces",
+        "Nsp/N/a/Néant -> vide",
+        "accolades {..} -> liste separee par ;",
+        "colonnes renommees (lisibles)"
+      ]
+    },
+    "observation-documents-identite.csv": {
+      "lignes": 33,
+      "actions": [
+        "2021 flague annee_incomplete (Passeports seulement a la source)",
+        "apostrophes normalisees"
+      ]
+    },
+    "observation-population-decoupage.csv": {
+      "lignes": 759,
+      "doublons_desambiguisés": 14,
+      "actions": [
+        "13 cles en double -> suffixe (occurrence N) + colonne niveau_decoupage",
+        "conserve decoupage_source et ligne_source pour tracabilite"
+      ]
+    },
+    "observation-acces-electricite.csv": {
+      "lignes": 282,
+      "actions": [
+        "trim",
+        "colonnes harmonisees"
+      ]
+    },
+    "observation-population-hierarchie-2010.csv": {
+      "lignes": 555,
+      "actions": [
+        "Unit vide rempli par Nombre",
+        "indicateurs -> indicateur"
+      ]
+    },
+    "observation-enregistrement-etat-civil.csv": {
+      "lignes": 184,
+      "actions": [
+        "Tota -> Total",
+        "espaces multiples reduits dans indicateur"
+      ]
+    },
+    "adf-togo-data-pipeli_migration_analysis.csv": {
+      "lignes": 2,
+      "actions": [
+        "copie sans transformation"
+      ]
+    }
+  }
+}
