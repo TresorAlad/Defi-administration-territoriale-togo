@@ -1,0 +1,4 @@
+pandas>=2.2
+pyarrow>=17.0
+streamlit>=1.39
+plotly>=5.24

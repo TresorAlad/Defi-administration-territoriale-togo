@@ -16,15 +16,32 @@ Dépôt : [github.com/TresorAlad/Defi-administration-territoriale-togo](https://
 ## Commandes
 
 ```bash
+pip install -r requirements.txt
+
 # Silver (bronze -> silver)
-python data/bronze/clean_data.py
+python3 data/bronze/clean_data.py
 
 # Gold (silver -> gold)
-python -m pipeline.gold.build
+python3 -m pipeline.gold.build
 
-# Dashboard
+# Dashboard (depuis la racine du depot)
 streamlit run dashboard/app.py
 ```
+
+## Deploiement Streamlit Community Cloud
+
+1. Pousser le code sur GitHub (branche `main`).
+2. Aller sur [share.streamlit.io](https://share.streamlit.io/), se connecter avec GitHub.
+3. **New app** : repository `TresorAlad/Defi-administration-territoriale-togo`.
+4. **Main file path** : `dashboard/app.py`
+5. **Branch** : `main` puis **Deploy**.
+
+**GitHub URL (deploy manuel)** :  
+`https://github.com/TresorAlad/Defi-administration-territoriale-togo/blob/main/dashboard/app.py`
+
+Dependances : uniquement `requirements.txt` (pas de `pyproject.toml`, sinon erreur Poetry sur Cloud).
+
+Apres un push : **Manage app → Reboot app**.
 
 ## Livrables concours (Badge Or)
 
