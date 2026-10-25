@@ -17,11 +17,13 @@
 
 ```bash
 cd dashboard
-streamlit run app.py
+streamlit run Accueil.py
 ```
 
 Les couleurs des graphiques passent par `px_defaults()` et `style_figure()`.
 
-## Narration
+## Narration et filtres
 
 Les textes pédagogiques sont centralisés dans `narratives.py` et affichés via `render_section()` avant chaque visuel.
+
+Filtres partagés : `filters.py` (région sur Démographie, Services, Recommandations ; années et types de documents sur État civil).

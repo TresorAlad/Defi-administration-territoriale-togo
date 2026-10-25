@@ -1,6 +1,7 @@
 import plotly.express as px
 import streamlit as st
 
+from filters import select_region
 from lib_gold import load_gold, require_gold
 import narratives as nav
 from togo_theme import apply_togo_theme, px_defaults, render_hero, render_section, style_figure
@@ -14,27 +15,34 @@ if not require_gold():
 render_section("Objectif", nav.RECO_INTRO)
 
 reco = load_gold("mart_recommandations.csv")
+mart = load_gold("mart_profil_prefecture.csv")
+
+region, _ = select_region(mart, key="reco_region")
+reco_view = reco if region == "Toutes" else reco[reco["region_nom"] == region]
 
 title, body = nav.RECO_CHART
 render_section(title, body)
-st.plotly_chart(
-    style_figure(
-        px.bar(
-            reco.head(15),
-            x="score_priorite",
-            y="prefecture_nom",
-            orientation="h",
-            color="region_nom",
-            labels={"score_priorite": "Score", "prefecture_nom": "Préfecture"},
-            **px_defaults(),
-        )
-    ),
-    use_container_width=True,
-)
+if reco_view.empty:
+    st.info("Aucune recommandation pour cette région.")
+else:
+    st.plotly_chart(
+        style_figure(
+            px.bar(
+                reco_view.head(15),
+                x="score_priorite",
+                y="prefecture_nom",
+                orientation="h",
+                color="region_nom",
+                labels={"score_priorite": "Score", "prefecture_nom": "Préfecture"},
+                **px_defaults(),
+            )
+        ),
+        use_container_width=True,
+    )
 
 title, body = nav.RECO_FICHES
 render_section(title, body)
-for _, row in reco.head(10).iterrows():
+for _, row in reco_view.head(10).iterrows():
     with st.expander(f"{int(row['rang_priorite'])}. {row['prefecture_nom']} — score {row['score_priorite']}"):
         st.write(row["recommandation"])
         st.write(
@@ -54,3 +62,5 @@ st.markdown(
 5. Rééquilibrer les efforts entre le grand Lomé et l'intérieur du pays.
 """
 )
+
+render_section(*nav.CONCLUSIONS_CLE)

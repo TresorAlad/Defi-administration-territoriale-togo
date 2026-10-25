@@ -58,3 +58,5 @@ fig = px.bar(
     **px_defaults(),
 )
 st.plotly_chart(style_figure(fig), use_container_width=True)
+
+render_section(*nav.CONCLUSIONS_CLE)

@@ -3,6 +3,7 @@ import re
 import plotly.express as px
 import streamlit as st
 
+from filters import select_region
 from lib_gold import load_gold, require_gold
 import narratives as nav
 from togo_theme import apply_togo_theme, px_defaults, render_hero, render_section, style_figure
@@ -18,6 +19,8 @@ render_section("Objectif", nav.SERVICES_INTRO)
 mart = load_gold("mart_profil_prefecture.csv")
 agences = load_gold("fact_agence.csv")
 
+region, filtered = select_region(mart, key="services_region")
+
 
 def parse_point(wkt: str) -> tuple[float | None, float | None]:
     if not isinstance(wkt, str):
@@ -30,13 +33,19 @@ def parse_point(wkt: str) -> tuple[float | None, float | None]:
 
 if not agences.empty and "geometry_wkt" in agences.columns:
     coords = agences["geometry_wkt"].map(parse_point)
+    agences = agences.copy()
     agences["lon"] = coords.map(lambda x: x[0])
     agences["lat"] = coords.map(lambda x: x[1])
     agences = agences.dropna(subset=["lat", "lon"])
 
+if region != "Toutes" and "region" in agences.columns:
+    agences_view = agences[agences["region"].str.upper() == region.upper()]
+else:
+    agences_view = agences
+
 title, body = nav.SERVICES_ELEC
 render_section(title, body)
-elec = mart.dropna(subset=["taux_acces_electricite_pct"]).sort_values("taux_acces_electricite_pct")
+elec = filtered.dropna(subset=["taux_acces_electricite_pct"]).sort_values("taux_acces_electricite_pct")
 st.plotly_chart(
     style_figure(
         px.bar(
@@ -54,7 +63,7 @@ st.plotly_chart(
 
 title, body = nav.SERVICES_AGENCES
 render_section(title, body)
-hpa = mart[mart["habitants_par_agence"].notna()].sort_values("habitants_par_agence", ascending=False)
+hpa = filtered[filtered["habitants_par_agence"].notna()].sort_values("habitants_par_agence", ascending=False)
 st.plotly_chart(
     style_figure(
         px.bar(
@@ -71,17 +80,17 @@ st.plotly_chart(
 
 title, body = nav.SERVICES_MAP
 render_section(title, body)
-if agences.empty:
-    st.warning("Géométrie indisponible.")
+if agences_view.empty:
+    st.warning("Aucune agence pour ce filtre ou géométrie indisponible.")
 else:
-    st.map(agences[["lat", "lon"]], size=20, color="#006A4E")
+    st.map(agences_view[["lat", "lon"]], size=20, color="#006A4E")
     st.dataframe(
-        agences[["operateur", "etablissement", "prefecture", "commune", "statut_activite"]].head(50),
+        agences_view[["operateur", "etablissement", "prefecture", "commune", "statut_activite"]].head(50),
         use_container_width=True,
         hide_index=True,
     )
 
-zero_agence = mart[(mart["nb_agences_total"] == 0) & (mart["population_2022"] > 50000)]
+zero_agence = filtered[(filtered["nb_agences_total"] == 0) & (filtered["population_2022"] > 50000)]
 if not zero_agence.empty:
     st.warning(
         "Préfectures de plus de 50 000 habitants sans agence recensée : "

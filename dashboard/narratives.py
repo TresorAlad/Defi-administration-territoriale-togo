@@ -28,17 +28,24 @@ DEMO_POP_BARS = (
     "Utilisez le filtre Région pour zoomer sur une zone.",
 )
 
-DEMO_SCATTER = (
-    "Poids national et effectif",
-    "Ce graphique croise la part du Togo (en %) et la population absolue. "
-    "Il permet de repérer les préfectures qui pèsent fortement dans le total national.",
+DEMO_POIDS = (
+    "Préfectures les plus pesantes dans le pays",
+    "Part de la population nationale (2022) pour les territoires qui concentrent le plus d'habitants. "
+    "Complète le graphique précédent en mettant en évidence le déséquilibre Littoral / intérieur. "
+    "Le filtre Région s'applique à toute la page.",
 )
 
 DEMO_EVOL = (
     "Évolution 2010-2022",
-    "Comparaison des effectifs lorsque le nom administratif est le même en 2010 et en 2022. "
-    "Les préfectures non comparables (changement de découpage) sont exclues du tableau. "
-    "Une hausse marquée traduit une pression accrue sur les services publics.",
+    "Comparaison lorsque le libellé administratif est identique en 2010 et en 2022. "
+    "Les préfectures non comparables (changement de découpage) sont exclues. "
+    "Le graphique met en avant les plus fortes hausses ; le tableau détaille l'ensemble.",
+)
+
+DEMO_EVOL_CHART = (
+    "Pression démographique (croissance comparables)",
+    "Variation en pourcentage sur les préfectures comparables. "
+    "Une croissance rapide avec un accès aux services encore faible renforce la priorité d'action.",
 )
 
 DEMO_COMMUNES = (
@@ -49,8 +56,8 @@ DEMO_COMMUNES = (
 
 SERVICES_INTRO = (
     "L'électricité et la proximité des agences CEET (énergie) et TdE (eau) illustrent "
-    "concrètement la présence de l'État. Nous croisons ici le taux d'accès par préfecture, "
-    "la charge par agence (habitants par point de service) et la cartographie des guichets."
+    "concrètement la présence de l'État. Filtrez par région pour comparer des zones homogènes : "
+    "taux d'accès, charge par agence et carte des guichets se mettent à jour."
 )
 
 SERVICES_ELEC = (
@@ -93,7 +100,21 @@ ETAT_IDENTITE = (
 RECO_INTRO = (
     "Les recommandations s'appuient sur un score calculé en gold : faible accès à l'électricité, "
     "peu d'agences, croissance démographique 2010-2022. "
-    "Plus le score est élevé, plus la préfecture mérite une action ciblée."
+    "Utilisez le filtre Région pour isoler les priorités d'une zone ; les fiches dépliables détaillent chaque territoire."
+)
+
+LIMITES_ANALYSE = (
+    "Limites et prudence de lecture",
+    "Homonymes RGPH gérés en silver ; évolution 2010-2022 partielle si le découpage a changé ; "
+    "série identité 2021 incomplète ; certains taux d'électricité source dépassent 100 % (définition statistique). "
+    "Les scores de priorité orientent l'action, ils ne remplacent pas une étude de terrain.",
+)
+
+CONCLUSIONS_CLE = (
+    "Trois enseignements",
+    "1) Le territoire est très inégal : communes et préfectures littoral vs intérieur. "
+    "2) L'accès électricité et guichets CEET/TdE reste disjoint de la densité de population. "
+    "3) Des actions ciblées par préfecture sont proposées dans mart_recommandations, alimentées par le pipeline reproductible.",
 )
 
 RECO_CHART = (
