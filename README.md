@@ -1,58 +1,82 @@
 # Défi administration territoriale - Togo
 
-Tableau de bord Python sur données ouvertes (recensement, électricité, état civil, identité, agences CEET/TdE).
+Tableau de bord **Streamlit** et pipeline de données sur sources ouvertes : recensement (RGPH), accès à l'électricité, agences **CEET** / **TdE**, état civil et documents d'identité.
 
-Dépôt : [github.com/TresorAlad/Defi-administration-territoriale-togo](https://github.com/TresorAlad/Defi-administration-territoriale-togo)
+**Dépôt :** [github.com/TresorAlad/Defi-administration-territoriale-togo](https://github.com/TresorAlad/Defi-administration-territoriale-togo)
 
-## Couches de donnees
+## Couches de données
 
-| Couche | Dossier | Role |
+| Couche | Dossier | Rôle |
 |--------|---------|------|
-| Bronze | `data/bronze/` | Exports bruts (CSV source) |
-| Silver | `data/silver/` | Nettoyage, harmonisation (`clean_data.py`) |
-| Ref | `data/ref/` | 39 prefectures, 117 communes, mapping libelles |
-| Gold | `data/gold/` | **Pret pour l'app** : `mart_profil_prefecture`, etc. |
+| Bronze | `data/bronze/` | Exports bruts (CSV sources) |
+| Silver | `data/silver/` | Nettoyage et harmonisation (`data/bronze/clean_data.py`) |
+| Ref | `data/ref/` | 39 préfectures, 117 communes, alias et mapping de libellés |
+| Gold | `data/gold/` | Marts analytiques prêts pour l'app (`mart_profil_prefecture`, recommandations, etc.) |
 
-## Commandes
+Schéma détaillé : [`docs/architecture.md`](docs/architecture.md).
+
+## Installation et commandes
+
+Depuis la racine du projet :
 
 ```bash
+python3 -m venv .venv
+source .venv/bin/activate   # Windows : .venv\Scripts\activate
 pip install -r requirements.txt
 
-# Silver (bronze -> silver)
+# Silver (bronze → silver)
 python3 data/bronze/clean_data.py
 
-# Gold (silver -> gold)
+# Gold (silver + ref → gold)
 python3 -m pipeline.gold.build
 
-# Dashboard (depuis la racine du depot)
+# Dashboard
 streamlit run dashboard/app.py
 ```
 
-## Deploiement Streamlit Community Cloud
+Le dashboard lit uniquement `data/gold/`. Sans couche gold, l'app affiche un message d'erreur avec les commandes à exécuter.
+
+## Déploiement Streamlit Community Cloud
 
 1. Pousser le code sur GitHub (branche `main`).
-2. Aller sur [share.streamlit.io](https://share.streamlit.io/), se connecter avec GitHub.
-3. **New app** : repository `TresorAlad/Defi-administration-territoriale-togo`.
-4. **Main file path** : `dashboard/app.py`
-5. **Branch** : `main` puis **Deploy**.
+2. Ouvrir [share.streamlit.io](https://share.streamlit.io/) et se connecter avec GitHub.
+3. **New app** : dépôt `TresorAlad/Defi-administration-territoriale-togo`.
+4. **Main file path :** `dashboard/app.py`
+5. **Branch :** `main`, puis **Deploy**.
 
-**GitHub URL (deploy manuel)** :  
-`https://github.com/TresorAlad/Defi-administration-territoriale-togo/blob/main/dashboard/app.py`
+**Fichier d'entrée (lien direct) :**  
+https://github.com/TresorAlad/Defi-administration-territoriale-togo/blob/main/dashboard/app.py
 
-Dependances : uniquement `requirements.txt` (pas de `pyproject.toml`, sinon erreur Poetry sur Cloud).
+**Dépendances :** uniquement `requirements.txt` à la racine (ne pas ajouter de `pyproject.toml`, sinon erreur Poetry sur Cloud).
 
-Apres un push : **Manage app → Reboot app**.
+Après chaque push : **Manage app → Reboot app**.
 
-## Livrables concours (Badge Or)
+## Livrables concours
+
+Les binaires (PDF, PowerPoint, zip) ne sont **pas versionnés** : les générer en local avant remise au jury.
 
 ```bash
 python3 -m pipeline.gold.build
-cd dashboard && streamlit run app.py
-python3 reports/generate_pdf.py           # pip install -r reports/requirements-report.txt
-python3 reports/generate_pptx.py
-bash scripts/package_livrable.sh          # dist/livrable_dashboard.zip
+
+# Dashboard (test des 5 écrans)
+streamlit run dashboard/app.py
+
+# Rapports écrits et oral (deps supplémentaires)
+pip install -r reports/requirements-report.txt
+python3 reports/generate_pdf.py      # → reports/rapport_jury.pdf
+python3 reports/generate_pptx.py     # → reports/rapport_jury.pptx (graphiques Plotly)
+
+# Archive légère dashboard + gold pour le jury
+bash scripts/package_livrable.sh     # → dist/livrable_dashboard.zip
 ```
 
-Voir `docs/architecture.md` pour le detail des tables gold et des ecrans.
+Documentation des rapports : [`reports/README.md`](reports/README.md).
 
-Les rapports PDF/PPT et le zip livrable ne sont pas versionnes : les generer localement avant depot concours.
+## Structure utile
+
+| Élément | Chemin |
+|---------|--------|
+| App Streamlit | `dashboard/app.py`, pages `dashboard/pages/` |
+| Charte graphique | `dashboard/CHARTE_GRAPHIQUE.md`, `dashboard/togo_theme.py` |
+| Pipeline gold | `pipeline/gold/build.py` |
+| Rapports jury | `reports/generate_pdf.py`, `reports/generate_pptx.py` |
