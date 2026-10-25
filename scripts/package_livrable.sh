@@ -24,7 +24,7 @@ cat > "$WORKDIR/LIREMOI.md" <<'EOF'
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
-streamlit run dashboard/app.py
+streamlit run dashboard/Accueil.py
 ```
 
 Le dossier `data/gold/` contient les marts pré-calculés (39 préfectures, recommandations, inégalités).

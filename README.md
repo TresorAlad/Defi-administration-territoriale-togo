@@ -31,7 +31,7 @@ python3 data/bronze/clean_data.py
 python3 -m pipeline.gold.build
 
 # Dashboard
-streamlit run dashboard/app.py
+streamlit run dashboard/Accueil.py
 ```
 
 Le dashboard lit uniquement `data/gold/`. Sans couche gold, l'app affiche un message d'erreur avec les commandes à exécuter.
@@ -44,7 +44,7 @@ Les binaires (PDF, PowerPoint, zip) ne sont **pas versionnés** : les générer 
 python3 -m pipeline.gold.build
 
 # Dashboard (test des 5 écrans)
-streamlit run dashboard/app.py
+streamlit run dashboard/Accueil.py
 
 # Rapports écrits et oral (deps supplémentaires)
 pip install -r reports/requirements-report.txt
@@ -61,7 +61,7 @@ Documentation des rapports : [`reports/README.md`](reports/README.md).
 
 | Élément | Chemin |
 |---------|--------|
-| App Streamlit | `dashboard/app.py`, pages `dashboard/pages/` |
+| Accueil Streamlit | `dashboard/Accueil.py`, pages `dashboard/pages/` |
 | Charte graphique | `dashboard/CHARTE_GRAPHIQUE.md`, `dashboard/togo_theme.py` |
 | Pipeline gold | `pipeline/gold/build.py` |
 | Rapports (PDF / PPT) | `reports/generate_pdf.py`, `reports/generate_pptx.py` |
