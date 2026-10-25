@@ -1,5 +1,7 @@
 """Filtres territoriaux partages (Streamlit)."""
 
+import bootstrap  # noqa: F401
+
 from __future__ import annotations
 
 import pandas as pd

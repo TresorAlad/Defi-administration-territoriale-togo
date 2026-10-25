@@ -1,5 +1,7 @@
 """Chargement de la couche gold pour Streamlit."""
 
+import bootstrap  # noqa: F401
+
 from pathlib import Path
 
 import pandas as pd

@@ -1,4 +1,7 @@
-"""Textes explicatifs du dashboard (français, sans markdown brut)."""
+"""Textes explicatifs du dashboard (français, sans markdown brut).
+
+Version narratives : 2025-10-25 (DEMO_POIDS, LIMITES_ANALYSE, CONCLUSIONS_CLE).
+"""
 
 HOME_INTRO = (
     "Ce tableau de bord répond à une question simple : où vivent les Togolais, "
@@ -132,3 +135,5 @@ RECO_PLAN = (
     "Orientations nationales",
     "Synthèse pour décideurs : complète les fiches locales sans les remplacer.",
 )
+
+DEMO_SCATTER = DEMO_POIDS
