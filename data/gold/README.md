@@ -14,7 +14,7 @@ Sources : `data/silver/` + `data/ref/`.
 |---------|-----------|
 | `mart_profil_prefecture.csv` | 1 ligne / prefecture : pop, poids %, electricite, agences |
 | `mart_profil_commune.csv` | 1 ligne / commune |
-| `mart_inegalites.csv` | KPIs concours (ratio communes, Grand Lome, etc.) |
+| `mart_inegalites.csv` | KPIs synthèse (ratio communes, Grand Lomé, etc.) |
 | `mart_synthese_nationale.csv` | Bandeau accueil |
 | `dim_territoire.csv` | Annuaire region / prefecture / commune (161 lignes) |
 

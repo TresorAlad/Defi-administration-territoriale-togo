@@ -1,4 +1,4 @@
-"""Mise en page PowerPoint jury (charte Togo, 16:9)."""
+"""Mise en page PowerPoint du défi (charte Togo, 16:9)."""
 
 from __future__ import annotations
 
@@ -126,7 +126,7 @@ def slide_cover(prs: Presentation, title: str, subtitle: str, tagline: str) -> N
         color=TOGO_INK,
         align=PP_ALIGN.CENTER,
     )
-    add_footer(slide, "Data Challenge Togo · Pipeline Bronze → Gold · Dashboard Streamlit", 1)
+    add_footer(slide, "Défi administration territoriale · Pipeline Bronze → Gold · Dashboard Streamlit", 1)
 
 
 def slide_kpi_context(
@@ -325,4 +325,4 @@ def slide_conclusion(prs: Presentation, bullets: list[str], slide_no: int) -> No
         color=TOGO_MUTED,
         align=PP_ALIGN.CENTER,
     )
-    add_footer(slide, "Merci · Questions du jury", slide_no)
+    add_footer(slide, "Merci · Questions et échanges", slide_no)

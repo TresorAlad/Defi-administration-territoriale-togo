@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Genere le rapport jury PDF (10 pages) depuis data/gold/."""
+"""Genere le rapport PDF du defi (10 pages) depuis data/gold/."""
 
 from __future__ import annotations
 
@@ -168,7 +168,7 @@ def main() -> None:
     story.append(Paragraph("Territoires et inégalités d'accès au Togo", styles["title"]))
     story.append(
         Paragraph(
-            "Data Challenge - Profils territoriaux, pipeline de données et recommandations",
+            "Défi administration territoriale - Profils territoriaux, pipeline de données et recommandations",
             styles["subtitle"],
         )
     )

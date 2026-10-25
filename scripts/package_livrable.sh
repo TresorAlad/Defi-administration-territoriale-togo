@@ -15,24 +15,23 @@ cp "$ROOT/data/ref/alias_open_data.csv" "$WORKDIR/data/ref/"
 cp "$ROOT/requirements.txt" "$WORKDIR/"
 cp "$ROOT/README.md" "$WORKDIR/"
 
-cat > "$WORKDIR/LIREMOI_JURY.md" <<'EOF'
-# Livrable Data Challenge - Togo Territoires
+cat > "$WORKDIR/LIREMOI.md" <<'EOF'
+# Défi administration territoriale - Togo
 
 ## Lancer le dashboard
 
 ```bash
 python3 -m venv .venv
 source .venv/bin/activate
-pip install pandas streamlit plotly
-cd dashboard
-streamlit run app.py
+pip install -r requirements.txt
+streamlit run dashboard/app.py
 ```
 
-Le dossier `data/gold/` contient les marts pre-calcules (39 prefectures, recommandations, inegalites).
+Le dossier `data/gold/` contient les marts pré-calculés (39 préfectures, recommandations, inégalités).
 
-## Regenerer le gold (optionnel)
+## Régénérer le gold (optionnel)
 
-Depot complet requis : bronze, silver, ref, pipeline.
+Dépôt complet requis : bronze, silver, ref, pipeline.
 EOF
 
 mkdir -p "$DIST"

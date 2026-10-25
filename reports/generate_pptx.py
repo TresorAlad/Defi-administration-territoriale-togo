@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Genere le PowerPoint jury (10 slides, charte Togo + graphiques dashboard)."""
+"""Genere le PowerPoint du defi (10 slides, charte Togo + graphiques dashboard)."""
 
 from __future__ import annotations
 
@@ -88,7 +88,7 @@ def main() -> None:
     slide_cover(
         prs,
         "Territoires et inégalités d'accès au Togo",
-        "Data Challenge · Administration territoriale",
+        "Défi administration territoriale · Togo",
         "Données ouvertes consolidées (recensement, électricité, CEET/TdE, état civil, identité) "
         "pour piloter l'action publique au plus près des 117 communes.",
     )

@@ -36,9 +36,9 @@ streamlit run dashboard/app.py
 
 Le dashboard lit uniquement `data/gold/`. Sans couche gold, l'app affiche un message d'erreur avec les commandes à exécuter.
 
-## Livrables concours
+## Livrables du défi
 
-Les binaires (PDF, PowerPoint, zip) ne sont **pas versionnés** : les générer en local avant remise au jury.
+Les binaires (PDF, PowerPoint, zip) ne sont **pas versionnés** : les générer en local avant remise ou présentation.
 
 ```bash
 python3 -m pipeline.gold.build
@@ -51,7 +51,7 @@ pip install -r reports/requirements-report.txt
 python3 reports/generate_pdf.py      # → reports/rapport_jury.pdf
 python3 reports/generate_pptx.py     # → reports/rapport_jury.pptx (graphiques Plotly)
 
-# Archive légère dashboard + gold pour le jury
+# Archive légère dashboard + gold
 bash scripts/package_livrable.sh     # → dist/livrable_dashboard.zip
 ```
 
@@ -64,4 +64,4 @@ Documentation des rapports : [`reports/README.md`](reports/README.md).
 | App Streamlit | `dashboard/app.py`, pages `dashboard/pages/` |
 | Charte graphique | `dashboard/CHARTE_GRAPHIQUE.md`, `dashboard/togo_theme.py` |
 | Pipeline gold | `pipeline/gold/build.py` |
-| Rapports jury | `reports/generate_pdf.py`, `reports/generate_pptx.py` |
+| Rapports (PDF / PPT) | `reports/generate_pdf.py`, `reports/generate_pptx.py` |
