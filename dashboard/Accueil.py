@@ -1,5 +1,7 @@
 """Tableau de bord - Administration des défis (couche gold)."""
 
+import bootstrap  # noqa: F401
+
 import plotly.express as px
 import streamlit as st
 

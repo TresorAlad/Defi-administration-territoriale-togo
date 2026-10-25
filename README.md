@@ -30,11 +30,11 @@ python3 data/bronze/clean_data.py
 # Gold (silver + ref → gold)
 python3 -m pipeline.gold.build
 
-# Dashboard (local)
+# Dashboard (local et Cloud)
 streamlit run dashboard/Accueil.py
-
-# Streamlit Cloud : Main file path = dashboard/app.py
 ```
+
+**Streamlit Cloud** : Settings → **Main file path** = `dashboard/Accueil.py` (pas `app.py`, pour afficher **Accueil** dans le menu).
 
 Le dashboard lit uniquement `data/gold/`. Sans couche gold, l'app affiche un message d'erreur avec les commandes à exécuter.
 
