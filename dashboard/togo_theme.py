@@ -140,16 +140,24 @@ def render_hero(title: str, subtitle: str = "") -> None:
     )
 
 
-def render_lead(text: str) -> None:
-    st.markdown(f'<p class="togo-lead">{html.escape(text)}</p>', unsafe_allow_html=True)
+def render_lead(text: str | tuple[str, ...]) -> None:
+    st.markdown(f'<p class="togo-lead">{html.escape(_as_text(text))}</p>', unsafe_allow_html=True)
 
 
-def render_section(title: str, body: str) -> None:
+def _as_text(value: str | tuple[str, ...]) -> str:
+    if isinstance(value, tuple):
+        return value[0] if len(value) == 1 else " ".join(str(part) for part in value)
+    return str(value)
+
+
+def render_section(title: str, body: str | tuple[str, ...]) -> None:
+    safe_title = html.escape(_as_text(title))
+    safe_body = html.escape(_as_text(body))
     st.markdown(
         f"""
 <div class="togo-section">
-  <h3>{html.escape(title)}</h3>
-  <p>{html.escape(body)}</p>
+  <h3>{safe_title}</h3>
+  <p>{safe_body}</p>
 </div>
         """,
         unsafe_allow_html=True,

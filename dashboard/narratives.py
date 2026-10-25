@@ -50,7 +50,7 @@ DEMO_COMMUNES = (
 SERVICES_INTRO = (
     "L'électricité et la proximité des agences CEET (énergie) et TdE (eau) illustrent "
     "concrètement la présence de l'État. Nous croisons ici le taux d'accès par préfecture, "
-    "la charge par agence (habitants par point de service) et la cartographie des guichets.",
+    "la charge par agence (habitants par point de service) et la cartographie des guichets."
 )
 
 SERVICES_ELEC = (
@@ -75,7 +75,7 @@ SERVICES_MAP = (
 ETAT_INTRO = (
     "L'état civil et les documents d'identité reflètent la capacité de l'administration "
     "à enregistrer les naissances et à délivrer CNI, passeports et cartes professionnelles. "
-    "La série 2021 est partielle sur certains types de documents : prudence de lecture.",
+    "La série 2021 est partielle sur certains types de documents : prudence de lecture."
 )
 
 ETAT_NAISSANCES = (
@@ -93,7 +93,7 @@ ETAT_IDENTITE = (
 RECO_INTRO = (
     "Les recommandations s'appuient sur un score calculé en gold : faible accès à l'électricité, "
     "peu d'agences, croissance démographique 2010-2022. "
-    "Plus le score est élevé, plus la préfecture mérite une action ciblée.",
+    "Plus le score est élevé, plus la préfecture mérite une action ciblée."
 )
 
 RECO_CHART = (
